@@ -1,0 +1,437 @@
+{
+  "source": "ubereats-bookmarklet",
+  "version": 1,
+  "savedAt": "2026-11-11T11:20:10.251Z",
+  "store": "Streat Burger (Parque Arauco)",
+  "url": "https://www.ubereats.com/cl/store/streat-burger-parque-arauco/uiSNqKaPS--_RZkiES_7ow",
+  "cardsSeen": 91,
+  "discounts": 4,
+  "items": [
+    {
+      "name": "West Burger Simple",
+      "full": 9590,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Golden Burger + Papas",
+      "full": 9490,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Classic Especial Burger + Papas",
+      "full": 10390,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "West Burger + Papas",
+      "full": 10790,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Bacon Burger + Papas",
+      "full": 9690,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Blue Burger + Papas",
+      "full": 10790,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Classic Burger + Papas",
+      "full": 8990,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Arma tu Mix",
+      "full": 17060,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Papas Crispy Grande",
+      "full": 3490,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Original Chicken + Papas",
+      "full": 10190,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Chicken Tenders 5 unidades + Papas",
+      "full": 10390,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Crunch Chicken + Papas",
+      "full": 10490,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Dúo Streat",
+      "full": 16980,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Chicken Tenders 5un",
+      "full": 8590,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Founder Burger + Papas",
+      "full": 8590,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Papas Crinkle Grande",
+      "full": 3490,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Bacon Burger Doble",
+      "full": 10390,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Cheese Burger + Papas",
+      "full": 7790,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Cookies  cream 476ml",
+      "full": 8990,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Special Burger Doble",
+      "full": 11090,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Chicken Tenders 3 unidades + Papas",
+      "full": 7790,
+      "offer": 0,
+      "section": "Tenders + Papas"
+    },
+    {
+      "name": "Veggie Classic + Papas",
+      "full": 8990,
+      "offer": 0,
+      "section": "Veggie Burger + Papas"
+    },
+    {
+      "name": "Veggie Founder + Papas",
+      "full": 8590,
+      "offer": 0,
+      "section": "Veggie Burger + Papas"
+    },
+    {
+      "name": "Veggie Golden + Papas",
+      "full": 9490,
+      "offer": 0,
+      "section": "Veggie Burger + Papas"
+    },
+    {
+      "name": "Combo 3xBurgers",
+      "full": 23470,
+      "offer": 0,
+      "section": "Para Compartir"
+    },
+    {
+      "name": "Chicken Pops",
+      "full": 4290,
+      "offer": 0,
+      "section": "Para Acompañar"
+    },
+    {
+      "name": "Chicken Tenders 3un",
+      "full": 5690,
+      "offer": 0,
+      "section": "Para Acompañar"
+    },
+    {
+      "name": "Papas Crinkle Chica",
+      "full": 2390,
+      "offer": 0,
+      "section": "Para Acompañar"
+    },
+    {
+      "name": "Papas Crispy Chica",
+      "full": 2390,
+      "offer": 0,
+      "section": "Para Acompañar"
+    },
+    {
+      "name": "Banana crumble 476ml",
+      "full": 8990,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Chocolate Streat 130 ml",
+      "full": 3390,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Chocolate Streat 476ml",
+      "full": 8990,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Cookies  cream 130ml",
+      "full": 3390,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Dulce de leche 476ml",
+      "full": 8990,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Manjar Chips 476ml",
+      "full": 8990,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Oreo New York Cheesecake 476ml",
+      "full": 8990,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Pack 2 Ice Cream 476ml",
+      "full": 17980,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Pistacho 476ml",
+      "full": 8990,
+      "offer": 0,
+      "section": "Postre"
+    },
+    {
+      "name": "Coca-Cola · Bebida refrescante sin azúcar (350 ml)",
+      "full": 5686,
+      "offer": 1990,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola · Bebida sabor original (350 ml)",
+      "full": 1990,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Fanta · Bebida sin azúcar - Naranja (350 ml)",
+      "full": 5686,
+      "offer": 1990,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Sprite · Bebida sin azúcar - Lima - Limón (350 ml)",
+      "full": 5686,
+      "offer": 1990,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Vital · Agua con gas (330 ml)",
+      "full": 6030,
+      "offer": 1990,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Vital · Agua natural sin gas (330 ml)",
+      "full": 1990,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Honey Mustard",
+      "full": 990,
+      "offer": 0,
+      "section": "Salsas"
+    },
+    {
+      "name": "Ketchup",
+      "full": 590,
+      "offer": 0,
+      "section": "Salsas"
+    },
+    {
+      "name": "Mayo jalapeño",
+      "full": 990,
+      "offer": 0,
+      "section": "Salsas"
+    },
+    {
+      "name": "Mostaza",
+      "full": 590,
+      "offer": 0,
+      "section": "Salsas"
+    },
+    {
+      "name": "Queso cheddar",
+      "full": 1590,
+      "offer": 0,
+      "section": "Salsas"
+    },
+    {
+      "name": "Queso tocino",
+      "full": 1790,
+      "offer": 0,
+      "section": "Salsas"
+    },
+    {
+      "name": "Salsa BBQ",
+      "full": 990,
+      "offer": 0,
+      "section": "Salsas"
+    },
+    {
+      "name": "Salsa Streat",
+      "full": 990,
+      "offer": 0,
+      "section": "Salsas"
+    },
+    {
+      "name": "Bacon Burger Simple",
+      "full": 8490,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Blue Burger Doble",
+      "full": 11090,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Blue Burger Simple",
+      "full": 9190,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Blue Burger Veggie",
+      "full": 9190,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Cheese Burger Doble",
+      "full": 8490,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Cheese Burger Simple",
+      "full": 6590,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Classic Burger Doble",
+      "full": 9690,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Classic Burger Simple",
+      "full": 7790,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Founder Burger Doble",
+      "full": 9290,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Founder Burger Simple",
+      "full": 7390,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Golden Burger Doble",
+      "full": 10190,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Golden Burger Simple",
+      "full": 8290,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Special Burger Simple",
+      "full": 9190,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "West Burger Doble",
+      "full": 11490,
+      "offer": 0,
+      "section": "Burger"
+    },
+    {
+      "name": "Classic Burger Veggie",
+      "full": 7790,
+      "offer": 0,
+      "section": "Veggie Burger"
+    },
+    {
+      "name": "Founder Burger Veggie",
+      "full": 7390,
+      "offer": 0,
+      "section": "Veggie Burger"
+    },
+    {
+      "name": "Golden Burger Veggie",
+      "full": 8290,
+      "offer": 0,
+      "section": "Veggie Burger"
+    },
+    {
+      "name": "Crunch Chicken Sandwich",
+      "full": 9290,
+      "offer": 0,
+      "section": "Sandwich Pollo"
+    },
+    {
+      "name": "Original Chicken Sandwich",
+      "full": 8890,
+      "offer": 0,
+      "section": "Sandwich Pollo"
+    }
+  ]
+}

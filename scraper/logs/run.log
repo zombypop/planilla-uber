@@ -1468,3 +1468,22 @@
 2026-11-11 10:34:35     row 1131 "Caja de Papas" -> "Caja de Papas" @ Tarragona Mall Plaza Alameda: $3,990 / $0 (score 100)
 2026-11-11 10:34:35   -> filled 11/15
 2026-11-11 10:34:35 done.
+2026-11-11 11:22:50 start: 1 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-11 11:22:50 [1/1] ubereats: Streat Burger_DD_CL ("streat burger")
+2026-11-11 11:22:50 ubereats: 4 saved menu page(s) found: Barra Chalaca - Costanera / Streat Burger (Parque Arauco) / Streat Burger (Parque Arauco) / Tarragona - Florida Center
+2026-11-11 11:22:50     row 1042 "Golden Burger + Papas" -> "Golden Burger + Papas" @ Streat Burger (Parque Arauco): $9,490 / $0 (score 100)
+2026-11-11 11:22:50     row 1043 "Classic Burger + Papas" -> "Classic Burger + Papas" @ Streat Burger (Parque Arauco): $8,990 / $0 (score 100)
+2026-11-11 11:22:50     row 1044 "West Burger + Papas" -> "West Burger + Papas" @ Streat Burger (Parque Arauco): $10,790 / $0 (score 100)
+2026-11-11 11:22:50     row 1045 "Founder Burger + Papas" -> "Founder Burger + Papas" @ Streat Burger (Parque Arauco): $8,590 / $0 (score 100)
+2026-11-11 11:22:50     row 1046 "Classic Especial Burger + Papas" -> "Classic Especial Burger + Papas" @ Streat Burger (Parque Arauco): $10,390 / $0 (score 100)
+2026-11-11 11:22:50     row 1047 "Bacon Burger + Papas" -> "Bacon Burger + Papas" @ Streat Burger (Parque Arauco): $9,690 / $0 (score 100)
+2026-11-11 11:22:50     row 1048 "Cheese Burger + Papas" -> "Cheese Burger + Papas" @ Streat Burger (Parque Arauco): $7,790 / $0 (score 100)
+2026-11-11 11:22:50     row 1049 "West Burger Simple" -> "West Burger Simple" @ Streat Burger (Parque Arauco): $9,590 / $0 (score 100)
+2026-11-11 11:22:50     row 1050 "Blue + Papas" -> "Blue Burger + Papas" @ Streat Burger (Parque Arauco): $10,790 / $0 (score 91)
+2026-11-11 11:22:50     row 1052 "Chicken Tenders 5 unidades + Papas" -> "Chicken Tenders 5 unidades + Papas" @ Streat Burger (Parque Arauco): $10,390 / $0 (score 100)
+2026-11-11 11:22:50     row 1053 "Original Chicken + Papas" -> "Original Chicken + Papas" @ Streat Burger (Parque Arauco): $10,190 / $0 (score 100)
+2026-11-11 11:22:50     row 1054 "Papas Crispy Grande" -> "Papas Crispy Grande" @ Streat Burger (Parque Arauco): $3,490 / $0 (score 100)
+2026-11-11 11:22:50     row 1055 "Veggie Classic + Papas" -> "Veggie Classic + Papas" @ Streat Burger (Parque Arauco): $8,990 / $0 (score 100)
+2026-11-11 11:22:50     row 1056 "Chicken Pops" -> "Chicken Pops" @ Streat Burger (Parque Arauco): $4,290 / $0 (score 100)
+2026-11-11 11:22:50   -> filled 14/15
+2026-11-11 11:22:50 done.

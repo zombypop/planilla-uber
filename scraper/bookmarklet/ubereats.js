@@ -73,7 +73,8 @@
       const lines = [];
       const tw = document.createTreeWalker(card, NodeFilter.SHOW_TEXT);
       while (tw.nextNode()) { const t = tw.currentNode.textContent.trim(); if (t) lines.push(t); }
-      const prices = ((card.textContent || '').match(PRICE) || []).map(toInt).filter(n => n > 0);
+      // drop unit prices like "$5.686/L" (price per liter), they are not a second price
+      const prices = ((card.textContent || '').replace(/(?:\$|CLP)\s?[\d.,]+\s*\/\s*[a-zA-Z]+/g, ' ').match(PRICE) || []).map(toInt).filter(n => n > 0);
       if (!prices.length) return;
       cards++;
       const name = lines.find(l => items.has(l)) || lines.find(l => !isPrice(l) && !isBadge(l));
