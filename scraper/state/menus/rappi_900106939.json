@@ -1,0 +1,176 @@
+{
+  "id": "900106939",
+  "name": "Sin Miedo Burgers - Los Leones",
+  "url": "https://www.rappi.cl/restaurantes/900106939",
+  "items": [
+    {
+      "name": "Clásica + Papas",
+      "full": 8380,
+      "offer": 6990,
+      "available": true,
+      "corridor": "Promociones Sin Miedo"
+    },
+    {
+      "name": "Papas Fritas Grandes",
+      "full": 3290,
+      "offer": 2790,
+      "available": true,
+      "corridor": "Promociones Sin Miedo"
+    },
+    {
+      "name": "Combo Rodeo",
+      "full": 11380,
+      "offer": 8990,
+      "available": true,
+      "corridor": "Promociones Sin Miedo"
+    },
+    {
+      "name": "Combo Chicken Burger",
+      "full": 10980,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combo Sin Miedo"
+    },
+    {
+      "name": "Combo Italiana",
+      "full": 10380,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combo Sin Miedo"
+    },
+    {
+      "name": "Combo Clásica",
+      "full": 10980,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combo Sin Miedo"
+    },
+    {
+      "name": "Combo Doble Queso",
+      "full": 11380,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combo Sin Miedo"
+    },
+    {
+      "name": "Combo Chicken Tenders",
+      "full": 11980,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combo Sin Miedo"
+    },
+    {
+      "name": "Clasica",
+      "full": 6690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas"
+    },
+    {
+      "name": "Rodeo",
+      "full": 7090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas"
+    },
+    {
+      "name": "Italiana",
+      "full": 6690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas"
+    },
+    {
+      "name": "Doble Queso",
+      "full": 7090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas"
+    },
+    {
+      "name": "Doble Italiana",
+      "full": 7590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas"
+    },
+    {
+      "name": "Doble Clásica",
+      "full": 7590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas"
+    },
+    {
+      "name": "Doble Rodeo Burger",
+      "full": 8590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas"
+    },
+    {
+      "name": "Papas Fritas",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Empanadas de Queso",
+      "full": 2690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Coca-Cola Original 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Light 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca Cola Sin Azúcar 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite Zero 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta Naranja 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Waffle Belga",
+      "full": 2590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    }
+  ],
+  "fetchedAt": 1794354560167
+}

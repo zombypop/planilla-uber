@@ -1,0 +1,379 @@
+{
+  "id": "900119214",
+  "name": "Jimmy John's - Vitacura",
+  "url": "https://www.rappi.cl/restaurantes/900119214",
+  "items": [
+    {
+      "name": "Signature + Bebida Lata",
+      "full": 11700,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Rockin' Combo"
+    },
+    {
+      "name": "Classic + Chips",
+      "full": 11700,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Rockin' Combo"
+    },
+    {
+      "name": "Signature + Chips",
+      "full": 11700,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Rockin' Combo"
+    },
+    {
+      "name": "Signature + Cookies",
+      "full": 11700,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Rockin' Combo"
+    },
+    {
+      "name": "Classic + Cookies",
+      "full": 11700,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Rockin' Combo"
+    },
+    {
+      "name": "Classic + Bebida Lata",
+      "full": 11700,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Rockin' Combo"
+    },
+    {
+      "name": "The Pepe / Turkey Tom + 2 Chips",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Rock Star Box  Classic( 2 personas)"
+    },
+    {
+      "name": "The Pepe",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 15 CM"
+    },
+    {
+      "name": "Vito",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 15 CM"
+    },
+    {
+      "name": "The Veggie",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 15 CM"
+    },
+    {
+      "name": "Turkey Tom",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 15 CM"
+    },
+    {
+      "name": "Chicken Salad",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 15 CM"
+    },
+    {
+      "name": "J.J.B.L.T.",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 15 CM"
+    },
+    {
+      "name": "Chicken Bacon Ranch",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Tuna Melt",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Buffalo Chicken Melt",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Country Club",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Ultimate Porker",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Roast Beef Cheddar",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Spicy Jimmy",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Beach Club",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Meatball Parmesan",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Kickin Turkey",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "Italian Club",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "The Gargantuan",
+      "full": 12190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 15 CM"
+    },
+    {
+      "name": "J.J.B.L.T.2 30 cm",
+      "full": 10890,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 30 CM"
+    },
+    {
+      "name": "Chicken Salad 30 cm",
+      "full": 10890,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 30 CM"
+    },
+    {
+      "name": "The Pepe 30 cm",
+      "full": 10890,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 30 CM"
+    },
+    {
+      "name": "The Veggie 30 cm",
+      "full": 10890,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 30 CM"
+    },
+    {
+      "name": "Vito 30 cm",
+      "full": 10890,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 30 CM"
+    },
+    {
+      "name": "Turkey Tom 30 cm",
+      "full": 10890,
+      "offer": 0,
+      "available": true,
+      "corridor": "CLASSICS 30 CM"
+    },
+    {
+      "name": "Meatball Parmesan 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Country Club 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Beach Club 30 cm",
+      "full": 14188,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Italian Club 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Spicy Jimmy 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Tuna Melt 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "The Gargantuan 30 cm",
+      "full": 19590,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Roast Beef Cheddar 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Kickin Turkey 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Buffalo Chicken Melt 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Ultimate Porker 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Chicken Bacon Ranch 30 cm",
+      "full": 14190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIGNATURE SANDWICHES 30 CM"
+    },
+    {
+      "name": "Chips Original",
+      "full": 1700,
+      "offer": 0,
+      "available": true,
+      "corridor": "PAPAS"
+    },
+    {
+      "name": "Chips BBQ",
+      "full": 1700,
+      "offer": 0,
+      "available": true,
+      "corridor": "PAPAS"
+    },
+    {
+      "name": "Chips Jalapeño",
+      "full": 1700,
+      "offer": 0,
+      "available": true,
+      "corridor": "PAPAS"
+    },
+    {
+      "name": "Cookie chocolate blanco frambuesa",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "POSTRES"
+    },
+    {
+      "name": "Cookie de Chips de Chocolate",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "POSTRES"
+    },
+    {
+      "name": "Cookie Triple Chocolate",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "POSTRES"
+    },
+    {
+      "name": "Pepsi",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Pepsi Zero",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Ginger Ale Zero",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Bilz",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    }
+  ],
+  "fetchedAt": 1794354463916
+}

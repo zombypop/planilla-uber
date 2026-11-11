@@ -1,0 +1,190 @@
+{
+  "id": "900104174",
+  "name": "Krispy Kreme - Divina Providencia",
+  "url": "https://www.rappi.cl/restaurantes/900104174",
+  "items": [
+    {
+      "name": "3 Pack a Eleccion",
+      "full": 10000,
+      "offer": 8500,
+      "available": true,
+      "corridor": "Pack a Eleccion"
+    },
+    {
+      "name": "6 Pack a Eleccion",
+      "full": 15000,
+      "offer": 13000,
+      "available": true,
+      "corridor": "Pack a Eleccion"
+    },
+    {
+      "name": "Escoge tu Docena Basic",
+      "full": 18000,
+      "offer": 16000,
+      "available": true,
+      "corridor": "Pack a Eleccion"
+    },
+    {
+      "name": "Escoge tu Docena Select",
+      "full": 20500,
+      "offer": 18500,
+      "available": true,
+      "corridor": "Pack a Eleccion"
+    },
+    {
+      "name": "Escoge tu Docena Premium",
+      "full": 23000,
+      "offer": 20000,
+      "available": true,
+      "corridor": "Pack a Eleccion"
+    },
+    {
+      "name": "Hot Chocolate XS",
+      "full": 3500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Cappuccino Mocha Blanco M",
+      "full": 6500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Cappuccino",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Mocha",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Latte",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Tea",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Americano",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Chai Latte",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Macchiato",
+      "full": 3000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Macchiato Doble",
+      "full": 3500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Espresso",
+      "full": 3000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Skinny Latte",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Caliente"
+    },
+    {
+      "name": "Coffee Frappe",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    },
+    {
+      "name": "Mocha Frappe",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    },
+    {
+      "name": "Caramel Frappe",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    },
+    {
+      "name": "Mini Frappe Caramel",
+      "full": 3500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    },
+    {
+      "name": "Cookies and Creme Frappe",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    },
+    {
+      "name": "Iced Coffe",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    },
+    {
+      "name": "Iced Latte",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    },
+    {
+      "name": "Iced Tea",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    },
+    {
+      "name": "Iced Chai Latte",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cafe Frio"
+    }
+  ],
+  "fetchedAt": 1794354641535
+}

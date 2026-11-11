@@ -1,0 +1,267 @@
+{
+  "id": "900108651",
+  "name": "Mr Taste - Ñuñoa",
+  "url": "https://www.rappi.cl/restaurantes/900108651",
+  "items": [
+    {
+      "name": "Arma Tu Box Mr Taste",
+      "full": 12990,
+      "offer": 9350,
+      "available": true,
+      "corridor": "Armables"
+    },
+    {
+      "name": "Arma Tus Papas Mr. Taste",
+      "full": 8990,
+      "offer": 5390,
+      "available": true,
+      "corridor": "Armables"
+    },
+    {
+      "name": "Arma Tu Match",
+      "full": 11990,
+      "offer": 6830,
+      "available": true,
+      "corridor": "Armables"
+    },
+    {
+      "name": "Arma Tu Wrap",
+      "full": 5890,
+      "offer": 3650,
+      "available": true,
+      "corridor": "Armables"
+    },
+    {
+      "name": "Arma Tu Sándwich",
+      "full": 6190,
+      "offer": 4090,
+      "available": true,
+      "corridor": "Armables"
+    },
+    {
+      "name": "Snack Box",
+      "full": 6690,
+      "offer": 4820,
+      "available": true,
+      "corridor": "To Share"
+    },
+    {
+      "name": "Dúo Sándwich + Papas",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "To Share"
+    },
+    {
+      "name": "Dúo Wrap + Snack",
+      "full": 14990,
+      "offer": 8540,
+      "available": true,
+      "corridor": "To Share"
+    },
+    {
+      "name": "Mr. Taste Box",
+      "full": 19990,
+      "offer": 0,
+      "available": true,
+      "corridor": "To Share"
+    },
+    {
+      "name": "Papas Mr Taste + Bebida",
+      "full": 8990,
+      "offer": 6380,
+      "available": true,
+      "corridor": "Just For One"
+    },
+    {
+      "name": "Wings X10 + Bebida",
+      "full": 11190,
+      "offer": 8950,
+      "available": true,
+      "corridor": "Just For One"
+    },
+    {
+      "name": "Wings X10 + Aritos",
+      "full": 10990,
+      "offer": 7690,
+      "available": true,
+      "corridor": "Wings & Ribs"
+    },
+    {
+      "name": "Half Ribs",
+      "full": 15990,
+      "offer": 11030,
+      "available": true,
+      "corridor": "Wings & Ribs"
+    },
+    {
+      "name": "Wings X5 + Aritos",
+      "full": 7490,
+      "offer": 5090,
+      "available": true,
+      "corridor": "Wings & Ribs"
+    },
+    {
+      "name": "Wings X15",
+      "full": 15090,
+      "offer": 11920,
+      "available": true,
+      "corridor": "Wings & Ribs"
+    },
+    {
+      "name": "Wings X20",
+      "full": 18990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wings & Ribs"
+    },
+    {
+      "name": "Crispy Louisiana Sándwich y Papas",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches Crispy & Mechados"
+    },
+    {
+      "name": "Chicken Philly Sándwich + Snack",
+      "full": 8090,
+      "offer": 6470,
+      "available": true,
+      "corridor": "Sándwiches Crispy & Mechados"
+    },
+    {
+      "name": "Georgia Sándwich",
+      "full": 6990,
+      "offer": 4890,
+      "available": true,
+      "corridor": "Sándwiches Crispy & Mechados"
+    },
+    {
+      "name": "Alabama Sándwich y Snack",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches Crispy & Mechados"
+    },
+    {
+      "name": "Crispy Texas Sándwich + Papas",
+      "full": 7890,
+      "offer": 5600,
+      "available": true,
+      "corridor": "Sándwiches Crispy & Mechados"
+    },
+    {
+      "name": "Crispy Chicken Sándwich",
+      "full": 5990,
+      "offer": 4190,
+      "available": true,
+      "corridor": "Sándwiches Crispy & Mechados"
+    },
+    {
+      "name": "Crispy Louisiana Wrap",
+      "full": 4690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Chicken Fingers X6",
+      "full": 4690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Crispy Chicken Wrap",
+      "full": 5390,
+      "offer": 3990,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Empanadas Medialuna X6",
+      "full": 5600,
+      "offer": 3000,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Empanadas X6",
+      "full": 2400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Mr. Taste Fries",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Sweet Corn X6",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Aros de Cebolla X6",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Empanadas Medialuna X3",
+      "full": 2690,
+      "offer": 1290,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Papas Medianas",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Crispy Bbq Wrap",
+      "full": 5890,
+      "offer": 4710,
+      "available": true,
+      "corridor": "Wraps & Snacks"
+    },
+    {
+      "name": "Coca-Cola Original 350 ml",
+      "full": 2100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Sin Azúcar 350 ml",
+      "full": 2100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite 350 ml",
+      "full": 2100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta Naranja 350 ml",
+      "full": 2100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    }
+  ],
+  "fetchedAt": 1794355109544
+}

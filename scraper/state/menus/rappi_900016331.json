@@ -1,0 +1,393 @@
+{
+  "id": "900016331",
+  "name": "PizzaPizza® - Divina Providencia",
+  "url": "https://www.rappi.cl/restaurantes/900016331",
+  "items": [
+    {
+      "name": "Inferno",
+      "full": 8900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Promo 2x combina entre 9 especialidades",
+      "full": 26400,
+      "offer": 21200,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Promo 2x combina entre 21 especialidades",
+      "full": 32400,
+      "offer": 23400,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Promo 2x ármalas a tu gusto",
+      "full": 29400,
+      "offer": 23900,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Promo pizza 1 ingrediente",
+      "full": 11700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Combo pizza 1 ing + Bebida 1.5L",
+      "full": 15100,
+      "offer": 12300,
+      "available": true,
+      "corridor": "Combos"
+    },
+    {
+      "name": "Combo todas las carnes",
+      "full": 19600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos"
+    },
+    {
+      "name": "Combo 4 especialidades",
+      "full": 58800,
+      "offer": 47700,
+      "available": true,
+      "corridor": "Combos"
+    },
+    {
+      "name": "Armala a tu gusto mediana",
+      "full": 10200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armala a tu gusto"
+    },
+    {
+      "name": "Armala a tu gusto grande",
+      "full": 12000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armala a tu gusto"
+    },
+    {
+      "name": "Doble queso",
+      "full": 11700,
+      "offer": 8900,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Pepperoni",
+      "full": 11700,
+      "offer": 8900,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Napolitana",
+      "full": 11700,
+      "offer": 8900,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Pollo bbq",
+      "full": 13200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Inferno",
+      "full": 13200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Tropical",
+      "full": 13200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Hawaiiana",
+      "full": 13200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Americana",
+      "full": 13200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Margarita",
+      "full": 13200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Tocino BBQ",
+      "full": 14700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Tejana BBQ",
+      "full": 14700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Selección",
+      "full": 14700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Clasica",
+      "full": 14700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Gourmet",
+      "full": 14700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Fugazza",
+      "full": 14700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Ranchera BBQ",
+      "full": 14700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Del huerto",
+      "full": 16200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Española",
+      "full": 16200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Cuatro estaciones",
+      "full": 16200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Todas las carnes",
+      "full": 16200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Del jardin",
+      "full": 16200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Vegetariana",
+      "full": 17700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Chilena doble",
+      "full": 17700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Italiana doble",
+      "full": 17700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Deluxe",
+      "full": 17700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Super tejana",
+      "full": 17700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Super deluxe",
+      "full": 22200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Alitas de pollo sin salsa",
+      "full": 6400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Alitas de pollo con salsa BBQ",
+      "full": 6400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Ribs sin salsa",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "BBQ Ribs",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Chaparritas con pepperoni",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Chaparritas vegetarianas",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Chaparritas con salsa BBQ",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Chaparritas sin salsa",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Palitos de ajo",
+      "full": 5100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Masitas Mozzarella y ajo",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Coca-cola original 1.5 L",
+      "full": 3400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-cola zero azucar 1.5 L",
+      "full": 3400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta full sugar 1.5 L",
+      "full": 3400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite 1.5 L",
+      "full": 3400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Helado almendrado 1L",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Helado Sahne Nuss",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Bastoncitos de canela",
+      "full": 5100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Helado Frambuesa",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    }
+  ],
+  "fetchedAt": 1794355258128
+}

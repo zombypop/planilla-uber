@@ -1,0 +1,323 @@
+{
+  "id": "900090811",
+  "name": "Under Pizza - Los Leones",
+  "url": "https://www.rappi.cl/restaurantes/900090811",
+  "items": [
+    {
+      "name": "Promo para Todos",
+      "full": 30960,
+      "offer": 24990,
+      "available": true,
+      "corridor": "Promociones para Compartir"
+    },
+    {
+      "name": "Promo Duo Especial",
+      "full": 29470,
+      "offer": 22990,
+      "available": true,
+      "corridor": "Promociones para Compartir"
+    },
+    {
+      "name": "Promo Trio Especial",
+      "full": 37470,
+      "offer": 27990,
+      "available": true,
+      "corridor": "Promociones para Compartir"
+    },
+    {
+      "name": "Mega Promo Especial",
+      "full": 46450,
+      "offer": 34990,
+      "available": true,
+      "corridor": "Promociones para Compartir"
+    },
+    {
+      "name": "Promo Duo Clásica",
+      "full": 24470,
+      "offer": 17990,
+      "available": true,
+      "corridor": "Promociones para Compartir"
+    },
+    {
+      "name": "Promo Trio Clasico",
+      "full": 29970,
+      "offer": 22490,
+      "available": true,
+      "corridor": "Promociones para Compartir"
+    },
+    {
+      "name": "Mega Promo Clasica",
+      "full": 38950,
+      "offer": 29990,
+      "available": true,
+      "corridor": "Promociones para Compartir"
+    },
+    {
+      "name": "Combo Border Queso",
+      "full": 21470,
+      "offer": 17490,
+      "available": true,
+      "corridor": "Combos con Coca Cola"
+    },
+    {
+      "name": "Super Combo Especial",
+      "full": 22970,
+      "offer": 18490,
+      "available": true,
+      "corridor": "Combos con Coca Cola"
+    },
+    {
+      "name": "Combo Especial",
+      "full": 20970,
+      "offer": 16490,
+      "available": true,
+      "corridor": "Combos con Coca Cola"
+    },
+    {
+      "name": "Super Combo Clasico",
+      "full": 20470,
+      "offer": 16990,
+      "available": true,
+      "corridor": "Combos con Coca Cola"
+    },
+    {
+      "name": "Combo Clasico",
+      "full": 18470,
+      "offer": 14490,
+      "available": true,
+      "corridor": "Combos con Coca Cola"
+    },
+    {
+      "name": "Romana",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especiales Familiares"
+    },
+    {
+      "name": "Todas Las Carnes",
+      "full": 12490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especiales Familiares"
+    },
+    {
+      "name": "Full Supreme",
+      "full": 12490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especiales Familiares"
+    },
+    {
+      "name": "Vegetariana",
+      "full": 12490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especiales Familiares"
+    },
+    {
+      "name": "Pollo Bbq",
+      "full": 12490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especiales Familiares"
+    },
+    {
+      "name": "Doble Pepperoni",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especiales Familiares"
+    },
+    {
+      "name": "Italiana",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especiales Familiares"
+    },
+    {
+      "name": "Americana",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especiales Familiares"
+    },
+    {
+      "name": "Border Queso Pepperoni",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Familiares con Borde de Queso"
+    },
+    {
+      "name": "Border Queso Napolitana",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Familiares con Borde de Queso"
+    },
+    {
+      "name": "Pepperoni",
+      "full": 9990,
+      "offer": 7990,
+      "available": true,
+      "corridor": "Clásicas Familiares"
+    },
+    {
+      "name": "Napolitana",
+      "full": 8990,
+      "offer": 7990,
+      "available": true,
+      "corridor": "Clásicas Familiares"
+    },
+    {
+      "name": "Doble Queso",
+      "full": 8990,
+      "offer": 7990,
+      "available": true,
+      "corridor": "Clásicas Familiares"
+    },
+    {
+      "name": "Alitas de Pollo Crispy",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Mix Papas y Empanadas",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas Fritas Xl",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Palitos de Ajo",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Empanaditas Xl",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Palitos de Canela",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Under Ice Triple Chocolate con Milka",
+      "full": 2590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Under Ice Triple Chocolate con Oreo",
+      "full": 2590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Under Ice Hecho con Oreo y Chocolate",
+      "full": 2590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Coca Cola Zero Azúcar 15 l",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas y Agua Familiar"
+    },
+    {
+      "name": "Coca Cola Light 1.5 l",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas y Agua Familiar"
+    },
+    {
+      "name": "Coca Cola 1,5 l",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas y Agua Familiar"
+    },
+    {
+      "name": "Sprite 1.5 l",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas y Agua Familiar"
+    },
+    {
+      "name": "Sprite Zero 1.5 l",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas y Agua Familiar"
+    },
+    {
+      "name": "Fanta 1.5 l",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas y Agua Familiar"
+    },
+    {
+      "name": "Fanta Sin Azúcar 1.5 l",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas y Agua Familiar"
+    },
+    {
+      "name": "Agua Benedictino 1.5 l Sin Gas",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas y Agua Familiar"
+    },
+    {
+      "name": "Salsa de Ajo",
+      "full": 1490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsitas"
+    },
+    {
+      "name": "Cup Salsa de Pizza",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsitas"
+    },
+    {
+      "name": "Bbq",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsitas"
+    }
+  ],
+  "fetchedAt": 1794355241754
+}

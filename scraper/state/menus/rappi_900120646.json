@@ -1,0 +1,337 @@
+{
+  "id": "900120646",
+  "name": "Roof Burger - La Florida",
+  "url": "https://www.rappi.cl/restaurantes/900120646",
+  "items": [
+    {
+      "name": "American burger + papas",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "BLACK BBQ Burger + Papas + Fanta Zero",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Cheese burger + papas",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Classic Burger + Papas",
+      "full": 10990,
+      "offer": 7140,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Shrimp Burger + Papas",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Triple roof burger + papas",
+      "full": 19990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Cuádruple roof burger + papas",
+      "full": 21990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Ranch burger + papas",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Bacon burger + papas",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Doble roof burger + papas",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Basic Burger + Papas",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Deluxe burger + papas",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "BBQ Burger + Papas",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Tasty Burger + Papas",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Avocado burger + papas",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Italian burger + papas",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Cheddar burger + papas",
+      "full": 11990,
+      "offer": 6000,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Roof burger + papas",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Onion Burger + Papas",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Dos Burger + Papas + Nuggets + Empanadas",
+      "full": 25000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Papas americanas",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Mozzarella sticks",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Nuggets de pollo",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Aros de cebolla",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Cheese meat balls",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Camarones apanados",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Papas rústicas",
+      "full": 9490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Papas cheddar mechada",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Papas cheddar",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Papas veggie",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Chorrillana mechada",
+      "full": 16990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Chorrillana veggie",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Papas fritas tradicionales",
+      "full": 9490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Empanaditas de Queso",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snack"
+    },
+    {
+      "name": "Chicken César",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salads"
+    },
+    {
+      "name": "Shrimp Salad",
+      "full": 11490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salads"
+    },
+    {
+      "name": "Соса-Cola Light",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Sprite Zero",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Sprite",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Coca-cola Normal",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Coca-Cola Zero",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Agua Mineral S/G",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Agua Mineral C/G",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Fanta Normal",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Fanta Zero",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "RedBull Sabor Original 250 ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Limonada",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    }
+  ],
+  "fetchedAt": 1794353860071
+}

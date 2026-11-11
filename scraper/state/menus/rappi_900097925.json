@@ -1,0 +1,323 @@
+{
+  "id": "900097925",
+  "name": "La Argentina Pizzeria - La Florida",
+  "url": "https://www.rappi.cl/restaurantes/900097925",
+  "items": [
+    {
+      "name": "Muzzarella Grande",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Fugazzeta Grande",
+      "full": 39900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Fugazza Grande",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Fugazza Queso Grande",
+      "full": 26800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Muzzarella 4 Quesos Grande",
+      "full": 36900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Muzzarella Jamón Morrón Grande",
+      "full": 35600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Muzzarella Jamón Grande",
+      "full": 28900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Muzzarella Jamón Ananá Grande",
+      "full": 36800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Muzzarella Napolitana Jamón Grande",
+      "full": 39900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Cancha Grande",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Vegan Muzza Grande",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Clásicas Argentinas"
+    },
+    {
+      "name": "Mitad y Mitad Grande",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Mitad y Mitad"
+    },
+    {
+      "name": "1/2 Pizza Grande",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Mitad y Mitad"
+    },
+    {
+      "name": "Fainá",
+      "full": 1500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Faina"
+    },
+    {
+      "name": "Chimichurri 1oz",
+      "full": 600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chimis y Salsas"
+    },
+    {
+      "name": "Chimichurri 350gr",
+      "full": 7800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chimis y Salsas"
+    },
+    {
+      "name": "Provenzal 1oz",
+      "full": 500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chimis y Salsas"
+    },
+    {
+      "name": "Panqueque de Manzana al Ron y Helado ...",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Porción Torta Chocolate y Dulce de Leche",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Porción Dulce Leche",
+      "full": 1200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Porción Crema",
+      "full": 1200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Porción Salsa Caramelo",
+      "full": 1000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Coca Cola",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Coca Cola Light",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Coca Cola Zero",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Sprite",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Sprite Zero",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Fanta",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Fanta Zero",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Schweppes",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Schweppes Zero",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Frambuesa",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Frutilla",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Limonada",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Limonada Menta Jengibre",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Anana",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Agua con Gas 330cc",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Agua sin Gas 330cc",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Agua con Gas 750cc",
+      "full": 4300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Agua sin Gas 750cc",
+      "full": 4300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Caja Fosforo La Argentina",
+      "full": 500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Kiosco"
+    },
+    {
+      "name": "Gorras La Argentina Pizzería",
+      "full": 10000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Kiosco"
+    },
+    {
+      "name": "Pechera la Argentina",
+      "full": 12000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Kiosco"
+    },
+    {
+      "name": "Mazo Naipe La Argentina Pizzería",
+      "full": 14000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Kiosco"
+    },
+    {
+      "name": "Remera (Polera) la Argentina Pizzeria",
+      "full": 12000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Kiosco"
+    }
+  ],
+  "fetchedAt": 1794354692063
+}

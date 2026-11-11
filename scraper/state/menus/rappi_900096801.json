@@ -1,0 +1,463 @@
+{
+  "id": "900096801",
+  "name": "Wing It! - Ñuñoa",
+  "url": "https://www.rappi.cl/restaurantes/900096801",
+  "items": [
+    {
+      "name": "Combo Pops",
+      "full": 8200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Imperdibles"
+    },
+    {
+      "name": "Chicken Crispers Box",
+      "full": 18990,
+      "offer": 9870,
+      "available": true,
+      "corridor": "Los Imperdibles"
+    },
+    {
+      "name": "Combo Chicken Crispers",
+      "full": 11900,
+      "offer": 5800,
+      "available": true,
+      "corridor": "Los Imperdibles"
+    },
+    {
+      "name": "Combo Chicken Lunch",
+      "full": 8600,
+      "offer": 6020,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "Chicken Tenders Meal",
+      "full": 9500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "Combo 4 Chicken Tenders",
+      "full": 11500,
+      "offer": 7000,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "Combo Tenders XL",
+      "full": 22000,
+      "offer": 9900,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "Chicken Tenders Box",
+      "full": 14200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "Sandwich Box",
+      "full": 10000,
+      "offer": 8100,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "Wing It Tenders Box",
+      "full": 14900,
+      "offer": 11320,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "Combo Tenders & Wings",
+      "full": 15800,
+      "offer": 12010,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "Double Crispy Bucket",
+      "full": 18900,
+      "offer": 11530,
+      "available": true,
+      "corridor": "Tenders Lovers"
+    },
+    {
+      "name": "BBQ Pops",
+      "full": 5400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Uno"
+    },
+    {
+      "name": "Arma Tu Combo Wing It",
+      "full": 10000,
+      "offer": 5700,
+      "available": true,
+      "corridor": "Para Uno"
+    },
+    {
+      "name": "Nuggets Box",
+      "full": 8000,
+      "offer": 5920,
+      "available": true,
+      "corridor": "Para Uno"
+    },
+    {
+      "name": "Total Wrap",
+      "full": 8900,
+      "offer": 6140,
+      "available": true,
+      "corridor": "Para Uno"
+    },
+    {
+      "name": "Chicken Crispers x6 + Papas",
+      "full": 6400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Uno"
+    },
+    {
+      "name": "Combo Alitas",
+      "full": 10500,
+      "offer": 5990,
+      "available": true,
+      "corridor": "Para Uno"
+    },
+    {
+      "name": "Combo Doble Wrap",
+      "full": 16200,
+      "offer": 11340,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Arma Tu Dúo",
+      "full": 12900,
+      "offer": 9160,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Dúo Korean Pops",
+      "full": 17000,
+      "offer": 13940,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Combo Doble Sándwich",
+      "full": 16900,
+      "offer": 13690,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Chicken Crispers X15",
+      "full": 14990,
+      "offer": 10040,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Nuggets x20 + Papas",
+      "full": 11800,
+      "offer": 7000,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Combo Crispers & Nuggets M",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Wing It Party Box",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para la Mesa"
+    },
+    {
+      "name": "Chicken X20 + Papas",
+      "full": 23940,
+      "offer": 14010,
+      "available": true,
+      "corridor": "Para la Mesa"
+    },
+    {
+      "name": "Super Wing It Bucket",
+      "full": 20500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para la Mesa"
+    },
+    {
+      "name": "Sándwich Party Box",
+      "full": 26000,
+      "offer": 20280,
+      "available": true,
+      "corridor": "Para la Mesa"
+    },
+    {
+      "name": "Nuggets Party Box",
+      "full": 16900,
+      "offer": 10650,
+      "available": true,
+      "corridor": "Para la Mesa"
+    },
+    {
+      "name": "Combo Crispers & Nuggets XL",
+      "full": 12600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para la Mesa"
+    },
+    {
+      "name": "Combo Wings X15",
+      "full": 22800,
+      "offer": 17100,
+      "available": true,
+      "corridor": "ALITAS"
+    },
+    {
+      "name": "Wings Bucket 20 + Papas",
+      "full": 24500,
+      "offer": 0,
+      "available": true,
+      "corridor": "ALITAS"
+    },
+    {
+      "name": "Korean Wrap + Papas",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Coreanos"
+    },
+    {
+      "name": "Seúl Sándwich + Bebida",
+      "full": 8000,
+      "offer": 5600,
+      "available": true,
+      "corridor": "Coreanos"
+    },
+    {
+      "name": "Korean Pops + Papas",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Coreanos"
+    },
+    {
+      "name": "Korean Wings X10",
+      "full": 13714,
+      "offer": 9600,
+      "available": true,
+      "corridor": "Coreanos"
+    },
+    {
+      "name": "Combo Buffalo Wrap",
+      "full": 6700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches y Wraps"
+    },
+    {
+      "name": "Papas Fritas Grandes",
+      "full": 4600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches y Wraps"
+    },
+    {
+      "name": "Papas Cheddar y Bacon",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches y Wraps"
+    },
+    {
+      "name": "Nuggets x10",
+      "full": 3590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches y Wraps"
+    },
+    {
+      "name": "Combo Louisiana Sándwich",
+      "full": 10600,
+      "offer": 6990,
+      "available": true,
+      "corridor": "Sándwiches y Wraps"
+    },
+    {
+      "name": "Combo Texas Melt Sándwich",
+      "full": 10600,
+      "offer": 6100,
+      "available": true,
+      "corridor": "Sándwiches y Wraps"
+    },
+    {
+      "name": "Combo Classic Crispy Sándwich",
+      "full": 10600,
+      "offer": 5800,
+      "available": true,
+      "corridor": "Sándwiches y Wraps"
+    },
+    {
+      "name": "Combo Louisiana Wrap",
+      "full": 6700,
+      "offer": 5430,
+      "available": true,
+      "corridor": "Sándwiches y Wraps"
+    },
+    {
+      "name": "Empanadas de Queso X6",
+      "full": 1300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks y Picoteo"
+    },
+    {
+      "name": "Aros de Cebolla X8",
+      "full": 1600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks y Picoteo"
+    },
+    {
+      "name": "Papas Fritas Medianas",
+      "full": 1700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks y Picoteo"
+    },
+    {
+      "name": "Creamy Coleslaw",
+      "full": 300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks y Picoteo"
+    },
+    {
+      "name": "Cheddar",
+      "full": 700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa BBQ",
+      "full": 700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa BBQ Picante",
+      "full": 700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa Buffalo",
+      "full": 700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Ketchup",
+      "full": 700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Mayonesa",
+      "full": 700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Mostaza Miel",
+      "full": 700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Coca-Cola Original 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Light 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Sin Azúcar 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta Naranja 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta Naranja Sin Azúcar 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite Zero 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Original 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Zero 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    }
+  ],
+  "fetchedAt": 1794355991925
+}

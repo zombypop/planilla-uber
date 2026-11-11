@@ -1,0 +1,470 @@
+{
+  "id": "900120248",
+  "name": "Barrio Chicken - Ñuñoa",
+  "url": "https://www.rappi.cl/restaurantes/900120248",
+  "items": [
+    {
+      "name": "Combo Doble Chicken Burger Del Barrio",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "La Novedad Del Barrio !!"
+    },
+    {
+      "name": "Combo Chicken Burger Del Barrio",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "La Novedad Del Barrio !!"
+    },
+    {
+      "name": "Combo Wrap Del Barrio",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "La Novedad Del Barrio !!"
+    },
+    {
+      "name": "Cup XL Salsa del Barrio",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "La Novedad Del Barrio !!"
+    },
+    {
+      "name": "Combo American Crispy",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Originales"
+    },
+    {
+      "name": "Combo Barrio Italiano",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Originales"
+    },
+    {
+      "name": "Combo Barrio Clásico",
+      "full": 8490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Originales"
+    },
+    {
+      "name": "Barrio One Box Full",
+      "full": 8750,
+      "offer": 7000,
+      "available": true,
+      "corridor": "Combos Originales"
+    },
+    {
+      "name": "Combo Chicken Burger K Spicy",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Originales"
+    },
+    {
+      "name": "Combo Barrio Doble Smoked Bacon",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Prime"
+    },
+    {
+      "name": "Combo Big Doble Triple Queso",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Prime"
+    },
+    {
+      "name": "Combo Doble American Crispy",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Prime"
+    },
+    {
+      "name": "American Crispy",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Barrio Clásico",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Big Doble Triple Queso",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Barrio Italiano",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Barrio Doble Smoked Bacon",
+      "full": 8490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Barrio Clásico x2",
+      "full": 12980,
+      "offer": 6990,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Doble American Crispy",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Chicken Burger K Spicy",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Doble Chicken Burger Del Barrio",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Chicken Burger Del Barrio",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken Burgers"
+    },
+    {
+      "name": "Combo Wrap Clasico",
+      "full": 8590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps"
+    },
+    {
+      "name": "Wrap Clásico",
+      "full": 4690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps"
+    },
+    {
+      "name": "Wrap Italiano",
+      "full": 5290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps"
+    },
+    {
+      "name": "Wrap Smoked Bacon",
+      "full": 5690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps"
+    },
+    {
+      "name": "Combo Wrap Italiano",
+      "full": 8090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps"
+    },
+    {
+      "name": "Combo Wrap Smoked Bacon",
+      "full": 8490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps"
+    },
+    {
+      "name": "Wrap Del Barrio",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Wraps"
+    },
+    {
+      "name": "Gran Combo Chicken Tenders",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "Combo Crunchy Mix",
+      "full": 9590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "El Trío del Barrio",
+      "full": 26990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "La Banda del Barrio",
+      "full": 23990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "Barrio Box",
+      "full": 12990,
+      "offer": 10000,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "Combo Pop Corn",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "Burger Dúo Dinámico",
+      "full": 18990,
+      "offer": 14000,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "Box Par de Wraps",
+      "full": 12500,
+      "offer": 10000,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "La Junta del Pollo Barrio",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "El Snack del Barrio",
+      "full": 11490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "Mix Tender XL",
+      "full": 8390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Boxes del Barrio"
+    },
+    {
+      "name": "Combo Wow",
+      "full": 25000,
+      "offer": 19990,
+      "available": true,
+      "corridor": "Buckets Party"
+    },
+    {
+      "name": "Combo Barrio Fest",
+      "full": 26290,
+      "offer": 20990,
+      "available": true,
+      "corridor": "Buckets Party"
+    },
+    {
+      "name": "Barrio Bucket x10",
+      "full": 18990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Buckets Party"
+    },
+    {
+      "name": "Barrio Bucket x16",
+      "full": 26990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Buckets Party"
+    },
+    {
+      "name": "Chicken Tenders x14",
+      "full": 16990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Buckets Party"
+    },
+    {
+      "name": "Chicken Tenders x20",
+      "full": 21990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Buckets Party"
+    },
+    {
+      "name": "Bucket Party Chicken Tenders",
+      "full": 26990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Buckets Party"
+    },
+    {
+      "name": "Pop Corn Grande",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Empanadas x7",
+      "full": 3690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Pop Corn Mediano",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Coleslaw",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas Fritas Medianas",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas Fritas Familiar",
+      "full": 4690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Agua Mineral con Gas",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Agua Mineral Sin Gas",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Coca Cola Lata 350 ml",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Coca Cola Zero Lata 350 ml",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Fanta Zero Lata 350 ml",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Sprite Zero Lata 350 ml",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Coca Cola 1.5 lts",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Coca Cola Zero Azúcar 1.5 lts",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Sprite Zero 1.5 lts",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Fanta Zero 1.5 lts",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Liquidos"
+    },
+    {
+      "name": "Barrio Party",
+      "full": 90860,
+      "offer": 0,
+      "available": true,
+      "corridor": "Catering"
+    },
+    {
+      "name": "Chicken Burger Del Barrio 2x1",
+      "full": 15980,
+      "offer": 7990,
+      "available": true,
+      "corridor": "Martes de Barrio"
+    },
+    {
+      "name": "Wrap Del Barrio 2x1",
+      "full": 13980,
+      "offer": 6990,
+      "available": true,
+      "corridor": "Martes de Barrio"
+    }
+  ],
+  "fetchedAt": 1794353851182
+}

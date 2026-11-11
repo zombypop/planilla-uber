@@ -1,0 +1,715 @@
+{
+  "id": "900025733",
+  "name": "Domino's Pizza - Salvador",
+  "url": "https://www.rappi.cl/restaurantes/900025733",
+  "items": [
+    {
+      "name": "Sweet Bites",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Lanzamientos"
+    },
+    {
+      "name": "Michigan Pesto",
+      "full": 17880,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Nuevos Lanzamientos"
+    },
+    {
+      "name": "Texas Hot Honey",
+      "full": 17880,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Nuevos Lanzamientos"
+    },
+    {
+      "name": "Veggie Queen",
+      "full": 17880,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Nuevos Lanzamientos"
+    },
+    {
+      "name": "Bacon Cheddar Fries",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Lanzamientos"
+    },
+    {
+      "name": "Rockstar Pepperoni",
+      "full": 18950,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Nuevos Lanzamientos"
+    },
+    {
+      "name": "Hot Folds",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Lanzamientos"
+    },
+    {
+      "name": "The Ultimate Chicken Jalapeño",
+      "full": 17880,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Pizza Fiesta",
+      "full": 17880,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Pepperoni Napolitana Funghi o Queso",
+      "full": 17570,
+      "offer": 8990,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Cuatro Quesos",
+      "full": 17880,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Pizza Al Sartén",
+      "full": 19350,
+      "offer": 11490,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "2 Pizzas Familiares a 6.990 c/u",
+      "full": 35140,
+      "offer": 13980,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Ultimate Chicken Box",
+      "full": 23160,
+      "offer": 16990,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Burger Pizza",
+      "full": 17880,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Familiar Pepperoni o Napolitana + Chomp",
+      "full": 18480,
+      "offer": 12490,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Familiar Especialidad + Chomp Variedades",
+      "full": 38500,
+      "offer": 18490,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Borde Queso Pepperoni",
+      "full": 17340,
+      "offer": 10990,
+      "available": true,
+      "corridor": "Promos Irresistibles"
+    },
+    {
+      "name": "Combo Pizza Mediana",
+      "full": 27090,
+      "offer": 20990,
+      "available": true,
+      "corridor": "Combos Para Compartir"
+    },
+    {
+      "name": "2 Pizzas Medianas 3 Ingredientes",
+      "full": 32240,
+      "offer": 21990,
+      "available": true,
+      "corridor": "Combos Para Compartir"
+    },
+    {
+      "name": "Combo Pizza Familiar",
+      "full": 32480,
+      "offer": 24100,
+      "available": true,
+      "corridor": "Combos Para Compartir"
+    },
+    {
+      "name": "2 Pizzas Familiares 3 Ingredientes",
+      "full": 41140,
+      "offer": 23990,
+      "available": true,
+      "corridor": "Combos Para Compartir"
+    },
+    {
+      "name": "Combo Pizza Dominator",
+      "full": 37230,
+      "offer": 27900,
+      "available": true,
+      "corridor": "Combos Para Compartir"
+    },
+    {
+      "name": "2 Pizzas Dominator 3 Ingredientes",
+      "full": 50640,
+      "offer": 28490,
+      "available": true,
+      "corridor": "Combos Para Compartir"
+    },
+    {
+      "name": "Duo: Doble Pepperoni + Hawaiana",
+      "full": 37100,
+      "offer": 20990,
+      "available": true,
+      "corridor": "Promos Exclusivas"
+    },
+    {
+      "name": "2 Pizzas Familiares 2 Ing",
+      "full": 35600,
+      "offer": 19490,
+      "available": true,
+      "corridor": "Promos Exclusivas"
+    },
+    {
+      "name": "2 Pizzas Familiares 1ing",
+      "full": 32600,
+      "offer": 18490,
+      "available": true,
+      "corridor": "Promos Exclusivas"
+    },
+    {
+      "name": "Hawaiana",
+      "full": 16120,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Cali Chicken Bacon Ranch",
+      "full": 17270,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Ultimate Pepperoni",
+      "full": 17270,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Campesina",
+      "full": 17270,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Margarita",
+      "full": 17270,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Bbq Chicken",
+      "full": 17270,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Americana",
+      "full": 18420,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Deluxe",
+      "full": 18420,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Extravaganzza",
+      "full": 23020,
+      "offer": 0,
+      "available": true,
+      "corridor": "Especialidades"
+    },
+    {
+      "name": "Chicken Pesto",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hot Folds"
+    },
+    {
+      "name": "Chicken Ranch",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hot Folds"
+    },
+    {
+      "name": "The Veggie",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hot Folds"
+    },
+    {
+      "name": "Pepperoni Feast",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hot Folds"
+    },
+    {
+      "name": "Arma Tu Pizza Dominator",
+      "full": 20070,
+      "offer": 0,
+      "available": true,
+      "corridor": "A Tu Gusto"
+    },
+    {
+      "name": "Arma Tu Pizza Familiar",
+      "full": 16070,
+      "offer": 0,
+      "available": true,
+      "corridor": "A Tu Gusto"
+    },
+    {
+      "name": "Arma Tu Pizza Mediana",
+      "full": 12670,
+      "offer": 0,
+      "available": true,
+      "corridor": "A Tu Gusto"
+    },
+    {
+      "name": "Palos De Ajo 8Pcs",
+      "full": 6250,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Chicken Chunks",
+      "full": 5140,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Alitas Bbq",
+      "full": 6440,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Alitas Picantes",
+      "full": 6440,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Alitas Sin Salsa",
+      "full": 6440,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Bread Relleno Queso",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Bread Relleno Bacon Pepperoni",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Bread Relleno Bacon Jalapeño",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Bread Relleno Veggie Ranch",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Palos De Ajo 4Pcs",
+      "full": 3940,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Alistas Crispy",
+      "full": 6440,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Parmesan Bread Bites",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Bacon Cheddar Fries",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Salsa Garlic",
+      "full": 790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Extras"
+    },
+    {
+      "name": "Salsa Hot Buffalo",
+      "full": 790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Extras"
+    },
+    {
+      "name": "Salsa Marinara",
+      "full": 790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Extras"
+    },
+    {
+      "name": "Salsa Ranch",
+      "full": 790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Extras"
+    },
+    {
+      "name": "Salsa Hot Honey",
+      "full": 790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Extras"
+    },
+    {
+      "name": "Salsa Pesto",
+      "full": 790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Extras"
+    },
+    {
+      "name": "Volcán De Chocolate",
+      "full": 5490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Choco Berry Bites",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Choco Canela Bites",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Glaseado Canela Bites",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Pepsi Original 600cc",
+      "full": 3200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Original 1.5 Lts.",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Original 3.0 Lts.",
+      "full": 4390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Zero 600cc",
+      "full": 3200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Zero 1.5 Lts.",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Zero 3.0 Lts.",
+      "full": 4390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Kem Piña 600cc",
+      "full": 3200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Kem Piña 1.5 Lts.",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Kem Piña 3.0 Lts.",
+      "full": 4390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Bilz Original 600cc",
+      "full": 3200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Bilz Original 1.5 Lts.",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Bilz Original 3.0 Lts.",
+      "full": 4390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Crush Orange 600cc",
+      "full": 3200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Crush Orange 1.5 Lts.",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Crush Orange 3.0 Lts.",
+      "full": 4390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pap Original 600cc",
+      "full": 3200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pap Original 1.5 Lts.",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pap Original 3.0 Lts.",
+      "full": 4390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Limón Soda 600cc",
+      "full": 3200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Limón Soda 1.5 Lts.",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Limón Soda 3.0 Lts.",
+      "full": 4390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Cachatun Sin Gas",
+      "full": 2470,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Cachantun Con Gas",
+      "full": 2470,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Cachantun 1.6 Ltrs Con Gas",
+      "full": 3470,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Cachantun 1.6 Ltrs Sin Gas",
+      "full": 3470,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Watts Durazno 1.5 L",
+      "full": 4560,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Watts Naranja 1.5 L",
+      "full": 4560,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Redbull Sugar Free 250 Ml",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Energéticas"
+    },
+    {
+      "name": "Redbull Original 250 Ml",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Energéticas"
+    },
+    {
+      "name": "Chomp Frambuesa",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Helados"
+    },
+    {
+      "name": "Chomp Pistacho",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Helados"
+    },
+    {
+      "name": "Chomp Sahne Nuss",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Helados"
+    },
+    {
+      "name": "Mega Trío Chocolate",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Helados"
+    },
+    {
+      "name": "Mega Trío Frambuesa",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Helados"
+    },
+    {
+      "name": "Mega Trío Dulce de Leche",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Helados"
+    }
+  ],
+  "fetchedAt": 1794355249787
+}

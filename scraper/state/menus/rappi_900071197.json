@@ -1,0 +1,568 @@
+{
+  "id": "900071197",
+  "name": "Just Burger - Los Leones",
+  "url": "https://www.rappi.cl/restaurantes/900071197",
+  "items": [
+    {
+      "name": "Just Classic promo",
+      "full": 8000,
+      "offer": 0,
+      "available": true,
+      "corridor": "PROMOCIONES EXCLUSIVAS"
+    },
+    {
+      "name": "Combo Just Cheese Triple",
+      "full": 15880,
+      "offer": 0,
+      "available": true,
+      "corridor": "PROMOCIONES EXCLUSIVAS"
+    },
+    {
+      "name": "Combo Box Duo",
+      "full": 31450,
+      "offer": 0,
+      "available": true,
+      "corridor": "PROMOCIONES EXCLUSIVAS"
+    },
+    {
+      "name": "Cheese Simple para Tres",
+      "full": 25770,
+      "offer": 0,
+      "available": true,
+      "corridor": "PROMOCIONES EXCLUSIVAS"
+    },
+    {
+      "name": "Promo BBQ Simple Duo",
+      "full": 22180,
+      "offer": 14990,
+      "available": true,
+      "corridor": "PROMOCIONES EXCLUSIVAS"
+    },
+    {
+      "name": "Promo Classic Doble Duo",
+      "full": 25780,
+      "offer": 19990,
+      "available": true,
+      "corridor": "PROMOCIONES EXCLUSIVAS"
+    },
+    {
+      "name": "Combo Just Classic",
+      "full": 12480,
+      "offer": 5990,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Cheese",
+      "full": 11480,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just 4to libra",
+      "full": 12180,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Italian",
+      "full": 12480,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just BBQ",
+      "full": 12880,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Bacon",
+      "full": 14180,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Classic Doble",
+      "full": 14680,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Cheese Doble",
+      "full": 13680,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Blue",
+      "full": 14180,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just 4to libra Doble",
+      "full": 14380,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Italian Doble",
+      "full": 14680,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Órale Wey!",
+      "full": 13080,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just BBQ Doble",
+      "full": 15080,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Bacon Doble",
+      "full": 16380,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Blue Doble",
+      "full": 16380,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Órale Wey! Doble",
+      "full": 15280,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Combo Just Melty",
+      "full": 12270,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Combo"
+    },
+    {
+      "name": "Just Bacon Doble",
+      "full": 11900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Bacon",
+      "full": 9700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Blue Doble",
+      "full": 11900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Blue",
+      "full": 9700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Órale Wey! Doble",
+      "full": 10300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Órale Wey!",
+      "full": 8800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just BBQ Doble",
+      "full": 10600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just BBQ",
+      "full": 8400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Classic Doble",
+      "full": 10200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Italian Doble",
+      "full": 10200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Italian",
+      "full": 8000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just 4to libra Doble",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Cheese",
+      "full": 7000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just 4to libra",
+      "full": 7700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Just Melty",
+      "full": 7790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers"
+    },
+    {
+      "name": "Chicken Original",
+      "full": 7700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken"
+    },
+    {
+      "name": "Chicken Tenders",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken"
+    },
+    {
+      "name": "Chicken Pops",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken"
+    },
+    {
+      "name": "Combo Chicken Original",
+      "full": 12180,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken"
+    },
+    {
+      "name": "Combo Chicken Tenders",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chicken"
+    },
+    {
+      "name": "Just Veggie Doble",
+      "full": 10300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Veggie"
+    },
+    {
+      "name": "Just Veggie",
+      "full": 8800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Veggie"
+    },
+    {
+      "name": "Combo Just Veggie",
+      "full": 13280,
+      "offer": 0,
+      "available": true,
+      "corridor": "Veggie"
+    },
+    {
+      "name": "Combo Just Veggie Doble",
+      "full": 14780,
+      "offer": 0,
+      "available": true,
+      "corridor": "Veggie"
+    },
+    {
+      "name": "Combo Chicken Pop Kids",
+      "full": 7300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Kids"
+    },
+    {
+      "name": "Crunchy Fries",
+      "full": 2690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Crunchy Big Fries",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Aros de Cebolla",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Chicken Tenders",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Crunchy Just Cheddar Bacon Fri",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Chicken Pops",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Empanadas de Queso",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Chilli Bites",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Coca cola zero",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "Agua sin gas",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "Agua con gas",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "RedBull Yellow Edition",
+      "full": 2690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "RedBull Sugar Free",
+      "full": 2690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "RedBull Energy Drink",
+      "full": 2690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "Coca cola",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "Coca cola light",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "Fanta",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "Sprite",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "Sprite zero",
+      "full": 2290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "KAPO",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Tomar"
+    },
+    {
+      "name": "Salsa Honey Mustard",
+      "full": 890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa Just",
+      "full": 890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa Mayo Sriracha",
+      "full": 890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa Aioli",
+      "full": 890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa BBQ",
+      "full": 890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Mayonesa",
+      "full": 490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Franui Dark",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Franui Pink",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Franui",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Calcetín Just Burger",
+      "full": 7390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Love"
+    },
+    {
+      "name": "Vaso Just Burger",
+      "full": 1690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Love"
+    },
+    {
+      "name": "Nuevo Vaso Just Burger",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Just Love"
+    }
+  ],
+  "fetchedAt": 1794354543256
+}

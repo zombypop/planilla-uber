@@ -1,0 +1,519 @@
+{
+  "id": "900018997",
+  "name": "Tarragona - Centro Histórico",
+  "url": "https://www.rappi.cl/restaurantes/900018997",
+  "items": [
+    {
+      "name": "Combo Big Chicken Idols",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Box Chicken Idols",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Dupla Box Chicken Idols",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Trio Box Chicken Idols",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Basket Idols",
+      "full": 27990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Snack Attack XL",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Snack Attack",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "2 Bebidas Snack Attack",
+      "full": 3190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Mozzarella Stick x 3",
+      "full": 2490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Mozzarella Stick x 5",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Aros de Cebolla x 3",
+      "full": 1490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Aros de Cebolla x 5",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Calzones Rotos x2",
+      "full": 1590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Calzones Rotos x4",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Sopaipillas x5",
+      "full": 2490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Sopaipillas x10",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Nuevo"
+    },
+    {
+      "name": "Promo Box Recargado",
+      "full": 12090,
+      "offer": 0,
+      "available": true,
+      "corridor": "DFD Recargado"
+    },
+    {
+      "name": "Promo Box Recargado RAPPI",
+      "full": 12090,
+      "offer": 6500,
+      "available": true,
+      "corridor": "DFD Recargado"
+    },
+    {
+      "name": "Dupla Zero Zero Coca Cola",
+      "full": 23060,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Box Zero Zero Coca Cola",
+      "full": 11960,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Promo Fajita - Coca Cola - Benedictino",
+      "full": 9170,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Coca Cola Zero Cafeina 310cc",
+      "full": 2100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Fillet Bowl",
+      "full": 14290,
+      "offer": 10290,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Dupla Box Fajitas Clasicas",
+      "full": 18590,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Dupla Box Sandwich Clasicos",
+      "full": 18590,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Party Mix",
+      "full": 36090,
+      "offer": 23290,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Super Full Basket",
+      "full": 43390,
+      "offer": 27990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Trio Box Sandwich Clasicos",
+      "full": 27890,
+      "offer": 14990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Trio Box Fajitas Clasicas",
+      "full": 27890,
+      "offer": 14990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Dupla Box Gringou",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Compartir Sándwich y Fajitas"
+    },
+    {
+      "name": "Trio Box Gringou",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Compartir Sándwich y Fajitas"
+    },
+    {
+      "name": "Dupla Deluxe Box Fajitas",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Compartir Sándwich y Fajitas"
+    },
+    {
+      "name": "Dupla Deluxe Box Sandwich",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Compartir Sándwich y Fajitas"
+    },
+    {
+      "name": "Trio Deluxe Box Fajitas",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Compartir Sándwich y Fajitas"
+    },
+    {
+      "name": "Trio Deluxe Box Sandwich",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Compartir Sándwich y Fajitas"
+    },
+    {
+      "name": "Box Gringou",
+      "full": 9999,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Box Sandwich Crack BBQ",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Box Chicken Sandwich",
+      "full": 8690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Box Fajita Clasica",
+      "full": 9490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Box Fajita Spring",
+      "full": 9490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Box Fillet",
+      "full": 8690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Box Fajita Bacon",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Box Sandwich Crack Bacon",
+      "full": 10490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Box Sandwich Crack Italiano",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Box"
+    },
+    {
+      "name": "Crazy Super Basket",
+      "full": 22990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Basket & Bowls"
+    },
+    {
+      "name": "Crazy Basket",
+      "full": 21590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Basket & Bowls"
+    },
+    {
+      "name": "Super Basket",
+      "full": 16490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Basket & Bowls"
+    },
+    {
+      "name": "Full Basket",
+      "full": 19490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Basket & Bowls"
+    },
+    {
+      "name": "Basket",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Basket & Bowls"
+    },
+    {
+      "name": "Crazy Full Basket",
+      "full": 25990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Basket & Bowls"
+    },
+    {
+      "name": "Full Fillet Bowl",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Basket & Bowls"
+    },
+    {
+      "name": "Super Fillet Bowl",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Basket & Bowls"
+    },
+    {
+      "name": "Combo Big Gringou",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Fillet",
+      "full": 7190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Big Chicken Sandwich",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Fajita Bacon",
+      "full": 7190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Fajita Clasica",
+      "full": 6690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Fajita Spring",
+      "full": 6690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Mega Fillet",
+      "full": 9290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Sandwich Big BBQ",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Sandwich Big Bacon",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Combo Sandwich Big Italiano",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Individuales"
+    },
+    {
+      "name": "Benedictino Manzana",
+      "full": 1590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "Caja de Papas",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "Bebida 1.5L",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "10 Empanadas Snack",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "Bebida en Lata",
+      "full": 2100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "Papa Mediana",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "3 Empanadas Snack",
+      "full": 1890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "Salsas",
+      "full": 700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "10 Nuggets",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "3 Filetillos",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    },
+    {
+      "name": "5 Nuggets",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Snacks"
+    }
+  ],
+  "fetchedAt": 1794355559771
+}

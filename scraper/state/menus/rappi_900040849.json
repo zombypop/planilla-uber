@@ -1,0 +1,127 @@
+{
+  "id": "900040849",
+  "name": "Fuente mardoqueo - El Golf",
+  "url": "https://www.rappi.cl/restaurantes/900040849",
+  "items": [
+    {
+      "name": "Sándwich Italiano",
+      "full": 10550,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwich"
+    },
+    {
+      "name": "Sándwich Chacarero",
+      "full": 11000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwich"
+    },
+    {
+      "name": "Arma Tu Sándwich",
+      "full": 8300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwich"
+    },
+    {
+      "name": "Sándwich Completo",
+      "full": 9800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwich"
+    },
+    {
+      "name": "Sándwich Barros Luco",
+      "full": 9800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwich"
+    },
+    {
+      "name": "Hamburguesa Mardoqueo",
+      "full": 13500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesa"
+    },
+    {
+      "name": "Hamburguesa Cheese Caramel",
+      "full": 13300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesa"
+    },
+    {
+      "name": "Arma tu Hamburguesa",
+      "full": 10350,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesa"
+    },
+    {
+      "name": "Ensalada Mardoqueo",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Papas Fritas",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Papas Fritas"
+    },
+    {
+      "name": "Menú para Niños",
+      "full": 6100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Menú Niños"
+    },
+    {
+      "name": "Agua",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Líquidos"
+    },
+    {
+      "name": "Sprite",
+      "full": 2700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Líquidos"
+    },
+    {
+      "name": "Fanta",
+      "full": 2700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Líquidos"
+    },
+    {
+      "name": "Coca Cola",
+      "full": 2700,
+      "offer": 0,
+      "available": true,
+      "corridor": "Líquidos"
+    },
+    {
+      "name": "Nectar",
+      "full": 2490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Líquidos"
+    },
+    {
+      "name": "Promo Sándwich -Ave/Lomo +bebida",
+      "full": 17000,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Promociones del día"
+    }
+  ],
+  "fetchedAt": 1794356024456
+}

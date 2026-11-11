@@ -1,0 +1,225 @@
+{
+  "id": "900069639",
+  "name": "Poke Poke - Los Leones",
+  "url": "https://www.rappi.cl/restaurantes/900069639",
+  "items": [
+    {
+      "name": "Ballscrab O Sakeball, 5 Unidades",
+      "full": 8600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para compartir"
+    },
+    {
+      "name": "Mozzarella, 5 Unidades",
+      "full": 8500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para compartir"
+    },
+    {
+      "name": "Tori Furay",
+      "full": 7400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para compartir"
+    },
+    {
+      "name": "Empanadas Orientales, 6 Unidades",
+      "full": 7200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para compartir"
+    },
+    {
+      "name": "Gyosas , 6 Unidades",
+      "full": 6000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para compartir"
+    },
+    {
+      "name": "Arrollado primavera, 5 unidades",
+      "full": 5800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para compartir"
+    },
+    {
+      "name": "Poke Japón",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke oriental"
+    },
+    {
+      "name": "Poke Tori Especial",
+      "full": 8900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke oriental"
+    },
+    {
+      "name": "Poke Furay",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke oriental"
+    },
+    {
+      "name": "Poke Tori Furay",
+      "full": 8900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke oriental"
+    },
+    {
+      "name": "Limeño",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke nikkei"
+    },
+    {
+      "name": "Tuna Nikkei",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke nikkei"
+    },
+    {
+      "name": "Criollo",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke nikkei"
+    },
+    {
+      "name": "Mixtura",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke nikkei"
+    },
+    {
+      "name": "Poke Al Olivo",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke nikkei"
+    },
+    {
+      "name": "Poke MIX",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke nikkei"
+    },
+    {
+      "name": "Palm",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke thai"
+    },
+    {
+      "name": "Fresh",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke thai"
+    },
+    {
+      "name": "Sweet",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke thai"
+    },
+    {
+      "name": "Soya",
+      "full": 590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Wasabi",
+      "full": 590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Jengibre",
+      "full": 500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Agua Mineral 500cc",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    },
+    {
+      "name": "Fanta Naranja Lata 350ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    },
+    {
+      "name": "Coca Cola Original Lata 350ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    },
+    {
+      "name": "Coca Cola Zero Lata 350ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    },
+    {
+      "name": "Coca Cola Light Lata 350ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    },
+    {
+      "name": "Sprite Lata 350ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    },
+    {
+      "name": "Sprite Zero Lata 350ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    },
+    {
+      "name": "Nordic Ginger Ale Lata 350ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    },
+    {
+      "name": "Nordic Zero Ginger Ale Lata 350ml",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Refrescos"
+    }
+  ],
+  "fetchedAt": 1794355282648
+}

@@ -1,0 +1,323 @@
+{
+  "id": "900082903",
+  "name": "Milas - Bellavista",
+  "url": "https://www.rappi.cl/restaurantes/900082903",
+  "items": [
+    {
+      "name": "Combo + para Uno",
+      "full": 20780,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Promos"
+    },
+    {
+      "name": "Combo + Sándwich",
+      "full": 17390,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Promos"
+    },
+    {
+      "name": "Milas Lunch",
+      "full": 17390,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Promos"
+    },
+    {
+      "name": "Combo + para Dos",
+      "full": 38820,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Promos"
+    },
+    {
+      "name": "Combo Special Milas",
+      "full": 35160,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Promos"
+    },
+    {
+      "name": "Combo 5 Strips de Pollo",
+      "full": 8950,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Promos"
+    },
+    {
+      "name": "Milanesa Just Mila + Papas",
+      "full": 16590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa Fresh Summer",
+      "full": 16590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa a Lo Pobre",
+      "full": 16590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa Napolitana",
+      "full": 16590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Cheese Bbq",
+      "full": 16590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Napo Baby",
+      "full": 16590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa Capresse",
+      "full": 17390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas Premium"
+    },
+    {
+      "name": "Milanesa Rugulazza",
+      "full": 17390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas Premium"
+    },
+    {
+      "name": "Sándwich de Mila Gringou",
+      "full": 15590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches de Milanesa"
+    },
+    {
+      "name": "Sándwich de Mila Clásico",
+      "full": 15590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches de Milanesa"
+    },
+    {
+      "name": "Sándwich de Mila Italiano",
+      "full": 15590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sándwiches de Milanesa"
+    },
+    {
+      "name": "Aros de Cebolla",
+      "full": 4550,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Puré de Papas",
+      "full": 4550,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Ensalada",
+      "full": 4550,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas Fritas",
+      "full": 4550,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas Animal Style",
+      "full": 6400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Galleta Cookie-tella By Buffalo Waffles",
+      "full": 3790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Galletas By Buffalo Waffles"
+    },
+    {
+      "name": "Galleta Split Junior By Buffalo Waffles",
+      "full": 3790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Galletas By Buffalo Waffles"
+    },
+    {
+      "name": "Galleta Black & White By Buffalo Waffles",
+      "full": 3790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Galletas By Buffalo Waffles"
+    },
+    {
+      "name": "Strawberry Fields By Buffalo Waffles",
+      "full": 7390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Waffles By Buffalo Waffles"
+    },
+    {
+      "name": "Volcano By Buffalo Waffles",
+      "full": 6890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Waffles By Buffalo Waffles"
+    },
+    {
+      "name": "Cheesecake By Buffalo Waffles",
+      "full": 7390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Waffles By Buffalo Waffles"
+    },
+    {
+      "name": "King Kong By Buffalo Waffles",
+      "full": 6890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Waffles By Buffalo Waffles"
+    },
+    {
+      "name": "Salsa de Ajo",
+      "full": 800,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Salsas"
+    },
+    {
+      "name": "Salsa Bbq",
+      "full": 800,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Salsas"
+    },
+    {
+      "name": "Salsa Pesto",
+      "full": 1000,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Salsas"
+    },
+    {
+      "name": "Salsa Chimichurri",
+      "full": 1000,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Salsas"
+    },
+    {
+      "name": "Puré de Palta",
+      "full": 1000,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Salsas"
+    },
+    {
+      "name": "Oliva y Orégano",
+      "full": 800,
+      "offer": 0,
+      "available": true,
+      "corridor": "+Salsas"
+    },
+    {
+      "name": "Coca-cola Original 350 ml",
+      "full": 1900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-cola Zero 350 ml",
+      "full": 1900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite Zero 350 ml",
+      "full": 1900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta Original 350 ml",
+      "full": 1900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Agua Sin Gas Benedictino 500 ml",
+      "full": 1800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Agua Gasificada Benedictino 500 ml",
+      "full": 1800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Jugos de Botella",
+      "full": 1900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Bilz Original 310 ml",
+      "full": 1900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pap 350ml",
+      "full": 1900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Kem Piña 350 ml",
+      "full": 1900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    }
+  ],
+  "fetchedAt": 1794355066023
+}

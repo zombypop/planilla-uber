@@ -1,0 +1,330 @@
+{
+  "id": "900104236",
+  "name": "Wendy's - Divina Providencia",
+  "url": "https://www.rappi.cl/restaurantes/900104236",
+  "items": [
+    {
+      "name": "Box Jr Chicken OFF",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "LAS PROMOS WENDYS"
+    },
+    {
+      "name": "Box Daves Desc OFF",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "LAS PROMOS WENDYS"
+    },
+    {
+      "name": "Box Cheddar Melt OFF",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "LAS PROMOS WENDYS"
+    },
+    {
+      "name": "Duo Crispy BBQ Bacon OFF",
+      "full": 16990,
+      "offer": 0,
+      "available": true,
+      "corridor": "LAS PROMOS WENDYS"
+    },
+    {
+      "name": "Trio Locura Con Cheeseburger OFF",
+      "full": 19990,
+      "offer": 0,
+      "available": true,
+      "corridor": "LAS PROMOS WENDYS"
+    },
+    {
+      "name": "Baconator Fries",
+      "full": 4190,
+      "offer": 0,
+      "available": true,
+      "corridor": "BACON FEST"
+    },
+    {
+      "name": "Chicken Bacon Cheddar Combo",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "BACON FEST"
+    },
+    {
+      "name": "Combo Baconator (Original Doble)",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "BACON FEST"
+    },
+    {
+      "name": "Chili Regular",
+      "full": 1000,
+      "offer": 0,
+      "available": true,
+      "corridor": "PROMOS A LUCA"
+    },
+    {
+      "name": "Combo Baconaisse Simple",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Baconaisse Doble",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Daves",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Daves Doble",
+      "full": 9590,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Bacon Cheddar Lovers",
+      "full": 8690,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Bacon Cheddar Lovers Doble",
+      "full": 10190,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Cheddar Melt",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Cheddar Melt Doble",
+      "full": 9490,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Bacon Cheddar Simple",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Bacon Cheddar Doble",
+      "full": 10290,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Crispy BBQ Bacon",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Combo Crispy BBQ Bacon Doble",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE HAMBURGUESAS"
+    },
+    {
+      "name": "Box Jr. 4X4 Doble Stack",
+      "full": 22390,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Box 4X4",
+      "full": 25390,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Baconator Trio Pack",
+      "full": 29990,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Duo Box Daves",
+      "full": 15190,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Dupla Bacon Cheddar Simple",
+      "full": 15250,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Box Tenders Baconaisse",
+      "full": 6200,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Biggie Box Tenders Cheddar Melt",
+      "full": 8700,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Biggie Box Tender Daves Dip",
+      "full": 8700,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Trio Classic",
+      "full": 17480,
+      "offer": 0,
+      "available": true,
+      "corridor": "BOXES"
+    },
+    {
+      "name": "Combo Classic Chicken",
+      "full": 7290,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE POLLO"
+    },
+    {
+      "name": "Combo Classic Chicken Club",
+      "full": 8290,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS DE POLLO"
+    },
+    {
+      "name": "Daves",
+      "full": 5850,
+      "offer": 0,
+      "available": true,
+      "corridor": "HAMBURGUESAS"
+    },
+    {
+      "name": "Daves Doble",
+      "full": 6890,
+      "offer": 0,
+      "available": true,
+      "corridor": "HAMBURGUESAS"
+    },
+    {
+      "name": "Baconator (Original Doble)",
+      "full": 8390,
+      "offer": 0,
+      "available": true,
+      "corridor": "HAMBURGUESAS"
+    },
+    {
+      "name": "Baconator Triple",
+      "full": 11390,
+      "offer": 0,
+      "available": true,
+      "corridor": "HAMBURGUESAS"
+    },
+    {
+      "name": "CHILI",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Cheese Fries",
+      "full": 3190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Papas Fritas Grandes",
+      "full": 2350,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Empanadas De Queso X10",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Tenders X6",
+      "full": 6690,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Tenders X12",
+      "full": 11890,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Dip Baconaisse",
+      "full": 450,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Agua Mineral Con Gas",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Agua Mineral Sin Gas",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Bebidas En Lata",
+      "full": 2090,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    }
+  ],
+  "fetchedAt": 1794355873000
+}

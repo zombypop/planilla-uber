@@ -1,0 +1,414 @@
+{
+  "id": "900118383",
+  "name": "Itacate - Los Castaños",
+  "url": "https://www.rappi.cl/restaurantes/900118383",
+  "items": [
+    {
+      "name": "Combo Chicken Lover",
+      "full": 18560,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Pa' Todos"
+    },
+    {
+      "name": "Combo Triple Burritos",
+      "full": 20970,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Pa' Todos"
+    },
+    {
+      "name": "Combo Chilli",
+      "full": 21010,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Pa' Todos"
+    },
+    {
+      "name": "Combo Antojo",
+      "full": 20970,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Pa' Todos"
+    },
+    {
+      "name": "Combo Cuate",
+      "full": 19420,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Pa' Todos"
+    },
+    {
+      "name": "Combo Duo Lover",
+      "full": 14430,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Pa' Ti"
+    },
+    {
+      "name": "Combo Chilli Lover",
+      "full": 9080,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos Pa' Ti"
+    },
+    {
+      "name": "Combo Double Burritos",
+      "full": 13980,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Combo Prime",
+      "full": 31900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Combo Supreme",
+      "full": 30650,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Crispy For One",
+      "full": 8780,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Arma Tu Bowl + Bebida",
+      "full": 9790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Arma Tu Burrito + Bebida",
+      "full": 9690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Arma Tu Burrito",
+      "full": 7390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Arma Tu"
+    },
+    {
+      "name": "Arma Tu Bowl",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Arma Tu"
+    },
+    {
+      "name": "Tacos X3 Carne Supreme + Bebida",
+      "full": 10490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taqueros"
+    },
+    {
+      "name": "Tacos X3 Tex-mex Crispy+ Papas Pequeñas",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taqueros"
+    },
+    {
+      "name": "Tacos X3 Chilli Power+ Nachos + Bebida",
+      "full": 9190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taqueros"
+    },
+    {
+      "name": "Taco Box Party para 4",
+      "full": 24990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taqueros"
+    },
+    {
+      "name": "Taco Box Party para 2",
+      "full": 20990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taqueros"
+    },
+    {
+      "name": "Burrito Chilli Cuate",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burritos"
+    },
+    {
+      "name": "Burrito Vegetariano",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burritos"
+    },
+    {
+      "name": "Burrito Crispy Chicken",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burritos"
+    },
+    {
+      "name": "Burrito Cheesy Melt",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burritos"
+    },
+    {
+      "name": "Burrito Campestre",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burritos"
+    },
+    {
+      "name": "Quesadilla Pollo Crispy",
+      "full": 5190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bowls & Quesadillas"
+    },
+    {
+      "name": "Quesadilla Cheesy Melt",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bowls & Quesadillas"
+    },
+    {
+      "name": "Bowl Ijole",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bowls & Quesadillas"
+    },
+    {
+      "name": "Quesadilla Campestre",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bowls & Quesadillas"
+    },
+    {
+      "name": "Chicken Bowl",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bowls & Quesadillas"
+    },
+    {
+      "name": "Papas Simples",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Papas con Queso Cheddar",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Papas Supremas",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Papas Dobles",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Papas Queso Cheddar Doble",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Papas Suprema Doble",
+      "full": 4190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Nachos Cheddar Simple",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Nachos Cheddar Doble",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Nachos con Guacamole Simple",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Nachos con Guacamole Doble",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Empanadas Cheesy Bites X3",
+      "full": 1090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Empanadas Cheesy Bites X6",
+      "full": 2100,
+      "offer": 0,
+      "available": true,
+      "corridor": "Picoteos Chidos"
+    },
+    {
+      "name": "Crema Ácida",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa de Queso",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa Roja Picante",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Salsa Cheddar",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Mayo Cilantro",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Pico de Gallo",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Guacamole",
+      "full": 990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Coca-Cola Original 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Light 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Sin Azúcar 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta Naranja 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta Naranja Sin Azúcar 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite Zero 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Original 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Pepsi Zero 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    }
+  ],
+  "fetchedAt": 1794354380627
+}

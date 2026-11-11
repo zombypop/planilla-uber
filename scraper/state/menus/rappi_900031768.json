@@ -1,0 +1,610 @@
+{
+  "id": "900031768",
+  "name": "Muu Steak - Tajamar",
+  "url": "https://www.rappi.cl/restaurantes/900031768",
+  "items": [
+    {
+      "name": "Carpaccio de Filete",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Duo de Chorizos",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Empanaditas Mechada",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Empanadas Queso Camaron",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Malaya a las Brasas",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Quesadilla Mechada",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Crudo de Filete",
+      "full": 15900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Champiñones",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Lomo Liso ARG 350gr",
+      "full": 34900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Carnes Angus Argentino"
+    },
+    {
+      "name": "Lomo Vetado ARG 350gr",
+      "full": 36900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Carnes Angus Argentino"
+    },
+    {
+      "name": "Flat Iron ARG 250gr",
+      "full": 26900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Carnes Angus Argentino"
+    },
+    {
+      "name": "Lomo Liso",
+      "full": 26900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Mejores Cortes"
+    },
+    {
+      "name": "Entraña",
+      "full": 34900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Mejores Cortes"
+    },
+    {
+      "name": "Lomo Vetado",
+      "full": 26900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Mejores Cortes"
+    },
+    {
+      "name": "Filete",
+      "full": 26900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Mejores Cortes"
+    },
+    {
+      "name": "Anticucho Mixto",
+      "full": 26900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Mejores Cortes"
+    },
+    {
+      "name": "Anticucho Grill",
+      "full": 29900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Mejores Cortes"
+    },
+    {
+      "name": "Palanca",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Mejores Cortes"
+    },
+    {
+      "name": "Grill Beef",
+      "full": 42900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestras Tablas"
+    },
+    {
+      "name": "La Entrañable",
+      "full": 44900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestras Tablas"
+    },
+    {
+      "name": "Classic Burger",
+      "full": 22900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers Grill"
+    },
+    {
+      "name": "Burger BBQ",
+      "full": 24900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Burgers Grill"
+    },
+    {
+      "name": "Churrazco Italiano",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sanguches"
+    },
+    {
+      "name": "Churrazco Saltado",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sanguches"
+    },
+    {
+      "name": "Brisket Guisado",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Más Sabores"
+    },
+    {
+      "name": "BBQ Rack Ribs",
+      "full": 23900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Más Sabores"
+    },
+    {
+      "name": "Lomo Saltado a Nuestro Estilo",
+      "full": 26900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Más Sabores"
+    },
+    {
+      "name": "Milanesa Pepperoni",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa BBQ",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa Clásica",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa Chorrillana",
+      "full": 22900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa Napolitana",
+      "full": 23900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa Argentina",
+      "full": 24900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas"
+    },
+    {
+      "name": "Milanesa XL Gnocci-Queso",
+      "full": 39900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas XL"
+    },
+    {
+      "name": "Milanesa XL Pepperoni",
+      "full": 39900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas XL"
+    },
+    {
+      "name": "Milanesa XL A Caballo",
+      "full": 39900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas XL"
+    },
+    {
+      "name": "Milanesa XL Penne Regate",
+      "full": 39900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas XL"
+    },
+    {
+      "name": "Milanesa XL Fetuccini Pesto",
+      "full": 39900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas XL"
+    },
+    {
+      "name": "Milanesa XL Saltado De Camarón",
+      "full": 42900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas XL"
+    },
+    {
+      "name": "Milanesa XL Penne Regate y Camarones",
+      "full": 44900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Milanesas XL"
+    },
+    {
+      "name": "Chorrillana de Mechada",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chorrillanas"
+    },
+    {
+      "name": "Chorrillana de Pollo",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chorrillanas"
+    },
+    {
+      "name": "1/2 Pollo",
+      "full": 24900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pollos Asados"
+    },
+    {
+      "name": "1/4 Pollo",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pollos Asados"
+    },
+    {
+      "name": "César Pollo",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "César Camarón",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "A lo Pobre",
+      "full": 8900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Ensalada del Huerto",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Ensalada Chilena",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Pastelera Choclo",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Ensalada Tomate, Palta y Palmito",
+      "full": 8900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Papas Fritas",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Puré Rustico",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Arroz",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Papas Provenzal",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Pan de Mesa",
+      "full": 1500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Huevo Frito",
+      "full": 1000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Gnocci",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Penne Regatti",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Fetuccini",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Verduras Salteadas",
+      "full": 8900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guarniciones"
+    },
+    {
+      "name": "Torta de Chocolate",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Mil Hojas",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Helados",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Volcán de Chocolate",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Cheescake",
+      "full": 8900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Coca Cola",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Coca Cola Zero",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Coca Cola Light",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Sprite",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Sprite Zero",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Fanta",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Fanta Zero",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Schweppes",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Agua vital con gas",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Agua"
+    },
+    {
+      "name": "Agua vital sin gas",
+      "full": 3290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Agua"
+    },
+    {
+      "name": "Bufalo",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Atrevido",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Torero",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Jugo Chirimoya",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Jugo Frutilla",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Jugo Mango",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Jugo Piña",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Jugo Maracuyá",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Jugo Frambuesa",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Pistolero",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestro Mocktail Muu"
+    }
+  ],
+  "fetchedAt": 1794355126869
+}

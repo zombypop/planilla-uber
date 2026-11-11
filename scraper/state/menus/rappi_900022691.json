@@ -1,0 +1,491 @@
+{
+  "id": "900022691",
+  "name": "La Sanguchera del Barrio - Tajamar",
+  "url": "https://www.rappi.cl/restaurantes/900022691",
+  "items": [
+    {
+      "name": "Combo Ensalada + Bebida a elección",
+      "full": 9890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Luco Pituco + Bebida a elección",
+      "full": 12890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Fake Wings del Barrio",
+      "full": 11900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Fake Wings Bruce Lee",
+      "full": 11900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Fake Wings Neoyorkinas",
+      "full": 11900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Mozzarella sticks",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Lomo Saltado",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Carne"
+    },
+    {
+      "name": "Churrazo Italiano",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Carne"
+    },
+    {
+      "name": "Luco Pituco",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Carne"
+    },
+    {
+      "name": "Churrazo Chacarero",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Carne"
+    },
+    {
+      "name": "Phillycheese",
+      "full": 15900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Carne"
+    },
+    {
+      "name": "Churrazo Italiano de Filete",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Filete"
+    },
+    {
+      "name": "Luco Pituco de Filete",
+      "full": 15900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Filete"
+    },
+    {
+      "name": "Lomo Saltado de Filete",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Filete"
+    },
+    {
+      "name": "Churrazo Chacarero de Filete",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Filete"
+    },
+    {
+      "name": "Phillycheese de Filete",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Filete"
+    },
+    {
+      "name": "Chicharrón Crujiente",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Chanchito"
+    },
+    {
+      "name": "Pescado Tempuron",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Pescado"
+    },
+    {
+      "name": "Mechada Italiana",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Mechada"
+    },
+    {
+      "name": "Mechada Franchute",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Mechada"
+    },
+    {
+      "name": "Mechada con Todo",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Mechada"
+    },
+    {
+      "name": "Mechada Ruculin",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Mechada"
+    },
+    {
+      "name": "Mechada con Ají",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Mechada"
+    },
+    {
+      "name": "Pollo Amistoso",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Pollo"
+    },
+    {
+      "name": "El Rey Supremon",
+      "full": 11900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Pollo"
+    },
+    {
+      "name": "Pollo Achorado",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Pollo Broa..."
+    },
+    {
+      "name": "Pollo El Koreano",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Pollo Broa..."
+    },
+    {
+      "name": "Pollo Vilucho",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Pollo Broa..."
+    },
+    {
+      "name": "Pollo Italiano",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Sanguches de Pollo Broa..."
+    },
+    {
+      "name": "Clásica",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Hamburguesas del Barrio"
+    },
+    {
+      "name": "Del Barrio",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Hamburguesas del Barrio"
+    },
+    {
+      "name": "Peper & Chesse",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Hamburguesas del Barrio"
+    },
+    {
+      "name": "Gringacha",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Hamburguesas del Barrio"
+    },
+    {
+      "name": "Enquesame Burger 2.0",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Hamburguesas del Barrio"
+    },
+    {
+      "name": "Cheeseburguer",
+      "full": 11900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Hamburguesas del Barrio"
+    },
+    {
+      "name": "Sweet Relish Smash",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Smash Burgers"
+    },
+    {
+      "name": "Oklahoma Smash",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Las Smash Burgers"
+    },
+    {
+      "name": "Chorrillana Del Barrio",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chorrillanas"
+    },
+    {
+      "name": "Made in Perú",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chorrillanas"
+    },
+    {
+      "name": "Made in Chile",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chorrillanas"
+    },
+    {
+      "name": "Don Barriga",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Chorrillanas"
+    },
+    {
+      "name": "Ensalada Lulu",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Ensalada Tutti",
+      "full": 11900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Ensalada Gloria",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Pailón",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Desayunos Power"
+    },
+    {
+      "name": "Paila Tocinera",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Desayunos Power"
+    },
+    {
+      "name": "Paila Chola",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Desayunos Power"
+    },
+    {
+      "name": "Tortilla Brava",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Desayunos Power"
+    },
+    {
+      "name": "Repalteadito",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Desayunos Power"
+    },
+    {
+      "name": "La Tentadora",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Premios"
+    },
+    {
+      "name": "El pecador",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Premios"
+    },
+    {
+      "name": "Santurrón",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Premios"
+    },
+    {
+      "name": "Mino",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Jugos"
+    },
+    {
+      "name": "Amoroso",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Jugos"
+    },
+    {
+      "name": "Gallo",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Jugos"
+    },
+    {
+      "name": "Rico",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Jugos"
+    },
+    {
+      "name": "Coqueto",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Los Jugos"
+    },
+    {
+      "name": "Limonada Clásica",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Limonada Menta Jengibre",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Chicha Morada",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Coca Cola",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Coca Cola Light",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Coca Cola Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Sprite",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Sprite Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Fanta",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Fanta Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Agua vital con Gas",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    },
+    {
+      "name": "Agua Vital Sin Gas",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Refrescarse"
+    }
+  ],
+  "fetchedAt": 1794354788529
+}

@@ -1,0 +1,498 @@
+{
+  "id": "900024791",
+  "name": "Tommy Beans - Lyon",
+  "url": "https://www.rappi.cl/restaurantes/900024791",
+  "items": [
+    {
+      "name": "Mechada Chiplote",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Platos Preparados"
+    },
+    {
+      "name": "Pollo Al Pastor",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Platos Preparados"
+    },
+    {
+      "name": "Bowl Carnal Prime",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armados por Tommy"
+    },
+    {
+      "name": "Tommy Lover Chili",
+      "full": 6690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armados por Tommy"
+    },
+    {
+      "name": "Tommy Lover Mechada",
+      "full": 7090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armados por Tommy"
+    },
+    {
+      "name": "Tommy Lover Pollo Grill",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armados por Tommy"
+    },
+    {
+      "name": "Bowl Chicken Prime",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armados por Tommy"
+    },
+    {
+      "name": "Burrito Carnal Prime",
+      "full": 8090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armados por Tommy"
+    },
+    {
+      "name": "Burrito Chicken Prime",
+      "full": 7790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armados por Tommy"
+    },
+    {
+      "name": "Nachos Texanos",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Nachos Chingones"
+    },
+    {
+      "name": "Nachos Veggie Mex",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Nachos Chingones"
+    },
+    {
+      "name": "Nachos a la Mexicana",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Nachos Chingones"
+    },
+    {
+      "name": "Nachos Carnalitos",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Nachos Chingones"
+    },
+    {
+      "name": "Nachos a tu Pinta",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevos Nachos Chingones"
+    },
+    {
+      "name": "Papas Texanas",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevas Papas Chingonas"
+    },
+    {
+      "name": "Papas Veggie Mex",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevas Papas Chingonas"
+    },
+    {
+      "name": "Papas a la Mexicana",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevas Papas Chingonas"
+    },
+    {
+      "name": "Papas Carnalitas",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevas Papas Chingonas"
+    },
+    {
+      "name": "Papas a tu Pinta",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuevas Papas Chingonas"
+    },
+    {
+      "name": "Arma tu Bowl",
+      "full": 7790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armalos a tu pinta"
+    },
+    {
+      "name": "Burrote de Kilo",
+      "full": 17390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armalos a tu pinta"
+    },
+    {
+      "name": "Arma tu Burrito",
+      "full": 7790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Armalos a tu pinta"
+    },
+    {
+      "name": "Choclo Bravo Individual",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Novedades"
+    },
+    {
+      "name": "Choclo Bravo Para Compartir",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Novedades"
+    },
+    {
+      "name": "Big Mex Vegetariano",
+      "full": 10390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Individuales"
+    },
+    {
+      "name": "Big Mex Pollo",
+      "full": 11290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Individuales"
+    },
+    {
+      "name": "Big Mex Carne",
+      "full": 11790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Individuales"
+    },
+    {
+      "name": "Tommy Duo Pollo",
+      "full": 20090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Tommy Duo Carne",
+      "full": 20390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Tommy Duo Vegetariano",
+      "full": 19690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Combo Para Dos",
+      "full": 20630,
+      "offer": 14000,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Tommy Lover x2",
+      "full": 14160,
+      "offer": 10000,
+      "available": true,
+      "corridor": "Para Dos"
+    },
+    {
+      "name": "Tommy kids pollo",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Familiares"
+    },
+    {
+      "name": "Menú Kids",
+      "full": 6190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Familiares"
+    },
+    {
+      "name": "Tommy X4",
+      "full": 24990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Familiares"
+    },
+    {
+      "name": "Tacos a tu Pinta de Pollo",
+      "full": 20390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taquear"
+    },
+    {
+      "name": "Tacos a tu Pinta de Mechada",
+      "full": 21190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taquear"
+    },
+    {
+      "name": "Tarde de Tacos",
+      "full": 17590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taquear"
+    },
+    {
+      "name": "Taqueo Wey",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Taquear"
+    },
+    {
+      "name": "Quesadilla Personal",
+      "full": 6690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Quesadillas"
+    },
+    {
+      "name": "Quesadilla Duo",
+      "full": 11390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Quesadillas"
+    },
+    {
+      "name": "Nachos Individuales",
+      "full": 3980,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Choclo Wey",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Caja de nacho mas hummus y guacamole",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Tubos Mex x6",
+      "full": 9680,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Nachos individuales guacamole",
+      "full": 4380,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Tubos Mex x12",
+      "full": 16080,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Nachos Individuales Cheddar",
+      "full": 5280,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas fritas individual",
+      "full": 3980,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Nachos para compartir",
+      "full": 4880,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas fritas para compartir",
+      "full": 4880,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Nachos para compartir guacamole",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Nachos para compartir cheddar",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas fritas individual guacamole",
+      "full": 4380,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas fritas individual cheddar",
+      "full": 4380,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas fritas para compartir guacamole",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Papas fritas para compartir cheddar",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cup Hummus",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Cup de Guacamole",
+      "full": 2590,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Cup Cheddar",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Cup Salsa Tommy Cilantro",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Cup Salsa Aji Verde",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Cup Salsa Crema Acida",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Jalapeños",
+      "full": 690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Cup Salsa Spicy Tomato",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "Cup Salsa Tommy Chipotle",
+      "full": 2190,
+      "offer": 0,
+      "available": true,
+      "corridor": "Salsas"
+    },
+    {
+      "name": "La Bandita",
+      "full": 90240,
+      "offer": 72190,
+      "available": true,
+      "corridor": "Catering"
+    },
+    {
+      "name": "Bebida 350 cc",
+      "full": 2790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Agua Benedictino",
+      "full": 2790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Bebida 1,5 lts",
+      "full": 4500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    }
+  ],
+  "fetchedAt": 1794353806976
+}

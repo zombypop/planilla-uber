@@ -1,0 +1,211 @@
+{
+  "id": "900120197",
+  "name": "Juan Maestro - Ñuñoa",
+  "url": "https://www.rappi.cl/restaurantes/900120197",
+  "items": [
+    {
+      "name": "Smashter Burger Clásica",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Combo Smashter Burger Americana",
+      "full": 8790,
+      "offer": 7000,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Smashter Burger Crispy Bacon",
+      "full": 7890,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Smashter Burger Italiana",
+      "full": 7190,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Combo Smashter Burger Italiana",
+      "full": 8590,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Combo Smashter Burger Clásica",
+      "full": 8390,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Combo Smashter Burger Cuarto Maestro",
+      "full": 7390,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Smashter Burger Americana",
+      "full": 7590,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Combo Smashter Burger Crispy Bacon",
+      "full": 9390,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Smashter Burger Cuarto Maestro",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "SMASHTER BURGERS"
+    },
+    {
+      "name": "Combo Hamburguesa Kids",
+      "full": 6190,
+      "offer": 0,
+      "available": true,
+      "corridor": "PEQUEÑOS MAESTROS"
+    },
+    {
+      "name": "Americana para 2",
+      "full": 20380,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS GRUPALES"
+    },
+    {
+      "name": "Maestro en Familia Burger",
+      "full": 20990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS GRUPALES"
+    },
+    {
+      "name": "Duo Maestro Burger",
+      "full": 15390,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS GRUPALES"
+    },
+    {
+      "name": "Super Juan Smashter Burger",
+      "full": 10700,
+      "offer": 7590,
+      "available": true,
+      "corridor": "COMBOS GRUPALES"
+    },
+    {
+      "name": "Dupla Smashter Burgers",
+      "full": 18990,
+      "offer": 14000,
+      "available": true,
+      "corridor": "COMBOS GRUPALES"
+    },
+    {
+      "name": "Super Dupla Doble",
+      "full": 24680,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS GRUPALES"
+    },
+    {
+      "name": "Mega Combo Smashter Burgers",
+      "full": 39640,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS GRUPALES"
+    },
+    {
+      "name": "Match Maestro",
+      "full": 16580,
+      "offer": 10000,
+      "available": true,
+      "corridor": "COMBOS GRUPALES"
+    },
+    {
+      "name": "Papas fritas familiares",
+      "full": 5700,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Empanadas x5",
+      "full": 3590,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Papas fritas grandes",
+      "full": 3090,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Empanadas familiares",
+      "full": 5700,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Caja de papas fritas + empanadas",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "SNACKS"
+    },
+    {
+      "name": "Bebida en Lata",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS Y OTROS"
+    },
+    {
+      "name": "Agua Mineral",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS Y OTROS"
+    },
+    {
+      "name": "Bebida de 1,5 litros",
+      "full": 4500,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS Y OTROS"
+    },
+    {
+      "name": "Banquete Maestro",
+      "full": 79870,
+      "offer": 55000,
+      "available": true,
+      "corridor": "CATERING"
+    },
+    {
+      "name": "Smashter Burger Clásica 2x",
+      "full": 11980,
+      "offer": 0,
+      "available": true,
+      "corridor": "¡MARTES MAESTROS!"
+    }
+  ],
+  "fetchedAt": 1794354510211
+}

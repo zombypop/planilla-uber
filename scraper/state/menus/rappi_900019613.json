@@ -1,0 +1,603 @@
+{
+  "id": "900019613",
+  "name": "Sushi Blues - Tajamar",
+  "url": "https://www.rappi.cl/restaurantes/900019613",
+  "items": [
+    {
+      "name": "Gohan Especial",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "NEW IN! - HIGH PROTEIN"
+    },
+    {
+      "name": "Gohan Sensei",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "NEW IN! - HIGH PROTEIN"
+    },
+    {
+      "name": "Gohan Premium + Bebida Lata",
+      "full": 10490,
+      "offer": 0,
+      "available": true,
+      "corridor": "NEW IN! - HIGH PROTEIN"
+    },
+    {
+      "name": "Ceviche De Atún",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Ceviche De Salmón",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Crispy Rice Atún",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Crispy Rice Camarón - Kanikama",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Crispy Rice Salmón",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Ebi Furai Americano X 3",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Ebi Furai Americano X 5",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Ebi Tempura X 3",
+      "full": 3690,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Ebi Tempura X 5",
+      "full": 5490,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Gyozas CerdoCamarón X 5",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Gyozas CerdoCamarón X 3",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Crispy Rice X 2",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Sashimi de Salmón",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "APPETIZERS"
+    },
+    {
+      "name": "Gohan Kinoko",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "GOHAN"
+    },
+    {
+      "name": "Gohan Pollo",
+      "full": 7990,
+      "offer": 6390,
+      "available": true,
+      "corridor": "GOHAN"
+    },
+    {
+      "name": "Gohan Salmón",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "GOHAN"
+    },
+    {
+      "name": "Gohan Camarón",
+      "full": 7990,
+      "offer": 6390,
+      "available": true,
+      "corridor": "GOHAN"
+    },
+    {
+      "name": "Gohan Nikkei",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "GOHAN"
+    },
+    {
+      "name": "Gohan Tataki",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "GOHAN"
+    },
+    {
+      "name": "Combo 3 (15 Piezas) + Bebida Lata",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combo 4 (15 Piezas) + Bebida Lata",
+      "full": 12490,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combo 5 (20 Piezas) + Bebida Lata",
+      "full": 16990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combo 8 (15 Piezas) + Bebida Lata",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 1 (10 Piezas)",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 2 (10 Piezas)",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 3 (15 Piezas)",
+      "full": 11490,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 4 (15 Piezas)",
+      "full": 10990,
+      "offer": 8790,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 5 (20 Piezas)",
+      "full": 14990,
+      "offer": 11240,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 6 (20 Piezas)",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 7 (15 Piezas)",
+      "full": 11490,
+      "offer": 9190,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 8 (15 Piezas)",
+      "full": 10490,
+      "offer": 7860,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 9 (20 Piezas)",
+      "full": 14490,
+      "offer": 11590,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 11 (20 Piezas)",
+      "full": 13490,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combinación 12 (40 Piezas)",
+      "full": 16490,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Familiar (30 Piezas) + Bebida 1,5 lts",
+      "full": 22490,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Familiar (40 Piezas) + Bebida 1,5 lts",
+      "full": 28990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Familiar (60 Piezas) + Bebida 1,5 lts",
+      "full": 39990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Mix Premium(86 Piezas)+ 2 Bebida 1,5 lts",
+      "full": 67990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Combo Party(120 Pzas)+3 Bebidas 1,5 lts",
+      "full": 83990,
+      "offer": 0,
+      "available": true,
+      "corridor": "COMBOS"
+    },
+    {
+      "name": "Hot Roll (30 Piezas)",
+      "full": 19990,
+      "offer": 14990,
+      "available": true,
+      "corridor": "PROMOS"
+    },
+    {
+      "name": "Gohan Pollo + Bebida lata",
+      "full": 9490,
+      "offer": 0,
+      "available": true,
+      "corridor": "PROMOS"
+    },
+    {
+      "name": "Gohan a elección + Bebida Lata",
+      "full": 9990,
+      "offer": 7990,
+      "available": true,
+      "corridor": "PROMOS"
+    },
+    {
+      "name": "3 Gohan a elección",
+      "full": 16990,
+      "offer": 14440,
+      "available": true,
+      "corridor": "PROMOS"
+    },
+    {
+      "name": "Roll Blues",
+      "full": 6990,
+      "offer": 5940,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Edu",
+      "full": 6490,
+      "offer": 5510,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Maki Tempura",
+      "full": 7490,
+      "offer": 6360,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Sakana",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Acevichado",
+      "full": 7690,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Citrus",
+      "full": 7690,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Hirohito",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Akihito",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Nico",
+      "full": 6990,
+      "offer": 5940,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Tori Panko",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Osaka",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Ceviche",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Ají Amarillo",
+      "full": 6490,
+      "offer": 5510,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Lucas",
+      "full": 5690,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll California",
+      "full": 5690,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Beji",
+      "full": 6490,
+      "offer": 5510,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Roll Yasai",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "ROLLS"
+    },
+    {
+      "name": "Poke Ebi",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "POKE"
+    },
+    {
+      "name": "Poke Kahuna",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "POKE"
+    },
+    {
+      "name": "Poke Ohana",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "POKE"
+    },
+    {
+      "name": "Poke Veggie",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "POKE"
+    },
+    {
+      "name": "Mochi Helado Cheesecake Frambuesa",
+      "full": 2490,
+      "offer": 0,
+      "available": true,
+      "corridor": "POSTRES"
+    },
+    {
+      "name": "Mochi Helado Cheesecake Maracuyá",
+      "full": 2490,
+      "offer": 0,
+      "available": true,
+      "corridor": "POSTRES"
+    },
+    {
+      "name": "Mochi Helado Oreo Nutella",
+      "full": 2490,
+      "offer": 0,
+      "available": true,
+      "corridor": "POSTRES"
+    },
+    {
+      "name": "3 Mochis a elección",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "POSTRES"
+    },
+    {
+      "name": "6 Mochis a elección",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "POSTRES"
+    },
+    {
+      "name": "Salsa Soya",
+      "full": 790,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Salsa Tare (Teriyaki)",
+      "full": 790,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Salsa Acevichada",
+      "full": 1090,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Salsa Ají Amarillo",
+      "full": 1090,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Salsa Maracuyá",
+      "full": 1090,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Mayo Sriracha",
+      "full": 1090,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Mayo Acevichada",
+      "full": 1090,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Mayo Tigre Ají amarillo",
+      "full": 1090,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Mayo Palta",
+      "full": 1090,
+      "offer": 0,
+      "available": true,
+      "corridor": "SALSAS"
+    },
+    {
+      "name": "Bebida 1,5 lts",
+      "full": 2990,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Agua Mineral 500cc CGas",
+      "full": 1490,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Agua Mineral 500cc SGas",
+      "full": 1490,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Bebida Lata",
+      "full": 1990,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    }
+  ],
+  "fetchedAt": 1794355510299
+}

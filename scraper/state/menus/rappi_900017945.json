@@ -1,0 +1,596 @@
+{
+  "id": "900017945",
+  "name": "Papa Johns Pizza - Tajamar",
+  "url": "https://www.rappi.cl/restaurantes/900017945",
+  "items": [
+    {
+      "name": "Descuentos Locos",
+      "full": 13900,
+      "offer": 8990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Dupla de Familiares + Bebida",
+      "full": 33990,
+      "offer": 23500,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Rappi Pizza",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Mediana a elección mas Mini Palitos",
+      "full": 14890,
+      "offer": 7990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Combo Del Mes",
+      "full": 22890,
+      "offer": 16990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Acompañamiento Del Mes",
+      "full": 4990,
+      "offer": 3990,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Papa Combo Familiar",
+      "full": 26390,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos"
+    },
+    {
+      "name": "Big Combo",
+      "full": 84500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos"
+    },
+    {
+      "name": "Papa Combo Mediano",
+      "full": 21690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Combos"
+    },
+    {
+      "name": "Arma Tu Pizza Familiar",
+      "full": 12200,
+      "offer": 0,
+      "available": true,
+      "corridor": "Arma Tu Pizza"
+    },
+    {
+      "name": "Arma Tu Pizza Mediana",
+      "full": 9150,
+      "offer": 0,
+      "available": true,
+      "corridor": "Arma Tu Pizza"
+    },
+    {
+      "name": "Meat & Great",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Napolitana Familiar",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Super Pepperoni Familiar",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza The Works Familiar",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Pollo Bbq Familiar",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Todas Las Carnes Familiar",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Vegetariana Familiar",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Italiana Familiar",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Hawaiana Familiar",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Espinacas a la Crema",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Canadian Bacon Familiar",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Napolitana Cherry Familiar",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Pollo Caprese Familiar",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Napolitana Caprese Familiar",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza la Cordillerana Familiar",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Boom de Jamón Familiar",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Familiares"
+    },
+    {
+      "name": "Pizza Napolitana Mediana",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Super Pepperoni Mediana",
+      "full": 13000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Todas Las Carnes Mediana",
+      "full": 14400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza The Works Mediana",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Pollo Bbq Mediana",
+      "full": 13000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Vegetariana Mediana",
+      "full": 13000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Italiana Mediana",
+      "full": 14400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Hawaiana Mediana",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Espinacas a la Crema Mediana",
+      "full": 14400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Canadian Bacon Mediana",
+      "full": 13000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Napolitana Cherry Mediana",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Pollo Caprese Mediana",
+      "full": 13000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Napolitana Caprese Mediana",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Boom de Jamón Mediana",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza la Cordillerana Mediana",
+      "full": 13000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Meat & Great Mediana",
+      "full": 14400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Medianas"
+    },
+    {
+      "name": "Pizza Italiana",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Individuales"
+    },
+    {
+      "name": "Pizza Super Pepperoni",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Individuales"
+    },
+    {
+      "name": "Pizza Todas Las Carnes",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Individuales"
+    },
+    {
+      "name": "Pizza Napolitana",
+      "full": 4500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Individuales"
+    },
+    {
+      "name": "Pizza Vegetariana",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Individuales"
+    },
+    {
+      "name": "Pizza de Pollo BBQ",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pizzas Individuales"
+    },
+    {
+      "name": "Palitos de Ajo y Queso Parmesano",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Palito de Queso",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Palito de Queso y Tocino",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Rolls de Pepperoni",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Alitas de Pollo",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Veggie con Aceitunas",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Veggie con Champiñón",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Veggie con Shot Pesto",
+      "full": 8090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Veggies con Shot BBQ",
+      "full": 8090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Chessy Veggie con Pimentón Verde",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Veggie con Piña",
+      "full": 8090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesy Veggies con Choclo",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Pesto Rolls",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Cheesyqueños",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Boom de Trencito",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Palitos de Canela",
+      "full": 5990,
+      "offer": 2990,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Pie con nutella",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Brownie",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Cookie",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Cinnapie",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Coca Cola Clásica 2.5L",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca Cola Light 2.5L",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca Cola Sin Azúcar 2.5L",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite 2.5L",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite Zero 2.5L",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta 2.5L",
+      "full": 4490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite Zero 1.5L",
+      "full": 3490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca Cola Clásica 591Ml",
+      "full": 2090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite 591Ml",
+      "full": 2090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca Cola Clásica 350Ml",
+      "full": 1790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca Cola Light 350Ml.",
+      "full": 1790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca Cola Sin Azúcar 350Ml.",
+      "full": 1790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite 350Ml.",
+      "full": 1790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Sprite Zero 350Ml.",
+      "full": 1790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Fanta 350Ml.",
+      "full": 1790,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    }
+  ],
+  "fetchedAt": 1794355224448
+}

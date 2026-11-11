@@ -1,0 +1,604 @@
+{
+  "milsabores_barrachalaca": {
+    "search": "barra chalaca",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900022815-barra-chalaca"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/barra-chalaca--los-dominicos-953a20c3-26a0-44a9-9fb4-08268ada8e5d-menu"
+    ]
+  },
+  "barriochicken_cl": {
+    "search": "barrio chicken",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900120248-barrio-chicken"
+    ],
+    "pedidosya": []
+  },
+  "buffalo_waffles": {
+    "search": "buffalo waffles",
+    "rappi": [],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/buffalo-waffles-intermodal-la-cisterna-menu"
+    ]
+  },
+  "milas_cl": {
+    "search": "milas",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900086027-milas"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/milas-plaza-nunoa-6ed29eb0-960a-4c36-a46c-8eb856095547-menu"
+    ]
+  },
+  "buffetexpress_cl": {
+    "search": "buffet express",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900096555-buffet-express"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/buffet-express-arauco-maipu-744cd687-7d8f-4edd-a3c1-5f4fa82615b2-menu"
+    ]
+  },
+  "Carls_Jr_CL": {
+    "search": "carl's jr",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900084893-carls-jr"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/carls-jr-plaza-norte-cd569dca-5894-4449-8260-28cefb090b1e-menu"
+    ]
+  },
+  "chicken_factory": {
+    "search": "chicken factory",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900014636-chicken-factory"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/chicken-factory-santiago-centro-62f1379e-b937-4296-91c4-bc5ff8114c47-menu"
+    ]
+  },
+  "chilis_alsea": {
+    "search": "chili's",
+    "rappi": [],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/chilis-burger-fried-chicken-mall-plaza-los-dominicos-4e41ad89-f0f6-45aa-9878-ece2b23009ae-menu"
+    ]
+  },
+  "China Wok_Grupo Degasa": {
+    "search": "china wok",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900016905-china-wok"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/china-wok-estacion-central-menu"
+    ]
+  },
+  "atomic_clubdelgohan": {
+    "search": "club del gohan",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900114003-club-del-gohan"
+    ],
+    "pedidosya": []
+  },
+  "atomic_clubdelpoke": {
+    "search": "club del poke",
+    "rappi": [],
+    "pedidosya": []
+  },
+  "Club del Poke - La Florida III": {
+    "search": "club del poke",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900115681-club-del-poke"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/club-del-poke--la-florida-iii-43ed5cb4-b267-45df-8ce3-e9e2a21b5135-menu"
+    ]
+  },
+  "Doggis_Grupo G&N": {
+    "search": "doggis",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900020953-doggis"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/doggis-mall-paseo-san-bernardo-menu"
+    ]
+  },
+  "Juan Maestro_Grupo G&N": {
+    "search": "juan maestro",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900074894-juan-maestro",
+      "https://www.rappi.cl/restaurantes/900017824-juan-maestro"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/juan-maestro-mall-florida-center-menu"
+    ]
+  },
+  "doggis_heladeria_g&n": {
+    "search": "doggis heladeria",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900087964-doggis-heladeria"
+    ],
+    "pedidosya": []
+  },
+  "domino_cl": {
+    "search": "domino's pizza",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900017252-domino"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/domino-mallplaza-vespucio-e0a04c46-0767-4dda-8eb5-7e6f266e667e-menu"
+    ]
+  },
+  "milsabores_dulceluna": {
+    "search": "dulce luna",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900022844-dulce-luna"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/dulce-luna--florida-center-54a778b0-0176-4d56-9a7a-fa1f954cf763-menu"
+    ]
+  },
+  "DunkinDonuts_MS_CL": {
+    "search": "dunkin",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900019177-dunkin"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/dunkin-donuts-panoramico-ffade574-9184-41e0-87f5-4823e923e512-menu"
+    ]
+  },
+  "milsabores_bodegondelima": {
+    "search": "el bodegon",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900079312-el-bodegon-taberna-limena"
+    ],
+    "pedidosya": []
+  },
+  "elcaferosa": {
+    "search": "el cafe rosa",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900119468-el-cafe-rosa"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/el-cafe-rosa-penalolen-ca124e14-8660-4e73-950c-0783b5948147-menu"
+    ]
+  },
+  "roof_burger_cl": {
+    "search": "roof burger",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900120646-roof-burger"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/roof-burger--manuel-montt-69125d84-2cfb-4650-8314-241287b33d41-menuu"
+    ]
+  },
+  "milsabores_eljapones": {
+    "search": "el japones",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900097588-el-japones"
+    ],
+    "pedidosya": []
+  },
+  "milsabores_enriquetomas": {
+    "search": "enrique tomas",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900118519-enrique-tomas"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/enrique-tomas--alto-las-condes-ac6a85f6-e83c-4ab5-9da2-b73e0e236fd0-menu"
+    ]
+  },
+  "milsabores_lady": {
+    "search": "lady focaccia",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900109352-lady-focaccia"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/lady-focaccia--costanera-center-29c1a889-289f-4daa-9f3f-154a5915c2ba-menu"
+    ]
+  },
+  "fuente_chilena": {
+    "search": "fuente chilena",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900016229-fuente-chilena"
+    ],
+    "pedidosya": []
+  },
+  "Fork_CL": {
+    "search": "fork",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900069366-fork"
+    ],
+    "pedidosya": [
+      "https://www.pedidosya.cl/restaurantes/santiago/fork-magdalena-menu"
+    ]
+  },
+  "Momofuku (Ultimate Parent)": {
+    "search": "momofuku",
+    "rappi": [],
+    "pedidosya": []
+  },
+  "momofuku (ultimate parent)": {
+    "search": "momofuku",
+    "rappi": [],
+    "pedidosya": []
+  },
+  "Grido Mall Alto Pe�alolen": {
+    "search": "grido",
+    "rappi": [],
+    "pedidosya": []
+  },
+  "Grido_RM": {
+    "search": "grido",
+    "rappi": [],
+    "pedidosya": []
+  },
+  "7 cortes_milsabores": {
+    "search": "7 cortes",
+    "rappi": [
+      "https://www.rappi.cl/restaurantes/900079309-7-cortes"
+    ],
+    "pedidosya": []
+  },
+  "mesondelmarinero_milsabores": {
+    "search": "meson del marinero",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "milsabores_ekeko": {
+    "search": "ekeko",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "milsabores_fuente": {
+    "search": "fuente mardoqueo",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900040849"
+    ]
+  },
+  "milsabores_lapiazza": {
+    "search": "la piazza",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "milsabores_havanna": {
+    "search": "havanna",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "Más Que Empanada (Viña del Mar)": {
+    "search": "mas que empanada",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "idilico_cl": {
+    "search": "idilico",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "atomic_itacate": {
+    "search": "itacate",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900118383"
+    ]
+  },
+  "milsabores_jalisco": {
+    "search": "jalisco",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "jimmyjohns_cl": {
+    "search": "jimmy john's",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900119214"
+    ]
+  },
+  "johnnyrocketschile": {
+    "search": "johnny rockets",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900057203"
+    ]
+  },
+  "Juan Maestro Centro Comercial Maipu": {
+    "search": "juan maestro",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900120197"
+    ]
+  },
+  "Juan Maestro Líder Vicuña Mackenna": {
+    "search": "juan maestro",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900120197"
+    ]
+  },
+  "just_burger_cl": {
+    "search": "just burger",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900071197"
+    ]
+  },
+  "sin_miedo_burgers": {
+    "search": "sin miedo",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900106939"
+    ]
+  },
+  "kairos": {
+    "search": "kairos",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "krispykreme_cl": {
+    "search": "krispykreme",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900104174"
+    ]
+  },
+  "milsabores_la_argentina": {
+    "search": "la argentina",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900097925"
+    ]
+  },
+  "la ermita": {
+    "search": "la ermita",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "milsabores_lasanguchera": {
+    "search": "la sanguchera",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900022691"
+    ]
+  },
+  "LittleCaesarsCL": {
+    "search": "little caesars",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900103860"
+    ]
+  },
+  "lovdo_g&n_cl": {
+    "search": "lovdo",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "milsabores_mammamia": {
+    "search": "mamma mia",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "mamut_chile": {
+    "search": "mamut",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900115313"
+    ]
+  },
+  "mariberico": {
+    "search": "mariberico",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "melt_pizzas": {
+    "search": "melt pizzas",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900027455"
+    ]
+  },
+  "milsabores_mila": {
+    "search": "mila",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900085686",
+      "900082903"
+    ]
+  },
+  "atomic_mrtaste": {
+    "search": "mr taste",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900108651"
+    ]
+  },
+  "milsabores_muusteak": {
+    "search": "muu steak",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900031768"
+    ]
+  },
+  "noahs_ cl": {
+    "search": "noah's",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "alsea_pfchangs": {
+    "search": "p.f. chang's",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "papajohns_ch": {
+    "search": "papa john's",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900017945"
+    ]
+  },
+  "pizzapizza_cl": {
+    "search": "pizza pizza",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900090811",
+      "900025733",
+      "900016331"
+    ]
+  },
+  "atomic_poked": {
+    "search": "poked",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900106425",
+      "900069639"
+    ]
+  },
+  "sbarro_pronto": {
+    "search": "sbarro",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "Streat Burger_DD_CL": {
+    "search": "streat burger",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "streat_icecream": {
+    "search": "streat",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "SushiBlues_Grupo Food Hall": {
+    "search": "sushi blues",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900019613"
+    ]
+  },
+  "milsabores_takeawok": {
+    "search": "take a wok",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900022807"
+    ]
+  },
+  "milsabores_tanta": {
+    "search": "tanta",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900031827"
+    ]
+  },
+  "Tarragona": {
+    "search": "tarragona",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900018997"
+    ]
+  },
+  "elementalcl": {
+    "search": "elemental",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "pollostop_ch": {
+    "search": "pollo stop",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "tommy beans_chile": {
+    "search": "tommy beans",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900024791"
+    ]
+  },
+  "udon_parent_tbd": {
+    "search": "udon",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "underpizza_cl": {
+    "search": "under pizza",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900090811"
+    ]
+  },
+  "atomic_vittore": {
+    "search": "vittore",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "wendyscl": {
+    "search": "wendy's",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900104236"
+    ]
+  },
+  "wevo_burger": {
+    "search": "wevo",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": []
+  },
+  "atomic_wingit": {
+    "search": "wing it",
+    "rappi": [],
+    "pedidosya": [],
+    "rappi_resolved": [
+      "900096801"
+    ]
+  }
+}

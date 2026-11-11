@@ -1,0 +1,454 @@
+time,platform,csv_row,restaurant,dish,store,best_candidate,score
+2026-11-11T00:14:47.757Z,rappi,1186,barriochicken_cl,Sundae,Barrio Chicken - Ñuñoa,La Banda del Barrio,21
+2026-11-11T00:14:47.759Z,rappi,1187,barriochicken_cl,Combo Ding Dong,Barrio Chicken - Ñuñoa,Combo Pop Corn,53
+2026-11-11T00:14:47.844Z,rappi,1015,roof_burger_cl,The Top - Gold Burger + Papas,Roof Burger - La Florida,Triple roof burger + papas,64
+2026-11-11T00:14:47.845Z,rappi,1016,roof_burger_cl,BBQ Burger + Papas + Bebida,Roof Burger - La Florida,BBQ Burger + Papas,70
+2026-11-11T00:14:47.853Z,rappi,1023,roof_burger_cl,Extra Alioli,Roof Burger - La Florida,Соса-Cola Light,33
+2026-11-11T00:14:47.900Z,rappi,476,mesondelmarinero_milsabores,Salmón,,,
+2026-11-11T00:14:47.900Z,rappi,477,mesondelmarinero_milsabores,Ensalada Mixta,,,
+2026-11-11T00:14:47.900Z,rappi,478,mesondelmarinero_milsabores,Plancha del Pescador,,,
+2026-11-11T00:14:47.900Z,rappi,479,mesondelmarinero_milsabores,Arroz con Choclo,,,
+2026-11-11T00:14:47.900Z,rappi,480,mesondelmarinero_milsabores,Chupe Jaiba,,,
+2026-11-11T00:14:47.900Z,rappi,481,mesondelmarinero_milsabores,Puré Rústico,,,
+2026-11-11T00:14:47.900Z,rappi,482,mesondelmarinero_milsabores,Empanada Mariscos,,,
+2026-11-11T00:14:47.900Z,rappi,483,mesondelmarinero_milsabores,Paila Marina,,,
+2026-11-11T00:14:47.900Z,rappi,484,mesondelmarinero_milsabores,Coca Cola Zero,,,
+2026-11-11T00:14:47.900Z,rappi,485,mesondelmarinero_milsabores,Verduras Salteadas,,,
+2026-11-11T00:14:47.900Z,rappi,486,mesondelmarinero_milsabores,Merluza Austral,,,
+2026-11-11T00:14:47.900Z,rappi,487,mesondelmarinero_milsabores,Papas Mayo,,,
+2026-11-11T00:14:47.900Z,rappi,488,mesondelmarinero_milsabores,Congrio,,,
+2026-11-11T00:14:47.900Z,rappi,489,mesondelmarinero_milsabores,Papas Fritas,,,
+2026-11-11T00:14:47.900Z,rappi,490,mesondelmarinero_milsabores,Cebiche Clásico,,,
+2026-11-11T00:14:47.906Z,rappi,491,milsabores_ekeko,Burrito de Pollo,,,
+2026-11-11T00:14:47.906Z,rappi,492,milsabores_ekeko,Cebiche Clásico,,,
+2026-11-11T00:14:47.906Z,rappi,493,milsabores_ekeko,Beef Quesadilla Birria,,,
+2026-11-11T00:14:47.906Z,rappi,494,milsabores_ekeko,Burrito de Carne Birria,,,
+2026-11-11T00:14:47.906Z,rappi,495,milsabores_ekeko,Causa Camarón,,,
+2026-11-11T00:14:47.906Z,rappi,496,milsabores_ekeko,Fajita de Pollo,,,
+2026-11-11T00:14:47.906Z,rappi,497,milsabores_ekeko,Milanesa Pollo Panna Jamón,,,
+2026-11-11T00:14:47.906Z,rappi,498,milsabores_ekeko,Sprite,,,
+2026-11-11T00:14:47.910Z,rappi,499,milsabores_fuente,Empanada de Queso,Fuente mardoqueo - El Golf,Ensalada Mardoqueo,50
+2026-11-11T00:14:47.910Z,rappi,500,milsabores_fuente,Vienesa Italiano,Fuente mardoqueo - El Golf,Sándwich Italiano,53
+2026-11-11T00:14:47.910Z,rappi,501,milsabores_fuente,Empanada de Pino,Fuente mardoqueo - El Golf,Ensalada Mardoqueo,39
+2026-11-11T00:14:47.911Z,rappi,502,milsabores_fuente,Churrasco Italiano Grande,Fuente mardoqueo - El Golf,Sándwich Italiano,40
+2026-11-11T00:14:47.911Z,rappi,503,milsabores_fuente,Papas Fritas Grande,Fuente mardoqueo - El Golf,Papas Fritas,63
+2026-11-11T00:14:47.912Z,rappi,504,milsabores_fuente,Churrasco Barros Luco Grande,Fuente mardoqueo - El Golf,Sándwich Barros Luco,54
+2026-11-11T00:14:47.912Z,rappi,505,milsabores_fuente,Churrasco Chacarero Grande,Fuente mardoqueo - El Golf,Sándwich Chacarero,42
+2026-11-11T00:14:47.913Z,rappi,506,milsabores_fuente,Empanada de Queso Camarón,Fuente mardoqueo - El Golf,Hamburguesa Mardoqueo,40
+2026-11-11T00:14:47.913Z,rappi,507,milsabores_fuente,Crudo 250g,Fuente mardoqueo - El Golf,Sándwich Italiano,0
+2026-11-11T00:14:47.913Z,rappi,508,milsabores_fuente,Vienesa Dinamico,Fuente mardoqueo - El Golf,Hamburguesa Cheese Caramel,27
+2026-11-11T00:14:47.914Z,rappi,509,milsabores_fuente,Churrasco Palta Mayo Grande,Fuente mardoqueo - El Golf,Arma Tu Sándwich,30
+2026-11-11T00:14:47.914Z,rappi,510,milsabores_fuente,Lomo Italiano Grande,Fuente mardoqueo - El Golf,Promo Sándwich -Ave/Lomo +bebida,30
+2026-11-11T00:14:47.915Z,rappi,511,milsabores_fuente,Vienesa Completo,Fuente mardoqueo - El Golf,Sándwich Completo,53
+2026-11-11T00:14:47.915Z,rappi,512,milsabores_fuente,Empanada de Ostión,Fuente mardoqueo - El Golf,Ensalada Mardoqueo,39
+2026-11-11T00:14:47.915Z,rappi,513,milsabores_fuente,Empanada Napolitana,Fuente mardoqueo - El Golf,Ensalada Mardoqueo,37
+2026-11-11T00:14:47.916Z,rappi,772,milsabores_fuente,Empanada de Queso,Fuente mardoqueo - El Golf,Ensalada Mardoqueo,50
+2026-11-11T00:14:47.916Z,rappi,773,milsabores_fuente,Churrasco Italiano Grande,Fuente mardoqueo - El Golf,Sándwich Italiano,40
+2026-11-11T00:14:47.917Z,rappi,774,milsabores_fuente,Papas Fritas Grande,Fuente mardoqueo - El Golf,Papas Fritas,63
+2026-11-11T00:14:47.917Z,rappi,775,milsabores_fuente,Vienesa Italiano,Fuente mardoqueo - El Golf,Sándwich Italiano,53
+2026-11-11T00:14:47.918Z,rappi,776,milsabores_fuente,Churrasco Barros Luco Grande,Fuente mardoqueo - El Golf,Sándwich Barros Luco,54
+2026-11-11T00:14:47.918Z,rappi,777,milsabores_fuente,Empanada de Pino,Fuente mardoqueo - El Golf,Ensalada Mardoqueo,39
+2026-11-11T00:14:47.919Z,rappi,778,milsabores_fuente,Churrasco Chacarero Grande,Fuente mardoqueo - El Golf,Sándwich Chacarero,42
+2026-11-11T00:14:47.919Z,rappi,779,milsabores_fuente,Crudo 250g,Fuente mardoqueo - El Golf,Sándwich Italiano,0
+2026-11-11T00:14:47.919Z,rappi,780,milsabores_fuente,Empanada de Queso Camarón,Fuente mardoqueo - El Golf,Hamburguesa Mardoqueo,40
+2026-11-11T00:14:47.919Z,rappi,781,milsabores_fuente,Vienesa Completo,Fuente mardoqueo - El Golf,Sándwich Completo,53
+2026-11-11T00:14:47.920Z,rappi,782,milsabores_fuente,Lomo Palta Mayo Grande,Fuente mardoqueo - El Golf,Promo Sándwich -Ave/Lomo +bebida,33
+2026-11-11T00:14:47.920Z,rappi,783,milsabores_fuente,Churrasco Palta Mayo Grande,Fuente mardoqueo - El Golf,Arma Tu Sándwich,30
+2026-11-11T00:14:47.921Z,rappi,784,milsabores_fuente,Churrasco Dinamico Grande,Fuente mardoqueo - El Golf,Sándwich Italiano,28
+2026-11-11T00:14:47.921Z,rappi,785,milsabores_fuente,Empanada Napolitana,Fuente mardoqueo - El Golf,Ensalada Mardoqueo,37
+2026-11-11T00:14:47.921Z,rappi,786,milsabores_fuente,Coca Cola Zero,Fuente mardoqueo - El Golf,Coca Cola,64
+2026-11-11T00:14:47.925Z,rappi,514,milsabores_lapiazza,Tiramisú,,,
+2026-11-11T00:14:47.925Z,rappi,515,milsabores_lapiazza,Margherita,,,
+2026-11-11T00:14:47.925Z,rappi,516,milsabores_lapiazza,Coca Cola,,,
+2026-11-11T00:14:47.925Z,rappi,517,milsabores_lapiazza,Prosciutto Cotto e Funghi Pizza - Le Rosse Napoletana,,,
+2026-11-11T00:14:47.925Z,rappi,518,milsabores_lapiazza,Lasagna Bolognesa,,,
+2026-11-11T00:14:47.925Z,rappi,519,milsabores_lapiazza,Coca Cola Zero,,,
+2026-11-11T00:14:47.925Z,rappi,520,milsabores_lapiazza,Gnocchi Pomodoro,,,
+2026-11-11T00:14:47.925Z,rappi,521,milsabores_lapiazza,Limonata Al Cocco,,,
+2026-11-11T00:14:47.925Z,rappi,522,milsabores_lapiazza,Pesto,,,
+2026-11-11T00:14:47.925Z,rappi,523,milsabores_lapiazza,Prosciutto E Rúcula Pizza,,,
+2026-11-11T00:14:47.925Z,rappi,524,milsabores_lapiazza,Raviol di Zucca,,,
+2026-11-11T00:14:47.925Z,rappi,525,milsabores_lapiazza,Canelloni Ricotta Espinaca,,,
+2026-11-11T00:14:47.925Z,rappi,526,milsabores_lapiazza,Fontana Mamma Mia,,,
+2026-11-11T00:14:47.925Z,rappi,527,milsabores_lapiazza,Mechada y Palta Pizza,,,
+2026-11-11T00:14:47.925Z,rappi,528,milsabores_lapiazza,Milanesa Pollo Panna Posciutto,,,
+2026-11-11T00:14:47.925Z,rappi,757,milsabores_lapiazza,Tagliatelle Al Filetto e Funghi,,,
+2026-11-11T00:14:47.925Z,rappi,758,milsabores_lapiazza,Carbonara,,,
+2026-11-11T00:14:47.925Z,rappi,759,milsabores_lapiazza,Margherita,,,
+2026-11-11T00:14:47.925Z,rappi,760,milsabores_lapiazza,4 Formaggi,,,
+2026-11-11T00:14:47.925Z,rappi,761,milsabores_lapiazza,Pizza Nutella,,,
+2026-11-11T00:14:47.925Z,rappi,762,milsabores_lapiazza,Bolognesa,,,
+2026-11-11T00:14:47.925Z,rappi,763,milsabores_lapiazza,Linguini di Colori,,,
+2026-11-11T00:14:47.925Z,rappi,764,milsabores_lapiazza,Quattro Formaggi,,,
+2026-11-11T00:14:47.925Z,rappi,765,milsabores_lapiazza,Capricciosa,,,
+2026-11-11T00:14:47.925Z,rappi,766,milsabores_lapiazza,Gnocchi en Masa,,,
+2026-11-11T00:14:47.925Z,rappi,767,milsabores_lapiazza,Jugo Frambuesa,,,
+2026-11-11T00:14:47.925Z,rappi,768,milsabores_lapiazza,Opción 3,,,
+2026-11-11T00:14:47.925Z,rappi,769,milsabores_lapiazza,Tiramisú,,,
+2026-11-11T00:14:47.925Z,rappi,770,milsabores_lapiazza,Allo Scoglio,,,
+2026-11-11T00:14:47.925Z,rappi,771,milsabores_lapiazza,Antipasto Misti,,,
+2026-11-11T00:14:47.929Z,rappi,529,milsabores_havanna,Alfajor Chocolate  (6 Unidades),,,
+2026-11-11T00:14:47.929Z,rappi,530,milsabores_havanna,Alfajor Mar Del Plata,,,
+2026-11-11T00:14:47.929Z,rappi,531,milsabores_havanna,Alfajor Mixto (6 Unidades),,,
+2026-11-11T00:14:47.929Z,rappi,532,milsabores_havanna,Alfajor sin Azúcar,,,
+2026-11-11T00:14:47.929Z,rappi,533,milsabores_havanna,Havannet Mixto (6 Unidades),,,
+2026-11-11T00:14:47.929Z,rappi,534,milsabores_havanna,Alfajor Chocolate,,,
+2026-11-11T00:14:47.929Z,rappi,535,milsabores_havanna,Alfajor Surtido Chocolate (6 Unidades),,,
+2026-11-11T00:14:47.929Z,rappi,536,milsabores_havanna,Alfajor 70 Cacao,,,
+2026-11-11T00:14:47.929Z,rappi,537,milsabores_havanna,Lasagna Bolognesa,,,
+2026-11-11T00:14:47.929Z,rappi,538,milsabores_havanna,Alfajor Chocolate Blanco (6 Unidades),,,
+2026-11-11T00:14:47.929Z,rappi,539,milsabores_havanna,Alfajor Dulce de Leche,,,
+2026-11-11T00:14:47.929Z,rappi,540,milsabores_havanna,Alfajor Chocolate Blanco,,,
+2026-11-11T00:14:47.929Z,rappi,541,milsabores_havanna,Alfajor Chocolate (12 Unidades),,,
+2026-11-11T00:14:47.929Z,rappi,542,milsabores_havanna,Mini Alfajor Mixto 475 Grs,,,
+2026-11-11T00:14:47.929Z,rappi,543,milsabores_havanna,Havannet Chocolate,,,
+2026-11-11T00:14:47.933Z,rappi,544,Más Que Empanada (Viña del Mar),Empanada de Carne Mechada,,,
+2026-11-11T00:14:47.933Z,rappi,545,Más Que Empanada (Viña del Mar),Empanada de Pollo,,,
+2026-11-11T00:14:47.933Z,rappi,546,Más Que Empanada (Viña del Mar),Empanada de Queso,,,
+2026-11-11T00:14:47.933Z,rappi,547,Más Que Empanada (Viña del Mar),Empanada de Champiñón,,,
+2026-11-11T00:14:47.933Z,rappi,548,Más Que Empanada (Viña del Mar),Empanada Tocino Cebolla Morada,,,
+2026-11-11T00:14:47.933Z,rappi,549,Más Que Empanada (Viña del Mar),Coca-Cola  Zero 350,,,
+2026-11-11T00:14:47.933Z,rappi,550,Más Que Empanada (Viña del Mar),Coca-Cola Normal 350,,,
+2026-11-11T00:14:47.933Z,rappi,551,Más Que Empanada (Viña del Mar),Fanta Zero 350,,,
+2026-11-11T00:14:47.933Z,rappi,552,Más Que Empanada (Viña del Mar),Sprite Zero 350,,,
+2026-11-11T00:14:47.936Z,rappi,553,idilico_cl,Signature con Papas Fritas ★,,,
+2026-11-11T00:14:47.936Z,rappi,554,idilico_cl,Classic con Papas Fritas,,,
+2026-11-11T00:14:47.936Z,rappi,555,idilico_cl,Juicy Lucy con Papas Fritas,,,
+2026-11-11T00:14:47.936Z,rappi,556,idilico_cl,The Top Signature  Burger + Papas,,,
+2026-11-11T00:14:47.936Z,rappi,557,idilico_cl,Burga Original con Papas Fritas,,,
+2026-11-11T00:14:47.936Z,rappi,558,idilico_cl,Pizza Capresse,,,
+2026-11-11T00:14:47.936Z,rappi,559,idilico_cl,Kid Burger con Papas Fritas,,,
+2026-11-11T00:14:47.936Z,rappi,560,idilico_cl,Extra Alioli,,,
+2026-11-11T00:14:47.936Z,rappi,561,idilico_cl,Doble Cheese con Papas Fritas,,,
+2026-11-11T00:14:47.936Z,rappi,562,idilico_cl,Pizza La Sabrosa,,,
+2026-11-11T00:14:47.936Z,rappi,563,idilico_cl,Coca-Cola Lata 350 CC,,,
+2026-11-11T00:14:47.936Z,rappi,564,idilico_cl,Coca-Cola Zero Lata 350 CC,,,
+2026-11-11T00:14:47.936Z,rappi,565,idilico_cl,Extra Smoked,,,
+2026-11-11T00:14:47.936Z,rappi,566,idilico_cl,Onion Rings (Aros de Cebolla),,,
+2026-11-11T00:14:47.936Z,rappi,567,idilico_cl,Chorrillana Mediana,,,
+2026-11-11T00:14:47.944Z,rappi,571,atomic_itacate,Promo Itacate,Itacate - Los Castaños,Combo Cuate,46
+2026-11-11T00:14:47.953Z,rappi,582,atomic_itacate,Combo Dong!,Itacate - Los Castaños,Combo Antojo,58
+2026-11-11T00:14:47.956Z,rappi,583,milsabores_jalisco,Chicken Quesadilla,,,
+2026-11-11T00:14:47.956Z,rappi,584,milsabores_jalisco,Fajita Mixta,,,
+2026-11-11T00:14:47.956Z,rappi,585,milsabores_jalisco,Guacamole Tradicional,,,
+2026-11-11T00:14:47.956Z,rappi,586,milsabores_jalisco,Fajitas de Carne,,,
+2026-11-11T00:14:47.956Z,rappi,587,milsabores_jalisco,Fajita de Pollo,,,
+2026-11-11T00:14:47.956Z,rappi,588,milsabores_jalisco,Beef Quesadillas,,,
+2026-11-11T00:14:47.956Z,rappi,589,milsabores_jalisco,Burrito Pollo + Bebida a elección,,,
+2026-11-11T00:14:47.956Z,rappi,590,milsabores_jalisco,Chili Beef & Nachos,,,
+2026-11-11T00:14:47.956Z,rappi,591,milsabores_jalisco,Tacos del Pastor,,,
+2026-11-11T00:14:47.956Z,rappi,592,milsabores_jalisco,Tacos de Carnita,,,
+2026-11-11T00:14:47.956Z,rappi,593,milsabores_jalisco,Veggie Quesadillas,,,
+2026-11-11T00:14:47.956Z,rappi,594,milsabores_jalisco,Fajita Pollo,,,
+2026-11-11T00:14:47.956Z,rappi,595,milsabores_jalisco,Beef bowl,,,
+2026-11-11T00:14:47.956Z,rappi,596,milsabores_jalisco,Catrina,,,
+2026-11-11T00:14:47.956Z,rappi,597,milsabores_jalisco,Tacos de Birria,,,
+2026-11-11T00:14:47.961Z,rappi,598,jimmyjohns_cl,The Pepe (15 cm),Jimmy John's - Vitacura,Signature + Bebida Lata,0
+2026-11-11T00:14:47.962Z,rappi,601,jimmyjohns_cl,Roast Beef & Cheddar (15 cm),Jimmy John's - Vitacura,Signature + Bebida Lata,0
+2026-11-11T00:14:47.964Z,rappi,604,jimmyjohns_cl,Chicken Bacon Ranch (15 cm),Jimmy John's - Vitacura,Signature + Bebida Lata,0
+2026-11-11T00:14:47.965Z,rappi,608,jimmyjohns_cl,Italian Club (15 cm),Jimmy John's - Vitacura,Signature + Bebida Lata,0
+2026-11-11T00:14:47.966Z,rappi,610,jimmyjohns_cl,Chicken Salad (15 cm),Jimmy John's - Vitacura,Signature + Bebida Lata,0
+2026-11-11T00:14:47.966Z,rappi,611,jimmyjohns_cl,Meatball Parmesan (15 cm),Jimmy John's - Vitacura,Signature + Bebida Lata,0
+2026-11-11T00:14:47.967Z,rappi,612,jimmyjohns_cl,The Gargantuan (15 cm),Jimmy John's - Vitacura,Signature + Bebida Lata,0
+2026-11-11T00:14:47.990Z,rappi,629,Juan Maestro Centro Comercial Maipu,Super Juan Italiano,Juan Maestro - Ñuñoa,Smashter Burger Italiana,54
+2026-11-11T00:14:47.991Z,rappi,631,Juan Maestro Centro Comercial Maipu,Combo Lomo,Juan Maestro - Ñuñoa,Combo Hamburguesa Kids,32
+2026-11-11T00:14:47.991Z,rappi,632,Juan Maestro Centro Comercial Maipu,Desayuno Sándwich Ave Palta,Juan Maestro - Ñuñoa,Match Maestro,30
+2026-11-11T00:14:47.992Z,rappi,633,Juan Maestro Centro Comercial Maipu,Desayuno Sándwich Churrasco Barros Luco,Juan Maestro - Ñuñoa,Smashter Burger Cuarto Maestro,31
+2026-11-11T00:14:47.992Z,rappi,634,Juan Maestro Centro Comercial Maipu,Sándwich Lomo,Juan Maestro - Ñuñoa,Combo Hamburguesa Kids,27
+2026-11-11T00:14:47.993Z,rappi,635,Juan Maestro Centro Comercial Maipu,Batido 2x,Juan Maestro - Ñuñoa,Smashter Burger Clásica 2x,26
+2026-11-11T00:14:47.996Z,rappi,637,Juan Maestro Líder Vicuña Mackenna,Combo Gran Maestro,Juan Maestro - Ñuñoa,Match Maestro,50
+2026-11-11T00:14:47.996Z,rappi,638,Juan Maestro Líder Vicuña Mackenna,Super Familia Maestra,Juan Maestro - Ñuñoa,Papas fritas familiares,48
+2026-11-11T00:14:47.997Z,rappi,639,Juan Maestro Líder Vicuña Mackenna,Dupla Salvatore,Juan Maestro - Ñuñoa,Dupla Smashter Burgers,45
+2026-11-11T00:14:47.997Z,rappi,640,Juan Maestro Líder Vicuña Mackenna,Selección Maestra,Juan Maestro - Ñuñoa,Match Maestro,47
+2026-11-11T00:14:47.997Z,rappi,641,Juan Maestro Líder Vicuña Mackenna,Súper Juan Luco,Juan Maestro - Ñuñoa,Super Dupla Doble,47
+2026-11-11T00:14:47.998Z,rappi,642,Juan Maestro Líder Vicuña Mackenna,Super Juan As,Juan Maestro - Ñuñoa,Super Juan Smashter Burger,50
+2026-11-11T00:14:47.998Z,rappi,643,Juan Maestro Líder Vicuña Mackenna,Combo Ding Dong,Juan Maestro - Ñuñoa,Combo Hamburguesa Kids,36
+2026-11-11T00:14:47.998Z,rappi,645,Juan Maestro Líder Vicuña Mackenna,Bebida 15 Lts,Juan Maestro - Ñuñoa,"Bebida de 1,5 litros",68
+2026-11-11T00:14:47.999Z,rappi,646,Juan Maestro Líder Vicuña Mackenna,Combo Salchipapa,Juan Maestro - Ñuñoa,Combo Smashter Burger Italiana,37
+2026-11-11T00:14:47.999Z,rappi,647,Juan Maestro Líder Vicuña Mackenna,Desayuno Sándwich Huevo,Juan Maestro - Ñuñoa,Mega Combo Smashter Burgers,30
+2026-11-11T00:14:47.999Z,rappi,648,Juan Maestro Líder Vicuña Mackenna,Dupla Maestra,Juan Maestro - Ñuñoa,Match Maestro,54
+2026-11-11T00:14:48.005Z,rappi,667,just_burger_cl,Promo Cheese Doble -Ding Dong,Just Burger - Los Leones,Promo Classic Doble Duo,61
+2026-11-11T00:14:48.007Z,rappi,670,just_burger_cl,Promo Goldie,Just Burger - Los Leones,Promo BBQ Simple Duo,40
+2026-11-11T00:14:48.008Z,rappi,671,just_burger_cl,Promo Cheese Doble,Just Burger - Los Leones,Combo Just Cheese Doble,65
+2026-11-11T00:14:48.019Z,rappi,682,sin_miedo_burgers,Doble Queso + Papas Fritas,Sin Miedo Burgers - Los Leones,Empanadas de Queso,54
+2026-11-11T00:14:48.021Z,rappi,692,sin_miedo_burgers,Rodeo Burger + Papas Fritas,Sin Miedo Burgers - Los Leones,Doble Rodeo Burger,52
+2026-11-11T00:14:48.022Z,rappi,693,sin_miedo_burgers,Combo Sin miedo,Sin Miedo Burgers - Los Leones,Combo Rodeo,53
+2026-11-11T00:14:48.022Z,rappi,696,sin_miedo_burgers,Chicken Tenders,Sin Miedo Burgers - Los Leones,Combo Chicken Tenders,71
+2026-11-11T00:14:48.024Z,rappi,697,kairos,Ceviche 420,,,
+2026-11-11T00:14:48.024Z,rappi,698,kairos,Acevichado Jijiji,,,
+2026-11-11T00:14:48.024Z,rappi,699,kairos,Sanders Trufado,,,
+2026-11-11T00:14:48.024Z,rappi,700,kairos,Avocado Koopa Troopa,,,
+2026-11-11T00:14:48.025Z,rappi,701,kairos,Ceviche King Kong,,,
+2026-11-11T00:14:48.025Z,rappi,702,kairos,Queso de Wall Street,,,
+2026-11-11T00:14:48.025Z,rappi,703,kairos,The Boneless,,,
+2026-11-11T00:14:48.025Z,rappi,704,kairos,Acevichado X100Pre,,,
+2026-11-11T00:14:48.025Z,rappi,705,kairos,Avocado Ganja Tare,,,
+2026-11-11T00:14:48.025Z,rappi,706,kairos,Gyosas Fungi,,,
+2026-11-11T00:14:48.025Z,rappi,707,kairos,Kei Pop,,,
+2026-11-11T00:14:48.025Z,rappi,708,kairos,Tokio Truffle,,,
+2026-11-11T00:14:48.025Z,rappi,709,kairos,Coca Cola Zero,,,
+2026-11-11T00:14:48.025Z,rappi,710,kairos,Jungle Boogie,,,
+2026-11-11T00:14:48.025Z,rappi,711,kairos,Papitas Fritas,,,
+2026-11-11T00:14:48.027Z,rappi,712,krispykreme_cl,6Pack Sprinkles,Krispy Kreme - Divina Providencia,6 Pack a Eleccion,41
+2026-11-11T00:14:48.028Z,rappi,715,krispykreme_cl,Docena a Elección + Docena Original Glazed,Krispy Kreme - Divina Providencia,Escoge tu Docena Premium,39
+2026-11-11T00:14:48.028Z,rappi,717,krispykreme_cl,Docena Pokemon,Krispy Kreme - Divina Providencia,Escoge tu Docena Premium,42
+2026-11-11T00:14:48.029Z,rappi,720,krispykreme_cl,Docena Original Glazed,Krispy Kreme - Divina Providencia,Escoge tu Docena Premium,42
+2026-11-11T00:14:48.029Z,rappi,721,krispykreme_cl,Docena Basic + Docena OG,Krispy Kreme - Divina Providencia,Escoge tu Docena Basic,68
+2026-11-11T00:14:48.030Z,rappi,723,krispykreme_cl,6Pack Pokemon,Krispy Kreme - Divina Providencia,6 Pack a Eleccion,59
+2026-11-11T00:14:48.030Z,rappi,724,krispykreme_cl,Docena a Elección,Krispy Kreme - Divina Providencia,Escoge tu Docena Basic,45
+2026-11-11T00:14:48.030Z,rappi,725,krispykreme_cl,Doble Docena Original Glazed,Krispy Kreme - Divina Providencia,Escoge tu Docena Basic,39
+2026-11-11T00:14:48.030Z,rappi,726,krispykreme_cl,Docena Select + Docena OG,Krispy Kreme - Divina Providencia,Escoge tu Docena Select,70
+2026-11-11T00:14:48.038Z,rappi,739,milsabores_la_argentina,Flan Caramelo,La Argentina Pizzeria - La Florida,Fanta Zero,46
+2026-11-11T00:14:48.041Z,rappi,742,la ermita,Alfajor Tres Capas,,,
+2026-11-11T00:14:48.041Z,rappi,743,la ermita,Pastel Hojarasca Manjar,,,
+2026-11-11T00:14:48.041Z,rappi,744,la ermita,Cono Pequeño,,,
+2026-11-11T00:14:48.041Z,rappi,745,la ermita,Cajita Mini Pasteles Tradicionales,,,
+2026-11-11T00:14:48.041Z,rappi,746,la ermita,Brazo Hojarasca Manjar,,,
+2026-11-11T00:14:48.041Z,rappi,747,la ermita,Pastel Panqueque Nuez Manjar,,,
+2026-11-11T00:14:48.041Z,rappi,748,la ermita,Cajita Pequeñas Tentaciones,,,
+2026-11-11T00:14:48.041Z,rappi,749,la ermita,Tronco Panqueque Nuez Manjar,,,
+2026-11-11T00:14:48.041Z,rappi,750,la ermita,Pastel Húmedo Chocolate Manjar,,,
+2026-11-11T00:14:48.041Z,rappi,751,la ermita,Caja Delicias de Manjar de 16 ud,,,
+2026-11-11T00:14:48.041Z,rappi,752,la ermita,Pie de Limón,,,
+2026-11-11T00:14:48.041Z,rappi,753,la ermita,Tronco Panqueque Chocolate Manjar,,,
+2026-11-11T00:14:48.041Z,rappi,754,la ermita,Cono Relleno de Manjar,,,
+2026-11-11T00:14:48.041Z,rappi,755,la ermita,Brazo Húmedo de Chocolate,,,
+2026-11-11T00:14:48.041Z,rappi,756,la ermita,Pastel Panqueque Chocolate Manjar,,,
+2026-11-11T00:14:48.044Z,rappi,787,milsabores_lasanguchera,Empanada de Queso,La Sanguchera del Barrio - Tajamar,Ensalada Lulu,41
+2026-11-11T00:14:48.045Z,rappi,788,milsabores_lasanguchera,Vienesa Italiano,La Sanguchera del Barrio - Tajamar,Mechada Italiana,56
+2026-11-11T00:14:48.046Z,rappi,789,milsabores_lasanguchera,Empanada de Pino,La Sanguchera del Barrio - Tajamar,Ensalada Tutti,44
+2026-11-11T00:14:48.048Z,rappi,792,milsabores_lasanguchera,Papas Fritas Grande,La Sanguchera del Barrio - Tajamar,Mechada Italiana,37
+2026-11-11T00:14:48.049Z,rappi,793,milsabores_lasanguchera,Churrasco Italiano Grande,La Sanguchera del Barrio - Tajamar,Churrazo Italiano,64
+2026-11-11T00:14:48.051Z,rappi,795,milsabores_lasanguchera,Churrasco Barros Luco Grande,La Sanguchera del Barrio - Tajamar,Chorrillana Del Barrio,46
+2026-11-11T00:14:48.052Z,rappi,796,milsabores_lasanguchera,Churrasco Chacarero Grande,La Sanguchera del Barrio - Tajamar,Churrazo Chacarero,65
+2026-11-11T00:14:48.053Z,rappi,797,milsabores_lasanguchera,Empanada de Queso Camarón,La Sanguchera del Barrio - Tajamar,Mechada con Todo,40
+2026-11-11T00:14:48.054Z,rappi,799,milsabores_lasanguchera,Crudo 250g,La Sanguchera del Barrio - Tajamar,Combo Ensalada + Bebida a elección,0
+2026-11-11T00:14:48.058Z,rappi,803,LittleCaesarsCL,Pepperoni + Queso,Little Caesars Pizza - Los Leones,Caesar Puffs Pepperoni,50
+2026-11-11T00:14:48.062Z,rappi,816,LittleCaesarsCL,Duo Duo Familiar,Little Caesars Pizza - Los Leones,Jamón Familiar,56
+2026-11-11T00:14:48.064Z,rappi,817,lovdo_g&n_cl,2 Pizzandwich + Bebida,,,
+2026-11-11T00:14:48.064Z,rappi,818,lovdo_g&n_cl,Pizzandwich + Bebida,,,
+2026-11-11T00:14:48.064Z,rappi,819,lovdo_g&n_cl,Ruedas de Chocolate x8,,,
+2026-11-11T00:14:48.064Z,rappi,820,lovdo_g&n_cl,Arma tu pizza familiar (3 ingredientes),,,
+2026-11-11T00:14:48.064Z,rappi,821,lovdo_g&n_cl,La Triple,,,
+2026-11-11T00:14:48.064Z,rappi,822,lovdo_g&n_cl,Arma tu pizza familiar (5 ingredientes),,,
+2026-11-11T00:14:48.064Z,rappi,823,lovdo_g&n_cl,Chicken Pop Corn,,,
+2026-11-11T00:14:48.064Z,rappi,824,lovdo_g&n_cl,Pepperoni / Pollo BBQ,,,
+2026-11-11T00:14:48.064Z,rappi,825,lovdo_g&n_cl,Personal Lovdo,,,
+2026-11-11T00:14:48.064Z,rappi,826,lovdo_g&n_cl,Bastones de Ajo,,,
+2026-11-11T00:14:48.064Z,rappi,827,lovdo_g&n_cl,Combo Simple Familiar,,,
+2026-11-11T00:14:48.064Z,rappi,828,lovdo_g&n_cl,Dúo Lovdo Familiar,,,
+2026-11-11T00:14:48.064Z,rappi,829,lovdo_g&n_cl,Vegetariana,,,
+2026-11-11T00:14:48.064Z,rappi,830,lovdo_g&n_cl,Combo XL Familiar,,,
+2026-11-11T00:14:48.064Z,rappi,831,lovdo_g&n_cl,Dúo Lovdo,,,
+2026-11-11T00:14:48.067Z,rappi,832,milsabores_mammamia,Venecia,,,
+2026-11-11T00:14:48.067Z,rappi,833,milsabores_mammamia,Milán,,,
+2026-11-11T00:14:48.067Z,rappi,834,milsabores_mammamia,Lasagna Alla Bolognese,,,
+2026-11-11T00:14:48.067Z,rappi,835,milsabores_mammamia,Bolognesa,,,
+2026-11-11T00:14:48.067Z,rappi,836,milsabores_mammamia,Tiramisú,,,
+2026-11-11T00:14:48.067Z,rappi,837,milsabores_mammamia,Il Primo,,,
+2026-11-11T00:14:48.067Z,rappi,838,milsabores_mammamia,Coca Cola,,,
+2026-11-11T00:14:48.067Z,rappi,839,milsabores_mammamia,Panna e Prosciutto,,,
+2026-11-11T00:14:48.067Z,rappi,840,milsabores_mammamia,Filete di Manzo con Gnocchi Cuatro Quesos,,,
+2026-11-11T00:14:48.067Z,rappi,841,milsabores_mammamia,Raviol di Carne,,,
+2026-11-11T00:14:48.067Z,rappi,842,milsabores_mammamia,Milanesa Pollo 4 Quesos,,,
+2026-11-11T00:14:48.067Z,rappi,843,milsabores_mammamia,Fontana Mamma Mia,,,
+2026-11-11T00:14:48.067Z,rappi,844,milsabores_mammamia,Pomodoro e Basilico,,,
+2026-11-11T00:14:48.067Z,rappi,845,milsabores_mammamia,Al Pesto,,,
+2026-11-11T00:14:48.067Z,rappi,846,milsabores_mammamia,Milanesa Pollo Napolitana,,,
+2026-11-11T00:14:48.075Z,rappi,858,mamut_chile,American Brisket,Mamut - Divina Providencia,American Ribs,69
+2026-11-11T00:14:48.076Z,rappi,860,mamut_chile,Empanadas x 12,Mamut - Divina Providencia,Oklahoma,0
+2026-11-11T00:14:48.078Z,rappi,862,mariberico,Machas a la Parmesana Gourmet 12 Un,,,
+2026-11-11T00:14:48.078Z,rappi,863,mariberico,Pack de 25 Ostras Medianas,,,
+2026-11-11T00:14:48.079Z,rappi,864,mariberico,Ceviche de Salmón,,,
+2026-11-11T00:14:48.079Z,rappi,865,mariberico,Ceviche Mixto,,,
+2026-11-11T00:14:48.079Z,rappi,866,mariberico,Chupe de Locos,,,
+2026-11-11T00:14:48.079Z,rappi,867,mariberico,Pastel de Jaiba,,,
+2026-11-11T00:14:48.079Z,rappi,868,mariberico,Pack 25 Ostras Chicas,,,
+2026-11-11T00:14:48.079Z,rappi,869,mariberico,Machas a la Parmesana,,,
+2026-11-11T00:14:48.079Z,rappi,870,mariberico,Ceviche de Reineta,,,
+2026-11-11T00:14:48.079Z,rappi,871,mariberico,Pulpo al Olivo Fresco,,,
+2026-11-11T00:14:48.079Z,rappi,872,mariberico,Ceviche de Camarón,,,
+2026-11-11T00:14:48.079Z,rappi,873,mariberico,Ostiones Parmesanos,,,
+2026-11-11T00:14:48.079Z,rappi,874,mariberico,Pack 3 Ceviches.,,,
+2026-11-11T00:14:48.079Z,rappi,875,mariberico,Postre Individuales Variedades,,,
+2026-11-11T00:14:48.079Z,rappi,876,mariberico,Menú del Chef,,,
+2026-11-11T00:14:48.140Z,rappi,907,atomic_mrtaste,Arma tu Match + Bebida,Mr Taste - Ñuñoa,Arma Tu Match,65
+2026-11-11T00:14:48.160Z,rappi,937,noahs_ cl,Arma tu Wrap más Bebida,,,
+2026-11-11T00:14:48.160Z,rappi,938,noahs_ cl,Arma tu Bowl,,,
+2026-11-11T00:14:48.160Z,rappi,939,noahs_ cl,Arma tu Wrap,,,
+2026-11-11T00:14:48.160Z,rappi,940,noahs_ cl,Arma tu Bowl + Papas Flip,,,
+2026-11-11T00:14:48.160Z,rappi,941,noahs_ cl,Salteado de Arroz más Pollo Teriyaki,,,
+2026-11-11T00:14:48.160Z,rappi,942,noahs_ cl,Ensalada César,,,
+2026-11-11T00:14:48.160Z,rappi,943,noahs_ cl,Ensalada BLT,,,
+2026-11-11T00:14:48.160Z,rappi,944,noahs_ cl,Ensalada César más Acompañamiento,,,
+2026-11-11T00:14:48.160Z,rappi,945,noahs_ cl,Bowl Falafel,,,
+2026-11-11T00:14:48.160Z,rappi,946,noahs_ cl,Arma tu Noah's Match,,,
+2026-11-11T00:14:48.160Z,rappi,947,noahs_ cl,Arma tu Wrap + Papas Flip,,,
+2026-11-11T00:14:48.160Z,rappi,948,noahs_ cl,Bowl Mix del Huerto,,,
+2026-11-11T00:14:48.160Z,rappi,949,noahs_ cl,Salteado de Arroz Pollo Teriyaki más Huevo,,,
+2026-11-11T00:14:48.160Z,rappi,950,noahs_ cl,Bowl Thai,,,
+2026-11-11T00:14:48.160Z,rappi,951,noahs_ cl,Papas Pequeñas,,,
+2026-11-11T00:14:48.162Z,rappi,952,alsea_pfchangs,Family Meals para 2 personas,,,
+2026-11-11T00:14:48.162Z,rappi,953,alsea_pfchangs,Mongolian Beef,,,
+2026-11-11T00:14:48.162Z,rappi,954,alsea_pfchangs,Beef & Broccoli Bowl,,,
+2026-11-11T00:14:48.162Z,rappi,955,alsea_pfchangs,Chicken Fried Rice Bowl,,,
+2026-11-11T00:14:48.162Z,rappi,956,alsea_pfchangs,Lo Mein de 2 proteínas,,,
+2026-11-11T00:14:48.162Z,rappi,957,alsea_pfchangs,Pad Thai Noodle,,,
+2026-11-11T00:14:48.162Z,rappi,958,alsea_pfchangs,Kung Pao Chicken Bowl,,,
+2026-11-11T00:14:48.162Z,rappi,959,alsea_pfchangs,Family Meals para 4 personas,,,
+2026-11-11T00:14:48.162Z,rappi,960,alsea_pfchangs,Crispy Honey Chicken,,,
+2026-11-11T00:14:48.162Z,rappi,961,alsea_pfchangs,Fried Rice de 4 proteínas,,,
+2026-11-11T00:14:48.162Z,rappi,962,alsea_pfchangs,Pepsi Zero Lata,,,
+2026-11-11T00:14:48.162Z,rappi,963,alsea_pfchangs,Dumplings de cerdo,,,
+2026-11-11T00:14:48.162Z,rappi,964,alsea_pfchangs,Kung Pao Chicken.,,,
+2026-11-11T00:14:48.162Z,rappi,965,alsea_pfchangs,Dumplings de camarón,,,
+2026-11-11T00:14:48.162Z,rappi,966,alsea_pfchangs,Vegetable Spring Rolls,,,
+2026-11-11T00:14:48.165Z,rappi,967,papajohns_ch,Dupla De Familiares + Bebida 15L,Papa Johns Pizza - Tajamar,Sprite Zero 1.5L,32
+2026-11-11T00:14:48.168Z,rappi,969,papajohns_ch,Arma tu Pizza,Papa Johns Pizza - Tajamar,Arma Tu Pizza Mediana,62
+2026-11-11T00:14:48.169Z,rappi,970,papajohns_ch,Mejor Pídete Dos,Papa Johns Pizza - Tajamar,Arma Tu Pizza Mediana,33
+2026-11-11T00:14:48.170Z,rappi,971,papajohns_ch,PAPA COMBO DELUXE,Papa Johns Pizza - Tajamar,Papa Combo Mediano,67
+2026-11-11T00:14:48.173Z,rappi,974,papajohns_ch,Combo Lunch,Papa Johns Pizza - Tajamar,Combo Del Mes,54
+2026-11-11T00:14:48.176Z,rappi,977,papajohns_ch,Acompañamiento Eats,Papa Johns Pizza - Tajamar,Acompañamiento Del Mes,77
+2026-11-11T00:14:48.177Z,rappi,978,papajohns_ch,Salsa Pizza,Papa Johns Pizza - Tajamar,Rappi Pizza,64
+2026-11-11T00:14:48.178Z,rappi,980,papajohns_ch,Pizzeats,Papa Johns Pizza - Tajamar,Rappi Pizza,45
+2026-11-11T00:14:48.232Z,rappi,982,pizzapizza_cl,PROMO 2x combina entre 20 especialidades,PizzaPizza® - Divina Providencia,Inferno,0
+2026-11-11T00:14:48.234Z,rappi,985,pizzapizza_cl,PROMO 2x combina entre 8 especialidades,PizzaPizza® - Divina Providencia,Inferno,0
+2026-11-11T00:14:48.237Z,rappi,993,pizzapizza_cl,6 Palitos de ajo,PizzaPizza® - Divina Providencia,Inferno,0
+2026-11-11T00:14:48.238Z,rappi,994,pizzapizza_cl,14 Masitas Mozzarella y Ajo,PizzaPizza® - Divina Providencia,Inferno,0
+2026-11-11T00:14:48.256Z,rappi,1002,atomic_poked,Tori Furai Baby Gohan + Gyozas,Poked - Ñuñoa,Tori Furay Baby Gohan,71
+2026-11-11T00:14:48.258Z,rappi,1005,atomic_poked,Nikkei Gohan & Ebi Sushi Rolls Combo,Poked - Ñuñoa,Combo pollo crispy gohan + spring rolls,57
+2026-11-11T00:14:48.260Z,rappi,1009,atomic_poked,DING DONG!,Poked - Ñuñoa,Promo finde,36
+2026-11-11T00:14:48.264Z,rappi,1027,sbarro_pronto,Familiar x2,,,
+2026-11-11T00:14:48.264Z,rappi,1028,sbarro_pronto,Familiar + Bebida 1.5 L + 4 Palitos XXL,,,
+2026-11-11T00:14:48.264Z,rappi,1029,sbarro_pronto,Pizza Familiar Queso + 4 Palitos,,,
+2026-11-11T00:14:48.264Z,rappi,1030,sbarro_pronto,2x Stromboli,,,
+2026-11-11T00:14:48.264Z,rappi,1031,sbarro_pronto,Pizza Suprema familiar,,,
+2026-11-11T00:14:48.264Z,rappi,1032,sbarro_pronto,Pizza 4 carnes familiar,,,
+2026-11-11T00:14:48.264Z,rappi,1033,sbarro_pronto,Pizza - Pepperoni - Familiar,,,
+2026-11-11T00:14:48.264Z,rappi,1034,sbarro_pronto,2 pizzas familiares de queso,,,
+2026-11-11T00:14:48.264Z,rappi,1035,sbarro_pronto,Palitos de Ajo XXL 4 Un,,,
+2026-11-11T00:14:48.264Z,rappi,1036,sbarro_pronto,Pizza Pollo BBQ familiar,,,
+2026-11-11T00:14:48.264Z,rappi,1037,sbarro_pronto,Nugget 10 unidades,,,
+2026-11-11T00:14:48.264Z,rappi,1038,sbarro_pronto,Salsa De Pizza Sbarro,,,
+2026-11-11T00:14:48.264Z,rappi,1039,sbarro_pronto,Palitos de Ajo XXL 8 Un,,,
+2026-11-11T00:14:48.264Z,rappi,1040,sbarro_pronto,Combo Stromboli + Fritos,,,
+2026-11-11T00:14:48.264Z,rappi,1041,sbarro_pronto,Pizza napolitana familiar,,,
+2026-11-11T00:14:48.266Z,rappi,1042,Streat Burger_DD_CL,Golden Burger + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1043,Streat Burger_DD_CL,Classic Burger + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1044,Streat Burger_DD_CL,West Burger + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1045,Streat Burger_DD_CL,Founder Burger + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1046,Streat Burger_DD_CL,Classic Especial Burger + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1047,Streat Burger_DD_CL,Bacon Burger + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1048,Streat Burger_DD_CL,Cheese Burger + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1049,Streat Burger_DD_CL,West Burger Simple,,,
+2026-11-11T00:14:48.266Z,rappi,1050,Streat Burger_DD_CL,Blue + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1051,Streat Burger_DD_CL,2 Classic + Golden + 2 Papas Grandes,,,
+2026-11-11T00:14:48.266Z,rappi,1052,Streat Burger_DD_CL,Chicken Tenders 5 unidades + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1053,Streat Burger_DD_CL,Original Chicken + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1054,Streat Burger_DD_CL,Papas Crispy Grande,,,
+2026-11-11T00:14:48.266Z,rappi,1055,Streat Burger_DD_CL,Veggie Classic + Papas,,,
+2026-11-11T00:14:48.266Z,rappi,1056,Streat Burger_DD_CL,Chicken Pops,,,
+2026-11-11T00:14:48.268Z,rappi,1057,streat_icecream,Pack 2 Helados,,,
+2026-11-11T00:14:48.268Z,rappi,1058,streat_icecream,Combo Helado 476ml + Cookie,,,
+2026-11-11T00:14:48.268Z,rappi,1059,streat_icecream,Combo 2 Helados 476ml + Cookie,,,
+2026-11-11T00:14:48.268Z,rappi,1060,streat_icecream,Galletón XL Chips de Chocolate,,,
+2026-11-11T00:14:48.268Z,rappi,1061,streat_icecream,New York cheesecake with Oreo,,,
+2026-11-11T00:14:48.268Z,rappi,1062,streat_icecream,Combo Helado 130ml + Cookie,,,
+2026-11-11T00:14:48.268Z,rappi,1063,streat_icecream,Galleta XL Chips de Chocolate,,,
+2026-11-11T00:14:48.268Z,rappi,1064,streat_icecream,Galletón XL Mantequilla de Maní y Chocolate,,,
+2026-11-11T00:14:48.268Z,rappi,1065,streat_icecream,Chocolate Streat,,,
+2026-11-11T00:14:48.268Z,rappi,1066,streat_icecream,Pistacho Ice Cream,,,
+2026-11-11T00:14:48.268Z,rappi,1067,streat_icecream,Oreo New York Cheesecake 476ml,,,
+2026-11-11T00:14:48.268Z,rappi,1068,streat_icecream,Peanut butter cookie dough 476ml,,,
+2026-11-11T00:14:48.268Z,rappi,1069,streat_icecream,Chocolate Streat 476ml,,,
+2026-11-11T00:14:48.268Z,rappi,1070,streat_icecream,Manjar Chips,,,
+2026-11-11T00:14:48.268Z,rappi,1071,streat_icecream,Vainilla Cookie Dough,,,
+2026-11-11T00:14:48.271Z,rappi,1072,SushiBlues_Grupo Food Hall,Promo Nikkei,Sushi Blues - Tajamar,Gohan Nikkei,58
+2026-11-11T00:14:48.273Z,rappi,1078,SushiBlues_Grupo Food Hall,Combo 7 (15 Piezas) + Bebida Lata,Sushi Blues - Tajamar,Combinación 7 (15 Piezas),55
+2026-11-11T00:14:48.274Z,rappi,1080,SushiBlues_Grupo Food Hall,Hot Roll (30 Piezas)- Ding Dong,Sushi Blues - Tajamar,Hot Roll (30 Piezas),64
+2026-11-11T00:14:48.277Z,rappi,1083,SushiBlues_Grupo Food Hall,Promo Gohan High Protein,Sushi Blues - Tajamar,Gohan Kinoko,38
+2026-11-11T00:14:48.316Z,rappi,1118,Tarragona,Promo Box Recargado UBER,Tarragona - Centro Histórico,Promo Box Recargado RAPPI,80
+2026-11-11T00:14:48.317Z,rappi,1119,Tarragona,Promo Super Bowl DFD One,Tarragona - Centro Histórico,Super Fillet Bowl,54
+2026-11-11T00:14:48.318Z,rappi,1120,Tarragona,Promo Bowl DFD Nuevos Usuarios,Tarragona - Centro Histórico,Promo Box Recargado,40
+2026-11-11T00:14:48.321Z,rappi,1124,Tarragona,Promo Fajita - Coca Cola,Tarragona - Centro Histórico,Promo Fajita - Coca Cola - Benedictino,65
+2026-11-11T00:14:48.328Z,rappi,1132,elementalcl,Box Super Street Bacon Nuevos Usuarios Uber,,,
+2026-11-11T00:14:48.328Z,rappi,1133,elementalcl,Combo La Super Cheddar Bacon Doble,,,
+2026-11-11T00:14:48.328Z,rappi,1134,elementalcl,Box Pa´2 La Fresh,,,
+2026-11-11T00:14:48.328Z,rappi,1135,elementalcl,Combo La Elemental Doble,,,
+2026-11-11T00:14:48.328Z,rappi,1136,elementalcl,Box Pa 3 La Fresh Uber One,,,
+2026-11-11T00:14:48.328Z,rappi,1137,elementalcl,10 Empanadas mini,,,
+2026-11-11T00:14:48.328Z,rappi,1138,elementalcl,Combo La Super Cheddar Bacon Simple,,,
+2026-11-11T00:14:48.328Z,rappi,1139,elementalcl,Box Las Brutales Deluxe,,,
+2026-11-11T00:14:48.328Z,rappi,1140,elementalcl,Box Pa´3 La Fresh,,,
+2026-11-11T00:14:48.328Z,rappi,1141,elementalcl,Mega Papa Cheddar Bacon,,,
+2026-11-11T00:14:48.328Z,rappi,1142,elementalcl,Box Las Burgers Deluxe,,,
+2026-11-11T00:14:48.328Z,rappi,1143,elementalcl,Combo Crunchy Bacon Simple,,,
+2026-11-11T00:14:48.328Z,rappi,1144,elementalcl,Sticks de Mozzarella x 5,,,
+2026-11-11T00:14:48.328Z,rappi,1145,elementalcl,Combo La Clasica Queso Doble,,,
+2026-11-11T00:14:48.328Z,rappi,1146,elementalcl,Bebida Lata,,,
+2026-11-11T00:14:48.330Z,rappi,1147,pollostop_ch,Box Maxx,,,
+2026-11-11T00:14:48.330Z,rappi,1148,pollostop_ch,Box Imperdible,,,
+2026-11-11T00:14:48.330Z,rappi,1149,pollostop_ch,Imperdible para 3,,,
+2026-11-11T00:14:48.330Z,rappi,1150,pollostop_ch,Buckets 13 Mega Strips o Alitas,,,
+2026-11-11T00:14:48.330Z,rappi,1151,pollostop_ch,Imperdible para 2,,,
+2026-11-11T00:14:48.330Z,rappi,1152,pollostop_ch,Triple Mixto,,,
+2026-11-11T00:14:48.330Z,rappi,1153,pollostop_ch,10 empanaditas,,,
+2026-11-11T00:14:48.330Z,rappi,1154,pollostop_ch,Box Imperdible Wraps,,,
+2026-11-11T00:14:48.330Z,rappi,1155,pollostop_ch,Triple Mixto Full,,,
+2026-11-11T00:14:48.330Z,rappi,1156,pollostop_ch,Mega Strips para 2,,,
+2026-11-11T00:14:48.330Z,rappi,1157,pollostop_ch,Mega Strips para 2 One,,,
+2026-11-11T00:14:48.330Z,rappi,1158,pollostop_ch,Papas familiar,,,
+2026-11-11T00:14:48.330Z,rappi,1159,pollostop_ch,Salsas,,,
+2026-11-11T00:14:48.330Z,rappi,1160,pollostop_ch,10 nuggets,,,
+2026-11-11T00:14:48.330Z,rappi,1161,pollostop_ch,Combo Mega Wraps Full,,,
+2026-11-11T00:14:48.335Z,rappi,1194,tommy beans_chile,Dupla Mex,Tommy Beans - Lyon,Tommy Duo Pollo,40
+2026-11-11T00:14:48.337Z,rappi,1197,tommy beans_chile,Chido Box,Tommy Beans - Lyon,Choclo Wey,40
+2026-11-11T00:14:48.341Z,rappi,1203,tommy beans_chile,Super Bowl,Tommy Beans - Lyon,Arma tu Bowl,42
+2026-11-11T00:14:48.343Z,rappi,1206,tommy beans_chile,Bebidas en lata,Tommy Beans - Lyon,Menú Kids,33
+2026-11-11T00:14:48.344Z,rappi,1207,tommy beans_chile,Martes de Cuates,Tommy Beans - Lyon,Tarde de Tacos,56
+2026-11-11T00:14:48.345Z,rappi,1208,tommy beans_chile,Combo Burrito Lover,Tommy Beans - Lyon,Burrito Carnal Prime,50
+2026-11-11T00:14:48.352Z,rappi,1216,tommy beans_chile,Tommy For One + Nachos,Tommy Beans - Lyon,Tommy Lover Chili,45
+2026-11-11T00:14:48.354Z,rappi,1218,tommy beans_chile,Combo Ding Dong,Tommy Beans - Lyon,Combo Para Dos,60
+2026-11-11T00:14:48.355Z,rappi,1219,tommy beans_chile,Combo Burrito Lover,Tommy Beans - Lyon,Burrito Carnal Prime,50
+2026-11-11T00:14:48.358Z,rappi,1222,udon_parent_tbd,Corral Chicken,,,
+2026-11-11T00:14:48.358Z,rappi,1223,udon_parent_tbd,Tonkotsu Ramen,,,
+2026-11-11T00:14:48.358Z,rappi,1224,udon_parent_tbd,Miso Ramen,,,
+2026-11-11T00:14:48.358Z,rappi,1225,udon_parent_tbd,Miso Soup,,,
+2026-11-11T00:14:48.358Z,rappi,1226,udon_parent_tbd,Gyozas de Cerdo,,,
+2026-11-11T00:14:48.358Z,rappi,1227,udon_parent_tbd,Korean Chicken Udon,,,
+2026-11-11T00:14:48.358Z,rappi,1228,udon_parent_tbd,Edamame,,,
+2026-11-11T00:14:48.358Z,rappi,1229,udon_parent_tbd,Chicken Katsu Curry,,,
+2026-11-11T00:14:48.358Z,rappi,1230,udon_parent_tbd,Beef Udon Korean,,,
+2026-11-11T00:14:48.358Z,rappi,1231,udon_parent_tbd,Chicken Thai Fingers,,,
+2026-11-11T00:14:48.358Z,rappi,1232,udon_parent_tbd,Salmón Tartar Roll,,,
+2026-11-11T00:14:48.358Z,rappi,1233,udon_parent_tbd,Corral Chicken Curry Udon,,,
+2026-11-11T00:14:48.358Z,rappi,1234,udon_parent_tbd,Oyako Don,,,
+2026-11-11T00:14:48.358Z,rappi,1235,udon_parent_tbd,Mixed Rolls,,,
+2026-11-11T00:14:48.358Z,rappi,1236,udon_parent_tbd,Chicken,,,
+2026-11-11T00:14:48.369Z,rappi,1267,atomic_vittore,Helado de Menta Chips 220 ml,,,
+2026-11-11T00:14:48.369Z,rappi,1268,atomic_vittore,Combo Cremoso - 2 Potes de 460 ml a Elección,,,
+2026-11-11T00:14:48.369Z,rappi,1269,atomic_vittore,Combo Vittore- 2 Potes 220 ml a Elección,,,
+2026-11-11T00:14:48.369Z,rappi,1270,atomic_vittore,Helado de Chocolate King 220 ml,,,
+2026-11-11T00:14:48.369Z,rappi,1271,atomic_vittore,Helado de Chocolate Suizo 460 ml,,,
+2026-11-11T00:14:48.369Z,rappi,1272,atomic_vittore,Helado de Banana Split 220 ml,,,
+2026-11-11T00:14:48.369Z,rappi,1273,atomic_vittore,Helado de Frutilla a la Crema,,,
+2026-11-11T00:14:48.372Z,rappi,1274,wendyscl,Box Crispy Cheddar,Wendy's - Divina Providencia,Box Cheddar Melt OFF,60
+2026-11-11T00:14:48.374Z,rappi,1279,wendyscl,Agrega 2 Tenders,Wendy's - Divina Providencia,Box Jr Chicken OFF,0
+2026-11-11T00:14:48.376Z,rappi,1283,wendyscl,Agrega 2 empanadas y 1 tender,Wendy's - Divina Providencia,Box Jr Chicken OFF,0
+2026-11-11T00:14:48.377Z,rappi,1284,wendyscl,Promo Cheddar Melt SB,Wendy's - Divina Providencia,Combo Cheddar Melt,71
+2026-11-11T00:14:48.381Z,rappi,1289,wevo_burger,The Top - CARNIVORE,,,
+2026-11-11T00:14:48.381Z,rappi,1290,wevo_burger,Empanadas de queso (6 unidades),,,
+2026-11-11T00:14:48.381Z,rappi,1291,wevo_burger,Combo original burger,,,
+2026-11-11T00:14:48.381Z,rappi,1292,wevo_burger,Agua Mineral Sin Gas Cachantun 500 ml,,,
+2026-11-11T00:14:48.381Z,rappi,1293,wevo_burger,Combo american chicken,,,
+2026-11-11T00:14:48.381Z,rappi,1294,wevo_burger,Original doble burger + bebida,,,
+2026-11-11T00:14:48.381Z,rappi,1295,wevo_burger,Agua Mineral Con Gas Cachantun 500 Ml,,,
+2026-11-11T00:14:48.381Z,rappi,1296,wevo_burger,Classic chicken burger,,,
+2026-11-11T00:14:48.381Z,rappi,1297,wevo_burger,Combo onions bbq,,,
+2026-11-11T00:14:48.381Z,rappi,1298,wevo_burger,Combo onions BBQ Doble,,,
+2026-11-11T00:14:48.381Z,rappi,1299,wevo_burger,Combo wevo chessbacon,,,
+2026-11-11T00:14:48.381Z,rappi,1300,wevo_burger,Oklahoma burger,,,
+2026-11-11T00:14:48.381Z,rappi,1301,wevo_burger,Original burger,,,
+2026-11-11T00:14:48.381Z,rappi,1302,wevo_burger,Wevo chessbacon burger,,,
+2026-11-11T00:14:48.388Z,rappi,1309,atomic_wingit,Alitas X10 + Aros de Cebolla,Wing It! - Ñuñoa,Korean Wings X10,26
+2026-11-11T00:14:48.391Z,rappi,1317,atomic_wingit,Mega Tenders Box 4,Wing It! - Ñuñoa,Combo 4 Chicken Tenders,48

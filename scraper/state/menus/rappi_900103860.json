@@ -1,0 +1,239 @@
+{
+  "id": "900103860",
+  "name": "Little Caesars Pizza - Los Leones",
+  "url": "https://www.rappi.cl/restaurantes/900103860",
+  "items": [
+    {
+      "name": "Duo Full",
+      "full": 31000,
+      "offer": 23000,
+      "available": true,
+      "corridor": "EDICION LIMITADA"
+    },
+    {
+      "name": "Ultimate Supreme + Classic Cheese",
+      "full": 21000,
+      "offer": 18000,
+      "available": true,
+      "corridor": "EDICION LIMITADA"
+    },
+    {
+      "name": "Super Cheese + Classic Cheese",
+      "full": 20500,
+      "offer": 18000,
+      "available": true,
+      "corridor": "EDICION LIMITADA"
+    },
+    {
+      "name": "Trio Perfecto",
+      "full": 28000,
+      "offer": 22500,
+      "available": true,
+      "corridor": "EDICION LIMITADA"
+    },
+    {
+      "name": "El Cuarteto del Sabor",
+      "full": 39500,
+      "offer": 33000,
+      "available": true,
+      "corridor": "EDICION LIMITADA"
+    },
+    {
+      "name": "COMBO EXTRA PEPPERONI",
+      "full": 22500,
+      "offer": 18000,
+      "available": true,
+      "corridor": "EDICION LIMITADA"
+    },
+    {
+      "name": "Classic Pepperoni Familiar",
+      "full": 8500,
+      "offer": 7500,
+      "available": true,
+      "corridor": "PIZZAS CLASICAS"
+    },
+    {
+      "name": "Classic Cheese Familiar",
+      "full": 8500,
+      "offer": 7500,
+      "available": true,
+      "corridor": "PIZZAS CLASICAS"
+    },
+    {
+      "name": "Extra Pepperoni Familiar",
+      "full": 10000,
+      "offer": 9500,
+      "available": true,
+      "corridor": "PIZZAS CLASICAS"
+    },
+    {
+      "name": "Jamón Familiar",
+      "full": 11000,
+      "offer": 10000,
+      "available": true,
+      "corridor": "PIZZAS CLASICAS"
+    },
+    {
+      "name": "Super Cheese Pepperoni Familiar",
+      "full": 13500,
+      "offer": 0,
+      "available": true,
+      "corridor": "PIZZAS CLASICAS"
+    },
+    {
+      "name": "Italian 3 Cheese Familiar",
+      "full": 9000,
+      "offer": 8000,
+      "available": true,
+      "corridor": "PIZZAS CLASICAS"
+    },
+    {
+      "name": "4N1 Familiar",
+      "full": 11500,
+      "offer": 0,
+      "available": true,
+      "corridor": "PIZZAS CLASICAS"
+    },
+    {
+      "name": "Ultimate Supreme Familiar",
+      "full": 14000,
+      "offer": 0,
+      "available": true,
+      "corridor": "PIZZAS ESPECIALIDADES"
+    },
+    {
+      "name": "3 Meat Treat Familiar",
+      "full": 14000,
+      "offer": 12500,
+      "available": true,
+      "corridor": "PIZZAS ESPECIALIDADES"
+    },
+    {
+      "name": "Veggie Familiar",
+      "full": 14000,
+      "offer": 12500,
+      "available": true,
+      "corridor": "PIZZAS ESPECIALIDADES"
+    },
+    {
+      "name": "Hazlo Combo con Puff",
+      "full": 9500,
+      "offer": 6000,
+      "available": true,
+      "corridor": "HAZLO COMBO"
+    },
+    {
+      "name": "Hazlo Combo con Bebida",
+      "full": 8000,
+      "offer": 6000,
+      "available": true,
+      "corridor": "HAZLO COMBO"
+    },
+    {
+      "name": "Crazy Combo",
+      "full": 4500,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIDES"
+    },
+    {
+      "name": "3 Cheese Stix",
+      "full": 5500,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIDES"
+    },
+    {
+      "name": "Caesar Puffs Pepperoni",
+      "full": 5500,
+      "offer": 0,
+      "available": true,
+      "corridor": "SIDES"
+    },
+    {
+      "name": "Crazy Sauce",
+      "full": 1500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Dips"
+    },
+    {
+      "name": "New Cheezy Jalapeño",
+      "full": 1500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Dips"
+    },
+    {
+      "name": "New Buttery Garlic",
+      "full": 1500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Dips"
+    },
+    {
+      "name": "Pepsi 1.5 LT",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Pepsi Zero 1.5 LT",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Pepsi 3.0 LT",
+      "full": 5000,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "7UP 1.5 LT",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Bilz 1.5 LT",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Crush 1.5 LT",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "KEM 1.5 LT",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Red Bull Tradicional 250 ML",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    },
+    {
+      "name": "Red Bull Sin Azúcar 250 ML",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "BEBIDAS"
+    }
+  ],
+  "fetchedAt": 1794354803828
+}

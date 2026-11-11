@@ -1,0 +1,407 @@
+{
+  "id": "900115313",
+  "name": "Mamut - Divina Providencia",
+  "url": "https://www.rappi.cl/restaurantes/900115313",
+  "items": [
+    {
+      "name": "Oklahoma",
+      "full": 13190,
+      "offer": 0,
+      "available": true,
+      "corridor": "BURGER FEST"
+    },
+    {
+      "name": "New Orleans 2.0",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "BURGER FEST"
+    },
+    {
+      "name": "Ribs Box",
+      "full": 18690,
+      "offer": 12990,
+      "available": true,
+      "corridor": "Menú Lunch"
+    },
+    {
+      "name": "New Orleans Burger Box",
+      "full": 11990,
+      "offer": 7000,
+      "available": true,
+      "corridor": "Menú Lunch"
+    },
+    {
+      "name": "Pasta Box",
+      "full": 13490,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Menú Lunch"
+    },
+    {
+      "name": "Texas Burger Box",
+      "full": 11690,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Menú Lunch"
+    },
+    {
+      "name": "California Burger Box",
+      "full": 11690,
+      "offer": 9990,
+      "available": true,
+      "corridor": "Menú Lunch"
+    },
+    {
+      "name": "Salad Box",
+      "full": 13290,
+      "offer": 11990,
+      "available": true,
+      "corridor": "Menú Lunch"
+    },
+    {
+      "name": "Ribs Original",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestras Ribs"
+    },
+    {
+      "name": "Half Ribs",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestras Ribs"
+    },
+    {
+      "name": "Ribs Original Combo",
+      "full": 22990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestras Ribs"
+    },
+    {
+      "name": "American Ribs",
+      "full": 24000,
+      "offer": 19990,
+      "available": true,
+      "corridor": "Nuestras Ribs"
+    },
+    {
+      "name": "Manada en Casa",
+      "full": 33990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestras Ribs"
+    },
+    {
+      "name": "California Burger & Fries",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ruta americana"
+    },
+    {
+      "name": "Texas Burger & Fries",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ruta americana"
+    },
+    {
+      "name": "Bacon Cheese Burger & Fries",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ruta americana"
+    },
+    {
+      "name": "Boston Burger & Fries",
+      "full": 11490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ruta americana"
+    },
+    {
+      "name": "Buffalo Burger & Fries",
+      "full": 11490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ruta americana"
+    },
+    {
+      "name": "Louisiana Burger & Fries",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ruta americana"
+    },
+    {
+      "name": "Not Burger & Fries",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ruta americana"
+    },
+    {
+      "name": "Plan Mamut",
+      "full": 30970,
+      "offer": 24990,
+      "available": true,
+      "corridor": "¡¡Sabores para la Manada !!"
+    },
+    {
+      "name": "Manada Burger",
+      "full": 23990,
+      "offer": 0,
+      "available": true,
+      "corridor": "¡¡Sabores para la Manada !!"
+    },
+    {
+      "name": "Mamut Imperial",
+      "full": 23490,
+      "offer": 0,
+      "available": true,
+      "corridor": "¡¡Sabores para la Manada !!"
+    },
+    {
+      "name": "Ribs to Share",
+      "full": 26490,
+      "offer": 0,
+      "available": true,
+      "corridor": "¡¡Sabores para la Manada !!"
+    },
+    {
+      "name": "Dupla Americana",
+      "full": 19980,
+      "offer": 11990,
+      "available": true,
+      "corridor": "¡¡Sabores para la Manada !!"
+    },
+    {
+      "name": "Ribs to Share XL",
+      "full": 46490,
+      "offer": 0,
+      "available": true,
+      "corridor": "¡¡Sabores para la Manada !!"
+    },
+    {
+      "name": "Sandwich Italiano",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Tus Gigantes Favoritos"
+    },
+    {
+      "name": "Sandwich Luco",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Tus Gigantes Favoritos"
+    },
+    {
+      "name": "Sándwich Granjero",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Tus Gigantes Favoritos"
+    },
+    {
+      "name": "Queensland Chicken",
+      "full": 11490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pastas"
+    },
+    {
+      "name": "Dupla de Pasta",
+      "full": 24480,
+      "offer": 18990,
+      "available": true,
+      "corridor": "Pastas"
+    },
+    {
+      "name": "Scampi & Cream",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pastas"
+    },
+    {
+      "name": "Salmon Salad",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "GREEN & FRESH"
+    },
+    {
+      "name": "Shrimp Salad",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "GREEN & FRESH"
+    },
+    {
+      "name": "Cesar Salad Chicken",
+      "full": 10490,
+      "offer": 0,
+      "available": true,
+      "corridor": "GREEN & FRESH"
+    },
+    {
+      "name": "Spring Salad",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "GREEN & FRESH"
+    },
+    {
+      "name": "Ceviche de Champiñones",
+      "full": 99909,
+      "offer": 0,
+      "available": true,
+      "corridor": "GREEN & FRESH"
+    },
+    {
+      "name": "Sliders Burger",
+      "full": 17990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Pop Corn x15",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Snack Box",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Playacar",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Texas Loaded Nachos",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Alitas x 8",
+      "full": 12490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Loaded Nachos",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Alitas x 5",
+      "full": 8490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Appetizers"
+    },
+    {
+      "name": "Brownie",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Desserts"
+    },
+    {
+      "name": "Cheesecake Berries",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Desserts"
+    },
+    {
+      "name": "Churros x7",
+      "full": 8400,
+      "offer": 7000,
+      "available": true,
+      "corridor": "Desserts"
+    },
+    {
+      "name": "Strudel de Manzana",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Desserts"
+    },
+    {
+      "name": "Bebida en lata",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Bebida 1,5 lts",
+      "full": 4000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Agua Mineral",
+      "full": 2300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Kunstmann Torobayo 330 cc",
+      "full": 4400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cerveza"
+    },
+    {
+      "name": "Sol 330 cc",
+      "full": 4500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cerveza"
+    },
+    {
+      "name": "Heineken 0°",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Cerveza"
+    },
+    {
+      "name": "10 Sliders Cheese Burger",
+      "full": 21590,
+      "offer": 0,
+      "available": true,
+      "corridor": "The Burger Experience"
+    },
+    {
+      "name": "10 Sliders Classic Burger",
+      "full": 21590,
+      "offer": 0,
+      "available": true,
+      "corridor": "The Burger Experience"
+    }
+  ],
+  "fetchedAt": 1794354950510
+}

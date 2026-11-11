@@ -1,0 +1,421 @@
+{
+  "id": "900106425",
+  "name": "Poked - Ñuñoa",
+  "url": "https://www.rappi.cl/restaurantes/900106425",
+  "items": [
+    {
+      "name": "Chicken Teriyaki Poke + Bebida Gratis",
+      "full": 10880,
+      "offer": 6310,
+      "available": true,
+      "corridor": "Poked Lovers"
+    },
+    {
+      "name": "2 Yakimeshis a elección + 2 bebidas",
+      "full": 21840,
+      "offer": 12890,
+      "available": true,
+      "corridor": "Poked Lovers"
+    },
+    {
+      "name": "Combo poked: 1 gohan + 1 poke",
+      "full": 16690,
+      "offer": 9180,
+      "available": true,
+      "corridor": "Descuentazos"
+    },
+    {
+      "name": "Promo! 2 pollo crispy gohan",
+      "full": 14800,
+      "offer": 7400,
+      "available": true,
+      "corridor": "Descuentazos"
+    },
+    {
+      "name": "Arma tu gohan",
+      "full": 8720,
+      "offer": 4800,
+      "available": true,
+      "corridor": "Arma Tu"
+    },
+    {
+      "name": "Arma Tu Poke",
+      "full": 8470,
+      "offer": 4660,
+      "available": true,
+      "corridor": "Arma Tu"
+    },
+    {
+      "name": "1 Gohan + 1 Poke + 2 Beb +5 spring rolls",
+      "full": 27780,
+      "offer": 13890,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Promo Chicken Yakimeshi + Bebida",
+      "full": 10920,
+      "offer": 6010,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Promo finde",
+      "full": 29350,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Teriyaki Gohan + Bebida",
+      "full": 10140,
+      "offer": 7100,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Combo Pollo Crispy Gohan + Bebida",
+      "full": 9540,
+      "offer": 6870,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Combo Poke Shrimp Nikkei + Bebida",
+      "full": 11000,
+      "offer": 9570,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Combo pollo crispy gohan + spring rolls",
+      "full": 10200,
+      "offer": 5920,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Combo salmon shrimp gohan + bebida",
+      "full": 10590,
+      "offer": 9530,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "2 Poke Bowls a Elección",
+      "full": 17100,
+      "offer": 11120,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "2 Gohan a Elección + Gyozas",
+      "full": 20520,
+      "offer": 10050,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "2 Yakimeshis a Elección",
+      "full": 16520,
+      "offer": 10740,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "2 Gohan a elección",
+      "full": 16290,
+      "offer": 8960,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "1 Gohan + 1 crispy handroll + 1 bebida",
+      "full": 15890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Omakase: 1 wok + 1 gohan + 1 poke",
+      "full": 24645,
+      "offer": 13800,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Teriyaki Gohan + Gyozas",
+      "full": 12250,
+      "offer": 9920,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Arma tu gohan + bebida",
+      "full": 10820,
+      "offer": 6490,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "New York Gohan",
+      "full": 7290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sushi Bowls - Gohan Clásicos"
+    },
+    {
+      "name": "Pollo Crispy Gohan",
+      "full": 7400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sushi Bowls - Gohan Clásicos"
+    },
+    {
+      "name": "Teriyaki Gohan",
+      "full": 7940,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sushi Bowls - Gohan Clásicos"
+    },
+    {
+      "name": "Shrimp Hopa Gohan",
+      "full": 7830,
+      "offer": 6660,
+      "available": true,
+      "corridor": "Sushi Bowls - Gohan Clásicos"
+    },
+    {
+      "name": "Gohan Shrimp Nikkei",
+      "full": 7400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sushi Bowls - Gohan Clásicos"
+    },
+    {
+      "name": "Salmón Shrimp Gohan Nikkei",
+      "full": 8970,
+      "offer": 6280,
+      "available": true,
+      "corridor": "Sushi Bowls - Gohan Clásicos"
+    },
+    {
+      "name": "Berenjena Crispy Gohan",
+      "full": 6350,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sushi Bowls - Gohan Clásicos"
+    },
+    {
+      "name": "Chicken Teriyaki Sushi Poke",
+      "full": 8150,
+      "offer": 6850,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Chicken Teriyaki Poke + Bebida",
+      "full": 10270,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Poke Salmón Shrimp Nikkei",
+      "full": 9000,
+      "offer": 6390,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Salmon Aloha Sushi Poke",
+      "full": 9420,
+      "offer": 8480,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Shrimp Maui Poke",
+      "full": 8150,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Chicken Maikai Poke",
+      "full": 7730,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Poke Shrimp Nikkei",
+      "full": 8150,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Veggie Poke",
+      "full": 7400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Berenjena Crispy Poke",
+      "full": 7400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Pollo Crispy Sushi Poke",
+      "full": 7400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Poke Bowls"
+    },
+    {
+      "name": "Chicken Yakimeshi",
+      "full": 8420,
+      "offer": 6740,
+      "available": true,
+      "corridor": "Yakimeshis"
+    },
+    {
+      "name": "Salmon Yakimeshi",
+      "full": 9090,
+      "offer": 0,
+      "available": true,
+      "corridor": "Yakimeshis"
+    },
+    {
+      "name": "Shrimp Yakimeshi",
+      "full": 8570,
+      "offer": 7280,
+      "available": true,
+      "corridor": "Yakimeshis"
+    },
+    {
+      "name": "Veggie Yakimeshi",
+      "full": 6730,
+      "offer": 0,
+      "available": true,
+      "corridor": "Yakimeshis"
+    },
+    {
+      "name": "Crispy Yakimeshi",
+      "full": 8420,
+      "offer": 5470,
+      "available": true,
+      "corridor": "Yakimeshis"
+    },
+    {
+      "name": "Arma tu baby gohan",
+      "full": 5990,
+      "offer": 3530,
+      "available": true,
+      "corridor": "Baby Gohan y Baby Poke"
+    },
+    {
+      "name": "Arma Tu Baby Poke",
+      "full": 5790,
+      "offer": 3470,
+      "available": true,
+      "corridor": "Baby Gohan y Baby Poke"
+    },
+    {
+      "name": "Salmon Baby Poke",
+      "full": 5790,
+      "offer": 4630,
+      "available": true,
+      "corridor": "Baby Gohan y Baby Poke"
+    },
+    {
+      "name": "Ebi Furay Baby Gohan",
+      "full": 5490,
+      "offer": 4390,
+      "available": true,
+      "corridor": "Baby Gohan y Baby Poke"
+    },
+    {
+      "name": "Crispy Baby Poke",
+      "full": 4990,
+      "offer": 3790,
+      "available": true,
+      "corridor": "Baby Gohan y Baby Poke"
+    },
+    {
+      "name": "Tori Furay Baby Gohan",
+      "full": 4990,
+      "offer": 3990,
+      "available": true,
+      "corridor": "Baby Gohan y Baby Poke"
+    },
+    {
+      "name": "Crispy Veggie Baby Poke",
+      "full": 3549,
+      "offer": 0,
+      "available": true,
+      "corridor": "Baby Gohan y Baby Poke"
+    },
+    {
+      "name": "Chicken Teri Baby Gohan",
+      "full": 4690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Baby Gohan y Baby Poke"
+    },
+    {
+      "name": "Spring rolls x2",
+      "full": 2910,
+      "offer": 2120,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Spring rolls x5",
+      "full": 7180,
+      "offer": 5100,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Gyozas",
+      "full": 4230,
+      "offer": 3600,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Ebi Furai",
+      "full": 6350,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Pollo Crispy",
+      "full": 5290,
+      "offer": 0,
+      "available": true,
+      "corridor": "Acompañamientos"
+    },
+    {
+      "name": "Coca-Cola Original 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Sin Azúcar 350 ml",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    }
+  ],
+  "fetchedAt": 1794355276882
+}

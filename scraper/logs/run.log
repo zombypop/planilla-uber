@@ -1,0 +1,1428 @@
+2026-11-10 23:37:22 start: 81 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-10 23:37:22 PedidosYa (R/S) is disabled: no fetcher configured.
+2026-11-10 23:37:22 [2/81] rappi: barriochicken_cl ("barrio chicken")
+2026-11-10 23:37:31     row 1177 "Barrio One Box Full" -> "Barrio One Box Full" @ Barrio Chicken - Ñuñoa: $8,750 / $7,000 (score 100)
+2026-11-10 23:37:31     row 1178 "Box Par de Wraps" -> "Box Par de Wraps" @ Barrio Chicken - Ñuñoa: $12,500 / $10,000 (score 100)
+2026-11-10 23:37:31     row 1179 "Burger Dúo Dinámico" -> "Burger Dúo Dinámico" @ Barrio Chicken - Ñuñoa: $18,990 / $14,000 (score 100)
+2026-11-10 23:37:31     row 1180 "Barrio Box" -> "Barrio Box" @ Barrio Chicken - Ñuñoa: $12,990 / $10,000 (score 100)
+2026-11-10 23:37:31     row 1181 "Combo Barrio Fest" -> "Combo Barrio Fest" @ Barrio Chicken - Ñuñoa: $26,290 / $20,990 (score 100)
+2026-11-10 23:37:31     row 1182 "Combo Chicken Burger Del Barrio" -> "Combo Chicken Burger Del Barrio" @ Barrio Chicken - Ñuñoa: $10,990 / $0 (score 100)
+2026-11-10 23:37:31     row 1183 "Combo Wow" -> "Combo Wow" @ Barrio Chicken - Ñuñoa: $25,000 / $19,990 (score 100)
+2026-11-10 23:37:31     row 1184 "Cup XL Salsa del Barrio" -> "Cup XL Salsa del Barrio" @ Barrio Chicken - Ñuñoa: $2,500 / $0 (score 100)
+2026-11-10 23:37:31     row 1185 "Pop Corn Grande" -> "Pop Corn Grande" @ Barrio Chicken - Ñuñoa: $5,990 / $0 (score 100)
+2026-11-10 23:37:31     row 1188 "La Junta del Pollo Barrio" -> "La Junta del Pollo Barrio" @ Barrio Chicken - Ñuñoa: $13,990 / $0 (score 100)
+2026-11-10 23:37:31     row 1189 "Chicken Tenders x20" -> "Chicken Tenders x20" @ Barrio Chicken - Ñuñoa: $21,990 / $0 (score 100)
+2026-11-10 23:37:31     row 1190 "Coleslaw" -> "Coleslaw" @ Barrio Chicken - Ñuñoa: $2,990 / $0 (score 100)
+2026-11-10 23:37:31     row 1191 "Chicken Tenders x14" -> "Chicken Tenders x14" @ Barrio Chicken - Ñuñoa: $16,990 / $0 (score 100)
+2026-11-10 23:37:31   -> filled 13/15
+2026-11-10 23:37:31 [3/81] rappi: buffalo_waffles ("buffalo waffles")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [4/81] rappi: milas_cl ("milas")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [5/81] rappi: buffetexpress_cl ("buffet express")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [6/81] rappi: Carls_Jr_CL ("carl's jr")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [7/81] rappi: chicken_factory ("chicken factory")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [8/81] rappi: chilis_alsea ("chili's")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [9/81] rappi: China Wok_Grupo Degasa ("china wok")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [10/81] rappi: atomic_clubdelgohan ("club del gohan")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [11/81] rappi: atomic_clubdelpoke ("club del poke")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [12/81] rappi: Club del Poke - La Florida III ("club del poke")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [13/81] rappi: Doggis_Grupo G&N ("doggis")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [14/81] rappi: Juan Maestro_Grupo G&N ("juan maestro")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [15/81] rappi: doggis_heladeria_g&n ("doggis heladeria")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [16/81] rappi: domino_cl ("domino's pizza")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [17/81] rappi: milsabores_dulceluna ("dulce luna")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [18/81] rappi: DunkinDonuts_MS_CL ("dunkin")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [19/81] rappi: milsabores_bodegondelima ("el bodegon")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [20/81] rappi: elcaferosa ("el cafe rosa")
+2026-11-10 23:37:31   -> nothing to fill
+2026-11-10 23:37:31 [21/81] rappi: roof_burger_cl ("roof burger")
+2026-11-10 23:37:40     row 1012 "Classic Burger + Papas" -> "Classic Burger + Papas" @ Roof Burger - La Florida: $10,990 / $7,140 (score 100)
+2026-11-10 23:37:40     row 1013 "Cheddar Burger + Papas" -> "Cheddar burger + papas" @ Roof Burger - La Florida: $11,990 / $6,000 (score 100)
+2026-11-10 23:37:40     row 1014 "Roof Burger + Papas" -> "Roof burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1016 "BBQ Burger + Papas + Bebida" -> "BBQ Burger + Papas" @ Roof Burger - La Florida: $13,990 / $0 (score 91)
+2026-11-10 23:37:40     row 1017 "BBQ Burger + Papas" -> "BBQ Burger + Papas" @ Roof Burger - La Florida: $13,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1018 "Avocado Burger + Papas" -> "Avocado burger + papas" @ Roof Burger - La Florida: $11,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1019 "Basic Burger + Papas" -> "Basic Burger + Papas" @ Roof Burger - La Florida: $9,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1020 "Cheese Burger + Papas" -> "Cheese burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1021 "Italian Burger + Papas" -> "Italian burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1022 "Tasty Burger + Papas" -> "Tasty Burger + Papas" @ Roof Burger - La Florida: $10,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1024 "American Burger + Papas" -> "American burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1025 "Bacon Burger + Papas" -> "Bacon burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-10 23:37:40     row 1026 "Coca-Cola Zero" -> "Coca-Cola Zero" @ Roof Burger - La Florida: $2,000 / $0 (score 100)
+2026-11-10 23:37:40   -> filled 13/15
+2026-11-10 23:37:40 [22/81] rappi: milsabores_eljapones ("el japones")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [23/81] rappi: milsabores_enriquetomas ("enrique tomas")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [24/81] rappi: milsabores_lady ("lady focaccia")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [25/81] rappi: fuente_chilena ("fuente chilena")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [26/81] rappi: Fork_CL ("fork")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [27/81] rappi: Momofuku (Ultimate Parent) ("momofuku")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [28/81] rappi: momofuku (ultimate parent) ("momofuku")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [29/81] rappi: Grido Mall Alto Pe�alolen ("grido")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [30/81] rappi: Grido_RM ("grido")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [31/81] rappi: 7 cortes_milsabores ("7 cortes")
+2026-11-10 23:37:40   -> nothing to fill
+2026-11-10 23:37:40 [32/81] rappi: mesondelmarinero_milsabores ("meson del marinero")
+2026-11-10 23:38:57   rappi search "meson del marinero": no matching store in any Santiago location
+2026-11-10 23:38:57   -> store not found
+2026-11-10 23:38:57 [33/81] rappi: milsabores_ekeko ("ekeko")
+2026-11-10 23:39:58   rappi search "ekeko": no matching store in any Santiago location
+2026-11-10 23:39:58   -> store not found
+2026-11-10 23:39:58 [34/81] rappi: milsabores_fuente ("fuente alemana")
+2026-11-10 23:41:05   rappi search "fuente alemana": no matching store in any Santiago location
+2026-11-10 23:41:05   -> store not found
+2026-11-10 23:41:05 [35/81] rappi: milsabores_lapiazza ("la piazza")
+2026-11-10 23:42:13   rappi search "la piazza": no matching store in any Santiago location
+2026-11-10 23:42:13   -> store not found
+2026-11-10 23:42:13 [36/81] rappi: milsabores_havanna ("havanna")
+2026-11-10 23:43:34   rappi search "havanna": no matching store in any Santiago location
+2026-11-10 23:43:34   -> store not found
+2026-11-10 23:43:34 [37/81] rappi: Más Que Empanada (Viña del Mar) ("mas que empanada")
+2026-11-10 23:44:43   rappi search "mas que empanada": no matching store in any Santiago location
+2026-11-10 23:44:43   -> store not found
+2026-11-10 23:44:44 [38/81] rappi: idilico_cl ("idilico")
+2026-11-10 23:45:47   rappi search "idilico": no matching store in any Santiago location
+2026-11-10 23:45:47   -> store not found
+2026-11-10 23:45:47 [39/81] rappi: atomic_itacate ("itacate")
+2026-11-10 23:46:12   rappi search "itacate" @Santiago Centro: Itacate Avenida Independencia 1424, Independencia, Región Metropolitana de Santiago, Chile - Avenida Independencia 1424
+2026-11-10 23:46:20     row 568 "Arma Tu Burrito" -> "Arma Tu Burrito" @ Itacate - Los Castaños: $7,390 / $0 (score 100)
+2026-11-10 23:46:20     row 569 "Combo Double Burritos" -> "Combo Double Burritos" @ Itacate - Los Castaños: $13,980 / $0 (score 100)
+2026-11-10 23:46:20     row 570 "Combo Triple Burritos" -> "Combo Triple Burritos" @ Itacate - Los Castaños: $20,970 / $0 (score 100)
+2026-11-10 23:46:20     row 572 "Arma tu Bowl" -> "Arma Tu Bowl" @ Itacate - Los Castaños: $7,490 / $0 (score 100)
+2026-11-10 23:46:20     row 573 "Arma Tu Burrito + Bebida" -> "Arma Tu Burrito + Bebida" @ Itacate - Los Castaños: $9,690 / $0 (score 100)
+2026-11-10 23:46:20     row 574 "Combo Antojo!" -> "Combo Antojo" @ Itacate - Los Castaños: $20,970 / $0 (score 100)
+2026-11-10 23:46:20     row 575 "Papas Suprema Doble" -> "Papas Suprema Doble" @ Itacate - Los Castaños: $4,190 / $0 (score 100)
+2026-11-10 23:46:20     row 576 "Combo Chilli Lover!" -> "Combo Chilli Lover" @ Itacate - Los Castaños: $9,080 / $0 (score 100)
+2026-11-10 23:46:20     row 577 "Arma tu Bowl + Bebida" -> "Arma Tu Bowl + Bebida" @ Itacate - Los Castaños: $9,790 / $0 (score 100)
+2026-11-10 23:46:20     row 578 "Papas Supremas" -> "Papas Supremas" @ Itacate - Los Castaños: $2,990 / $0 (score 100)
+2026-11-10 23:46:20     row 579 "Guacamole" -> "Guacamole" @ Itacate - Los Castaños: $990 / $0 (score 100)
+2026-11-10 23:46:20     row 580 "Empanadas Cheesy Bites x6" -> "Empanadas Cheesy Bites X6" @ Itacate - Los Castaños: $2,100 / $0 (score 100)
+2026-11-10 23:46:20     row 581 "Combo Duo Lover!" -> "Combo Duo Lover" @ Itacate - Los Castaños: $14,430 / $0 (score 100)
+2026-11-10 23:46:20   -> filled 13/15
+2026-11-10 23:46:20 [40/81] rappi: milsabores_jalisco ("jalisco")
+2026-11-10 23:47:27   rappi search "jalisco": no matching store in any Santiago location
+2026-11-10 23:47:27   -> store not found
+2026-11-10 23:47:27 [41/81] rappi: jimmyjohns_cl ("jimmy john's")
+2026-11-10 23:47:34   rappi search "jimmy john's" @Providencia: Jimmy John's - Galeria CV
+2026-11-10 23:47:43     row 598 "The Pepe (15 cm)" -> "The Pepe 30 cm" @ Jimmy John's - Vitacura: $10,890 / $0 (score 86)
+2026-11-10 23:47:43     row 599 "Signature + Chips" -> "Signature + Chips" @ Jimmy John's - Vitacura: $11,700 / $9,990 (score 100)
+2026-11-10 23:47:43     row 600 "Roast Beef & Cheddar (30 cm)" -> "Roast Beef Cheddar 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 100)
+2026-11-10 23:47:43     row 601 "Roast Beef & Cheddar (15 cm)" -> "Roast Beef Cheddar 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 92)
+2026-11-10 23:47:43     row 602 "Signature + Bebida Lata" -> "Signature + Bebida Lata" @ Jimmy John's - Vitacura: $11,700 / $9,990 (score 100)
+2026-11-10 23:47:43     row 603 "Meatball Parmesan (30 cm)" -> "Meatball Parmesan 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 100)
+2026-11-10 23:47:43     row 604 "Chicken Bacon Ranch (15 cm)" -> "Chicken Bacon Ranch 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 92)
+2026-11-10 23:47:43     row 605 "Buffalo Chicken Melt (30 cm)" -> "Buffalo Chicken Melt 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 100)
+2026-11-10 23:47:43     row 606 "The Pepe (30 cm)" -> "The Pepe 30 cm" @ Jimmy John's - Vitacura: $10,890 / $0 (score 100)
+2026-11-10 23:47:43     row 607 "Italian Club (30 cm)" -> "Italian Club 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 100)
+2026-11-10 23:47:43     row 608 "Italian Club (15 cm)" -> "Italian Club 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 89)
+2026-11-10 23:47:43     row 609 "Turkey Tom (30 cm)" -> "Turkey Tom 30 cm" @ Jimmy John's - Vitacura: $10,890 / $0 (score 100)
+2026-11-10 23:47:43     row 610 "Chicken Salad (15 cm)" -> "Chicken Salad 30 cm" @ Jimmy John's - Vitacura: $10,890 / $0 (score 89)
+2026-11-10 23:47:43     row 611 "Meatball Parmesan (15 cm)" -> "Meatball Parmesan 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 91)
+2026-11-10 23:47:43     row 612 "The Gargantuan (15 cm)" -> "The Gargantuan 30 cm" @ Jimmy John's - Vitacura: $19,590 / $0 (score 90)
+2026-11-10 23:47:43   -> filled 15/15
+2026-11-10 23:47:43 [42/81] rappi: johnnyrocketschile ("johnny rockets")
+2026-11-10 23:47:54   rappi search "johnny rockets" @Providencia: Johnny Rockets Colon
+2026-11-10 23:48:01     row 613 "Route 66 + Fries 🍟" -> "Route 66 + Fries" @ Johnny Rockets - Las Condes: $7,990 / $0 (score 100)
+2026-11-10 23:48:01     row 614 "The Original + Fries 🍟" -> "The Original + Fries" @ Johnny Rockets - Las Condes: $6,990 / $0 (score 100)
+2026-11-10 23:48:01     row 615 "Smokehouse Doble + Fries 🍟" -> "Smokehouse Doble + Fries" @ Johnny Rockets - Las Condes: $11,990 / $0 (score 100)
+2026-11-10 23:48:01     row 616 "Smokehouse Single + Fries 🍟" -> "Smokehouse Single + Fries" @ Johnny Rockets - Las Condes: $8,990 / $0 (score 100)
+2026-11-10 23:48:01     row 617 "Bacon Cheddar Single + Fries 🍟" -> "Bacon Cheddar Single + Fries" @ Johnny Rockets - Las Condes: $8,990 / $0 (score 100)
+2026-11-10 23:48:01     row 618 "Rocket Single + Fries 🍟" -> "Rocket Single + Fries" @ Johnny Rockets - Las Condes: $7,990 / $0 (score 100)
+2026-11-10 23:48:01     row 619 "Bacon Cheddar Doble + Fries 🍟" -> "Bacon Cheddar Doble + Fries" @ Johnny Rockets - Las Condes: $11,990 / $0 (score 100)
+2026-11-10 23:48:01     row 620 "Rocket Doble + Fries 🍟" -> "Rocket Doble + Fries" @ Johnny Rockets - Las Condes: $10,990 / $0 (score 100)
+2026-11-10 23:48:01     row 621 "The Houston + Fries 🍟" -> "The Houston + Fries" @ Johnny Rockets - Las Condes: $7,990 / $0 (score 100)
+2026-11-10 23:48:01     row 622 "Triple Rockstar Burger + Fries 🍟" -> "Triple Rockstar Burger + Fries" @ Johnny Rockets - Las Condes: $13,990 / $0 (score 100)
+2026-11-10 23:48:01     row 623 "Chicken Tenders + Fries 🍟" -> "Chicken Tenders + Fries" @ Johnny Rockets - Las Condes: $6,990 / $0 (score 100)
+2026-11-10 23:48:01     row 624 "Cobb Salad 🥗" -> "Cobb Salad" @ Johnny Rockets - Las Condes: $8,490 / $0 (score 100)
+2026-11-10 23:48:01     row 625 "Texas Burger + Fries 🍟" -> "Texas Burger + Fries" @ Johnny Rockets - Las Condes: $5,990 / $0 (score 100)
+2026-11-10 23:48:01     row 626 "Sublime Burger + Fries 🍟" -> "Sublime Burger + Fries" @ Johnny Rockets - Las Condes: $13,990 / $0 (score 100)
+2026-11-10 23:48:01     row 627 "Oreo Cookies & Cream Shake 🍪" -> "Oreo Cookies & Cream Shake" @ Johnny Rockets - Las Condes: $5,990 / $0 (score 100)
+2026-11-10 23:48:01   -> filled 15/15
+2026-11-10 23:48:01 [43/81] rappi: Juan Maestro Centro Comercial Maipu ("juan maestro")
+2026-11-10 23:48:18   rappi search "juan maestro" @Las Condes: Juan Maestro Simon Bolivar
+2026-11-10 23:48:30     row 628 "Super Juan Smashter Burger" -> "Super Juan Smashter Burger" @ Juan Maestro - Ñuñoa: $10,700 / $7,590 (score 100)
+2026-11-10 23:48:30     row 630 "Caja de Papas Fritas y Empanadas" -> "Caja de papas fritas + empanadas" @ Juan Maestro - Ñuñoa: $5,900 / $0 (score 94)
+2026-11-10 23:48:30     row 636 "Papas Fritas Familiares" -> "Papas fritas familiares" @ Juan Maestro - Ñuñoa: $5,700 / $0 (score 100)
+2026-11-10 23:48:30   -> filled 3/9
+2026-11-10 23:48:30 [44/81] rappi: Juan Maestro Líder Vicuña Mackenna ("juan maestro")
+2026-11-10 23:48:46   rappi search "juan maestro" @Las Condes: Juan Maestro Simon Bolivar
+2026-11-10 23:48:46     row 644 "Empanadas x5" -> "Empanadas x5" @ Juan Maestro - Ñuñoa: $3,590 / $0 (score 100)
+2026-11-10 23:48:46     row 649 "Papas Fritas Grandes" -> "Papas fritas grandes" @ Juan Maestro - Ñuñoa: $3,090 / $0 (score 100)
+2026-11-10 23:48:46     row 650 "Smashter Burger Clásica" -> "Smashter Burger Clásica" @ Juan Maestro - Ñuñoa: $6,990 / $0 (score 100)
+2026-11-10 23:48:46     row 651 "Smashter Burger Cuarto Maestro" -> "Smashter Burger Cuarto Maestro" @ Juan Maestro - Ñuñoa: $5,990 / $0 (score 100)
+2026-11-10 23:48:46   -> filled 4/15
+2026-11-10 23:48:46 [45/81] rappi: just_burger_cl ("just burger")
+2026-11-10 23:48:57   rappi search "just burger" @Providencia: Just Burger Providencia Guardia Vieja 62 10
+2026-11-10 23:49:03     row 668 "Combo Just Classic" -> "Combo Just Classic" @ Just Burger - Los Leones: $12,480 / $5,990 (score 100)
+2026-11-10 23:49:03     row 669 "Combo Just BBQ" -> "Combo Just BBQ" @ Just Burger - Los Leones: $12,880 / $0 (score 100)
+2026-11-10 23:49:03     row 672 "Promo BBQ simple Duo" -> "Promo BBQ Simple Duo" @ Just Burger - Los Leones: $22,180 / $14,990 (score 100)
+2026-11-10 23:49:03     row 673 "Empanadas de Queso" -> "Empanadas de Queso" @ Just Burger - Los Leones: $2,990 / $0 (score 100)
+2026-11-10 23:49:03     row 674 "Combo Just Blue" -> "Combo Just Blue" @ Just Burger - Los Leones: $14,180 / $0 (score 100)
+2026-11-10 23:49:03     row 675 "Just Classic" -> "Just Classic promo" @ Just Burger - Los Leones: $8,000 / $0 (score 91)
+2026-11-10 23:49:03     row 676 "Combo Just Classic Doble" -> "Combo Just Classic Doble" @ Just Burger - Los Leones: $14,680 / $0 (score 100)
+2026-11-10 23:49:03     row 677 "Combo Just BBQ Doble" -> "Combo Just BBQ Doble" @ Just Burger - Los Leones: $15,080 / $0 (score 100)
+2026-11-10 23:49:03     row 678 "Combo Just Órale Wey!" -> "Combo Just Órale Wey!" @ Just Burger - Los Leones: $13,080 / $0 (score 100)
+2026-11-10 23:49:03     row 679 "Combo Just Cheese" -> "Combo Just Cheese" @ Just Burger - Los Leones: $11,480 / $0 (score 100)
+2026-11-10 23:49:03     row 680 "Promo Classic Doble Duo" -> "Promo Classic Doble Duo" @ Just Burger - Los Leones: $25,780 / $19,990 (score 100)
+2026-11-10 23:49:03     row 681 "Combo Just 4to libra" -> "Combo Just 4to libra" @ Just Burger - Los Leones: $12,180 / $0 (score 100)
+2026-11-10 23:49:03   -> filled 12/15
+2026-11-10 23:49:03 [46/81] rappi: sin_miedo_burgers ("sin miedo")
+2026-11-10 23:49:11   rappi search "sin miedo" @Providencia: Sin Miedo Providencia
+2026-11-10 23:49:20     row 682 "Doble Queso + Papas Fritas" -> "Doble Queso" @ Sin Miedo Burgers - Los Leones: $7,090 / $0 (score 85)
+2026-11-10 23:49:20     row 683 "Combo Rodeo" -> "Combo Rodeo" @ Sin Miedo Burgers - Los Leones: $11,380 / $8,990 (score 100)
+2026-11-10 23:49:20     row 684 "Clásica" -> "Clasica" @ Sin Miedo Burgers - Los Leones: $6,690 / $0 (score 100)
+2026-11-10 23:49:20     row 685 "Doble Queso" -> "Doble Queso" @ Sin Miedo Burgers - Los Leones: $7,090 / $0 (score 100)
+2026-11-10 23:49:20     row 686 "Empanadas de Queso" -> "Empanadas de Queso" @ Sin Miedo Burgers - Los Leones: $2,690 / $0 (score 100)
+2026-11-10 23:49:20     row 687 "Rodeo Burger" -> "Rodeo" @ Sin Miedo Burgers - Los Leones: $7,090 / $0 (score 91)
+2026-11-10 23:49:20     row 688 "Clásica + Papas Fritas" -> "Clásica + Papas" @ Sin Miedo Burgers - Los Leones: $8,380 / $6,990 (score 91)
+2026-11-10 23:49:20     row 689 "Papas Fritas Grandes" -> "Papas Fritas Grandes" @ Sin Miedo Burgers - Los Leones: $3,290 / $2,790 (score 100)
+2026-11-10 23:49:20     row 690 "Doble Rodeo Burger" -> "Doble Rodeo Burger" @ Sin Miedo Burgers - Los Leones: $8,590 / $0 (score 100)
+2026-11-10 23:49:20     row 691 "Doble Clásica" -> "Doble Clásica" @ Sin Miedo Burgers - Los Leones: $7,590 / $0 (score 100)
+2026-11-10 23:49:20     row 692 "Rodeo Burger + Papas Fritas" -> "Papas Fritas" @ Sin Miedo Burgers - Los Leones: $2,290 / $0 (score 85)
+2026-11-10 23:49:20     row 694 "Italiana" -> "Italiana" @ Sin Miedo Burgers - Los Leones: $6,690 / $0 (score 100)
+2026-11-10 23:49:20     row 695 "Combo Italiana" -> "Combo Italiana" @ Sin Miedo Burgers - Los Leones: $10,380 / $0 (score 100)
+2026-11-10 23:49:20     row 696 "Chicken Tenders" -> "Combo Chicken Tenders" @ Sin Miedo Burgers - Los Leones: $11,980 / $0 (score 91)
+2026-11-10 23:49:20   -> filled 14/15
+2026-11-10 23:49:20 [47/81] rappi: kairos ("kairos")
+2026-11-10 23:50:26   rappi search "kairos": no matching store in any Santiago location
+2026-11-10 23:50:26   -> store not found
+2026-11-10 23:50:26 [48/81] rappi: krispykreme_cl ("krispykreme")
+2026-11-10 23:50:34   rappi search "krispykreme" @Providencia: Krispy Kreme Metro Montt 
+2026-11-10 23:50:41     row 713 "6 Pack a Eleccion" -> "6 Pack a Eleccion" @ Krispy Kreme - Divina Providencia: $15,000 / $13,000 (score 100)
+2026-11-10 23:50:41     row 714 "Escoge tu Docena Basic" -> "Escoge tu Docena Basic" @ Krispy Kreme - Divina Providencia: $18,000 / $16,000 (score 100)
+2026-11-10 23:50:41     row 716 "Escoge tu Docena Premium" -> "Escoge tu Docena Premium" @ Krispy Kreme - Divina Providencia: $23,000 / $20,000 (score 100)
+2026-11-10 23:50:41     row 718 "6Pack a Eleccion" -> "6 Pack a Eleccion" @ Krispy Kreme - Divina Providencia: $15,000 / $13,000 (score 94)
+2026-11-10 23:50:41     row 719 "Escoge tu Docena Select" -> "Escoge tu Docena Select" @ Krispy Kreme - Divina Providencia: $20,500 / $18,500 (score 100)
+2026-11-10 23:50:41     row 722 "3 Pack a Eleccion" -> "3 Pack a Eleccion" @ Krispy Kreme - Divina Providencia: $10,000 / $8,500 (score 100)
+2026-11-10 23:50:41   -> filled 6/15
+2026-11-10 23:50:41 [49/81] rappi: milsabores_la_argentina ("la argentina")
+2026-11-10 23:51:24   rappi search "la argentina" @La Florida: La Argentina Pizzería - Plaza Vespucio
+2026-11-10 23:51:32     row 727 "Mitad y Mitad Grande" -> "Mitad y Mitad Grande" @ La Argentina Pizzeria - La Florida: $0 / $0 (score 100)
+2026-11-10 23:51:32     row 728 "Muzzarella Grande" -> "Muzzarella Grande" @ La Argentina Pizzeria - La Florida: $0 / $0 (score 100)
+2026-11-10 23:51:32     row 729 "Muzzarella Jamón Grande" -> "Muzzarella Jamón Grande" @ La Argentina Pizzeria - La Florida: $28,900 / $0 (score 100)
+2026-11-10 23:51:32     row 730 "Muzzarella Napolitana Jamón Grande" -> "Muzzarella Napolitana Jamón Grande" @ La Argentina Pizzeria - La Florida: $39,900 / $0 (score 100)
+2026-11-10 23:51:32     row 731 "Muzzarella Jamón Morrón Grande" -> "Muzzarella Jamón Morrón Grande" @ La Argentina Pizzeria - La Florida: $35,600 / $0 (score 100)
+2026-11-10 23:51:32     row 732 "Fugazza Queso Grande" -> "Fugazza Queso Grande" @ La Argentina Pizzeria - La Florida: $26,800 / $0 (score 100)
+2026-11-10 23:51:32     row 733 "1/2 Pizza Grande" -> "1/2 Pizza Grande" @ La Argentina Pizzeria - La Florida: $0 / $0 (score 100)
+2026-11-10 23:51:32     row 734 "Fugazzeta Grande" -> "Fugazzeta Grande" @ La Argentina Pizzeria - La Florida: $39,900 / $0 (score 100)
+2026-11-10 23:51:32     row 735 "Fainá" -> "Fainá" @ La Argentina Pizzeria - La Florida: $1,500 / $0 (score 100)
+2026-11-10 23:51:32     row 736 "Chimichurri 1oz" -> "Chimichurri 1oz" @ La Argentina Pizzeria - La Florida: $600 / $0 (score 100)
+2026-11-10 23:51:32     row 737 "Fugazza Grande" -> "Fugazza Grande" @ La Argentina Pizzeria - La Florida: $9,900 / $0 (score 100)
+2026-11-10 23:51:32     row 738 "Muzzarella 4 Quesos Grande" -> "Muzzarella 4 Quesos Grande" @ La Argentina Pizzeria - La Florida: $36,900 / $0 (score 100)
+2026-11-10 23:51:32     row 740 "Muzzarella Jamón Ananá Grande" -> "Muzzarella Jamón Ananá Grande" @ La Argentina Pizzeria - La Florida: $36,800 / $0 (score 100)
+2026-11-10 23:51:32     row 741 "Chimichurri 350gr" -> "Chimichurri 350gr" @ La Argentina Pizzeria - La Florida: $7,800 / $0 (score 100)
+2026-11-10 23:51:32   -> filled 14/15
+2026-11-10 23:51:32 [50/81] rappi: la ermita ("la ermita")
+2026-11-10 23:52:51   rappi search "la ermita": no matching store in any Santiago location
+2026-11-10 23:52:52   -> store not found
+2026-11-10 23:52:52 [51/81] rappi: milsabores_lasanguchera ("la sanguchera")
+2026-11-10 23:52:59   rappi search "la sanguchera" @Providencia: La Sanguchera del Barrio - Costanera Center (PADRE 2)
+2026-11-10 23:53:08     row 790 "Lomo Saltado" -> "Lomo Saltado" @ La Sanguchera del Barrio - Tajamar: $14,900 / $0 (score 100)
+2026-11-10 23:53:08     row 791 "Churrazo Italiano" -> "Churrazo Italiano" @ La Sanguchera del Barrio - Tajamar: $13,900 / $0 (score 100)
+2026-11-10 23:53:08     row 794 "Pescado Tempuron" -> "Pescado Tempuron" @ La Sanguchera del Barrio - Tajamar: $13,900 / $0 (score 100)
+2026-11-10 23:53:08     row 798 "Pollo Amistoso" -> "Pollo Amistoso" @ La Sanguchera del Barrio - Tajamar: $12,900 / $0 (score 100)
+2026-11-10 23:53:08     row 800 "Churrazo Italiano de Filete" -> "Churrazo Italiano de Filete" @ La Sanguchera del Barrio - Tajamar: $16,900 / $0 (score 100)
+2026-11-10 23:53:08     row 801 "Del Barrio" -> "Del Barrio" @ La Sanguchera del Barrio - Tajamar: $14,900 / $0 (score 100)
+2026-11-10 23:53:08   -> filled 6/15
+2026-11-10 23:53:08 [52/81] rappi: LittleCaesarsCL ("little caesars")
+2026-11-10 23:53:18   rappi search "little caesars" @Providencia: Little Caesars Nueva Providencia
+2026-11-10 23:53:23     row 802 "Classic Pepperoni Familiar" -> "Classic Pepperoni Familiar" @ Little Caesars Pizza - Los Leones: $8,500 / $7,500 (score 100)
+2026-11-10 23:53:23     row 804 "Trio Perfecto" -> "Trio Perfecto" @ Little Caesars Pizza - Los Leones: $28,000 / $22,500 (score 100)
+2026-11-10 23:53:23     row 805 "Hazlo Combo con Puff" -> "Hazlo Combo con Puff" @ Little Caesars Pizza - Los Leones: $9,500 / $6,000 (score 100)
+2026-11-10 23:53:23     row 806 "Super Cheese Pepperoni Familiar" -> "Super Cheese Pepperoni Familiar" @ Little Caesars Pizza - Los Leones: $13,500 / $0 (score 100)
+2026-11-10 23:53:23     row 807 "Classic Cheese Familiar" -> "Classic Cheese Familiar" @ Little Caesars Pizza - Los Leones: $8,500 / $7,500 (score 100)
+2026-11-10 23:53:23     row 808 "Duo Full" -> "Duo Full" @ Little Caesars Pizza - Los Leones: $31,000 / $23,000 (score 100)
+2026-11-10 23:53:23     row 809 "New Cheezy Jalapeño" -> "New Cheezy Jalapeño" @ Little Caesars Pizza - Los Leones: $1,500 / $0 (score 100)
+2026-11-10 23:53:23     row 810 "Crazy Combo" -> "Crazy Combo" @ Little Caesars Pizza - Los Leones: $4,500 / $0 (score 100)
+2026-11-10 23:53:23     row 811 "COMBO EXTRA PEPPERONI" -> "COMBO EXTRA PEPPERONI" @ Little Caesars Pizza - Los Leones: $22,500 / $18,000 (score 100)
+2026-11-10 23:53:23     row 812 "Hazlo Combo con Bebida" -> "Hazlo Combo con Bebida" @ Little Caesars Pizza - Los Leones: $8,000 / $6,000 (score 100)
+2026-11-10 23:53:23     row 813 "Super Cheese + Classic Cheese" -> "Super Cheese + Classic Cheese" @ Little Caesars Pizza - Los Leones: $20,500 / $18,000 (score 100)
+2026-11-10 23:53:23     row 814 "Ultimate Supreme Familiar" -> "Ultimate Supreme Familiar" @ Little Caesars Pizza - Los Leones: $14,000 / $0 (score 100)
+2026-11-10 23:53:23     row 815 "El Cuarteto del Sabor" -> "El Cuarteto del Sabor" @ Little Caesars Pizza - Los Leones: $39,500 / $33,000 (score 100)
+2026-11-10 23:53:23   -> filled 13/15
+2026-11-10 23:53:23 [53/81] rappi: lovdo_g&n_cl ("lovdo")
+2026-11-10 23:54:33   rappi search "lovdo": no matching store in any Santiago location
+2026-11-10 23:54:33   -> store not found
+2026-11-10 23:54:33 [54/81] rappi: milsabores_mammamia ("mamma mia")
+2026-11-10 23:55:30   rappi search "mamma mia": no matching store in any Santiago location
+2026-11-10 23:55:30   -> store not found
+2026-11-10 23:55:30 [55/81] rappi: mamut_chile ("mamut")
+2026-11-10 23:55:40   rappi search "mamut" @Providencia: Mamut Manuel Montt
+2026-11-10 23:55:50     row 847 "Ribs Box" -> "Ribs Box" @ Mamut - Divina Providencia: $18,690 / $12,990 (score 100)
+2026-11-10 23:55:50     row 848 "Dupla Americana" -> "Dupla Americana" @ Mamut - Divina Providencia: $19,980 / $11,990 (score 100)
+2026-11-10 23:55:50     row 849 "Plan Mamut" -> "Plan Mamut" @ Mamut - Divina Providencia: $30,970 / $24,990 (score 100)
+2026-11-10 23:55:50     row 850 "Texas Burger Box" -> "Texas Burger Box" @ Mamut - Divina Providencia: $11,690 / $9,990 (score 100)
+2026-11-10 23:55:50     row 851 "New Orleans Burger Box" -> "New Orleans Burger Box" @ Mamut - Divina Providencia: $11,990 / $7,000 (score 100)
+2026-11-10 23:55:50     row 852 "Ribs Original Combo" -> "Ribs Original Combo" @ Mamut - Divina Providencia: $22,990 / $0 (score 100)
+2026-11-10 23:55:50     row 853 "Dupla de Pasta" -> "Dupla de Pasta" @ Mamut - Divina Providencia: $24,480 / $18,990 (score 100)
+2026-11-10 23:55:50     row 854 "American Ribs" -> "American Ribs" @ Mamut - Divina Providencia: $24,000 / $19,990 (score 100)
+2026-11-10 23:55:50     row 855 "Pasta Box" -> "Pasta Box" @ Mamut - Divina Providencia: $13,490 / $11,990 (score 100)
+2026-11-10 23:55:50     row 856 "California Burger Box" -> "California Burger Box" @ Mamut - Divina Providencia: $11,690 / $9,990 (score 100)
+2026-11-10 23:55:50     row 857 "Ribs Original" -> "Ribs Original" @ Mamut - Divina Providencia: $13,990 / $0 (score 100)
+2026-11-10 23:55:50     row 859 "Scampi & Cream" -> "Scampi & Cream" @ Mamut - Divina Providencia: $12,990 / $0 (score 100)
+2026-11-10 23:55:50     row 861 "Queensland Chicken" -> "Queensland Chicken" @ Mamut - Divina Providencia: $11,490 / $0 (score 100)
+2026-11-10 23:55:50   -> filled 13/15
+2026-11-10 23:55:50 [56/81] rappi: mariberico ("mariberico")
+2026-11-10 23:57:00   rappi search "mariberico": no matching store in any Santiago location
+2026-11-10 23:57:00   -> store not found
+2026-11-10 23:57:00 [57/81] rappi: melt_pizzas ("melt pizzas")
+2026-11-10 23:57:11   rappi search "melt pizzas" @Providencia: Melt Manuel Montt.
+2026-11-10 23:57:20     row 877 "2 Medianas Special" -> "2 Medianas Special" @ Melt Pizzas - Divina Providencia: $21,980 / $11,990 (score 100)
+2026-11-10 23:57:20     row 878 "2 Pizzas familiares + Palitos" -> "2 Pizzas Familiares + Palitos" @ Melt Pizzas - Divina Providencia: $39,766 / $26,590 (score 100)
+2026-11-10 23:57:20     row 879 "1 Familiar Special" -> "1 Familiar Special" @ Melt Pizzas - Divina Providencia: $15,390 / $8,490 (score 100)
+2026-11-10 23:57:21     row 880 "Double Pepperoni Mediana" -> "Double Pepperoni Mediana" @ Melt Pizzas - Divina Providencia: $14,290 / $0 (score 100)
+2026-11-10 23:57:21     row 881 "🍕 ¡2 Melt Express x $19.990! 🍕" -> "🍕 ¡2 Melt Express X $19.990! 🍕" @ Melt Pizzas - Divina Providencia: $31,476 / $19,990 (score 100)
+2026-11-10 23:57:21     row 882 "Promo 3 Familiares" -> "Promo 3 Pizzas Familiares" @ Melt Pizzas - Divina Providencia: $62,726 / $39,290 (score 91)
+2026-11-10 23:57:21     row 883 "Pizza Familiar + Palitos" -> "Pizza Familiar + Palitos" @ Melt Pizzas - Divina Providencia: $23,699 / $16,490 (score 100)
+2026-11-10 23:57:21     row 884 "Chicken BBQ Familiar" -> "Chicken BBQ Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-10 23:57:21     row 885 "Honey Mustard" -> "Honey Mustard" @ Melt Pizzas - Divina Providencia: $1,000 / $0 (score 100)
+2026-11-10 23:57:21     row 886 "Pepperoni Extreme Familiar" -> "Pepperoni Extreme Familiar" @ Melt Pizzas - Divina Providencia: $9,990 / $0 (score 100)
+2026-11-10 23:57:21     row 887 "Palitos de Ajo" -> "Palitos de Ajo" @ Melt Pizzas - Divina Providencia: $4,490 / $0 (score 100)
+2026-11-10 23:57:21     row 888 "Full Veggie Mediana" -> "Full Veggie Mediana" @ Melt Pizzas - Divina Providencia: $15,890 / $0 (score 100)
+2026-11-10 23:57:21     row 889 "Special Mix Familiar" -> "Special Mix Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-10 23:57:21     row 890 "Chicken Honey Mustard Familiar" -> "Chicken Honey Mustard Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-10 23:57:21     row 891 "Pesto Margarita Familiar" -> "Pesto Margarita Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-10 23:57:21     row 1237 "2 Medianas Special" -> "2 Medianas Special" @ Melt Pizzas - Divina Providencia: $21,980 / $11,990 (score 100)
+2026-11-10 23:57:21     row 1238 "1 Familiar Special" -> "1 Familiar Special" @ Melt Pizzas - Divina Providencia: $15,390 / $8,490 (score 100)
+2026-11-10 23:57:21     row 1239 "2 Pizzas familiares + Palitos" -> "2 Pizzas Familiares + Palitos" @ Melt Pizzas - Divina Providencia: $39,766 / $26,590 (score 100)
+2026-11-10 23:57:21     row 1240 "🍕 ¡2 Melt Express x $19.990! 🍕" -> "🍕 ¡2 Melt Express X $19.990! 🍕" @ Melt Pizzas - Divina Providencia: $31,476 / $19,990 (score 100)
+2026-11-10 23:57:21     row 1241 "Double Pepperoni Mediana" -> "Double Pepperoni Mediana" @ Melt Pizzas - Divina Providencia: $14,290 / $0 (score 100)
+2026-11-10 23:57:21     row 1242 "2 FAMILIARES +PALITOS +BEBIDA 1.5" -> "2 Familiares + Palitos + Bebida 1,5l" @ Melt Pizzas - Divina Providencia: $43,459 / $28,990 (score 97)
+2026-11-10 23:57:21     row 1243 "Special Mix Familiar" -> "Special Mix Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-10 23:57:21     row 1244 "Promo 3 Familiares" -> "Promo 3 Pizzas Familiares" @ Melt Pizzas - Divina Providencia: $62,726 / $39,290 (score 91)
+2026-11-10 23:57:21     row 1245 "Pepperoni Extreme Familiar" -> "Pepperoni Extreme Familiar" @ Melt Pizzas - Divina Providencia: $9,990 / $0 (score 100)
+2026-11-10 23:57:21     row 1246 "Chicken BBQ Familiar" -> "Chicken BBQ Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-10 23:57:21     row 1247 "Honey Mustard" -> "Honey Mustard" @ Melt Pizzas - Divina Providencia: $1,000 / $0 (score 100)
+2026-11-10 23:57:21     row 1248 "Pizza Familiar + Palitos" -> "Pizza Familiar + Palitos" @ Melt Pizzas - Divina Providencia: $23,699 / $16,490 (score 100)
+2026-11-10 23:57:21     row 1249 "Palitos de Ajo" -> "Palitos de Ajo" @ Melt Pizzas - Divina Providencia: $4,490 / $0 (score 100)
+2026-11-10 23:57:21     row 1250 "Todas Las Carnes Familiar" -> "Todas Las Carnes Familiar" @ Melt Pizzas - Divina Providencia: $21,290 / $0 (score 100)
+2026-11-10 23:57:21     row 1251 "Chicken Honey Mustard Familiar" -> "Chicken Honey Mustard Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-10 23:57:21   -> filled 30/30
+2026-11-10 23:57:21 [58/81] rappi: milsabores_mila ("mila")
+2026-11-10 23:57:29   rappi search "mila" @Providencia: Mila - Costanera Center  / +Milas Bellavista
+2026-11-10 23:57:46     row 892 "Clásica" -> "Clásica" @ Milá - Tajamar: $12,900 / $0 (score 100)
+2026-11-10 23:57:46     row 893 "Napolitana" -> "Napolitana" @ Milá - Tajamar: $14,900 / $0 (score 100)
+2026-11-10 23:57:46     row 894 "Champiñón" -> "Champiñón" @ Milá - Tajamar: $14,900 / $0 (score 100)
+2026-11-10 23:57:46     row 895 "Florentina" -> "Florentina" @ Milá - Tajamar: $15,900 / $0 (score 100)
+2026-11-10 23:57:46     row 896 "A Caballo" -> "A Caballo" @ Milá - Tajamar: $14,900 / $0 (score 100)
+2026-11-10 23:57:46     row 897 "Argentina" -> "Argentina" @ Milá - Tajamar: $15,900 / $0 (score 100)
+2026-11-10 23:57:46     row 898 "Empanadas Argentinas Caseras" -> "Empanadas Argentinas Caseras" @ Milá - Tajamar: $8,900 / $0 (score 100)
+2026-11-10 23:57:46     row 899 "Fetuccini Supremo" -> "Fetuccini Supremo" @ Milá - Tajamar: $16,900 / $0 (score 100)
+2026-11-10 23:57:46     row 900 "Milanesa Clásica" -> "Clásica" @ Milá - Tajamar: $12,900 / $0 (score 91)
+2026-11-10 23:57:46     row 901 "Fugazzeta" -> "Fugazzeta" @ Milá - Tajamar: $14,900 / $0 (score 100)
+2026-11-10 23:57:46     row 902 "Milanesa Napolitana" -> "Napolitana" @ Milá - Tajamar: $14,900 / $0 (score 91)
+2026-11-10 23:57:46     row 903 "Milá" -> "Milá" @ Milá - Tajamar: $15,900 / $0 (score 100)
+2026-11-10 23:57:46     row 904 "Flan Casero" -> "Flan Casero" @ Milá - Tajamar: $5,900 / $0 (score 100)
+2026-11-10 23:57:46     row 905 "Milanesa Vacuno" -> "Milanesa Vacuno" @ Milá - Tajamar: $9,900 / $0 (score 100)
+2026-11-10 23:57:46     row 906 "Coca Cola Zero" -> "Coca Cola Zero" @ Milá - Tajamar: $2,900 / $0 (score 100)
+2026-11-10 23:57:46   -> filled 15/15
+2026-11-10 23:57:46 [59/81] rappi: atomic_mrtaste ("mr taste")
+2026-11-10 23:58:22   rappi search "mr taste" @Ñuñoa: Mr. Taste - Ñuñoa
+2026-11-10 23:58:29     row 907 "Arma tu Match + Bebida" -> "Arma Tu Match" @ Mr Taste - Ñuñoa: $11,990 / $6,830 (score 91)
+2026-11-10 23:58:29     row 908 "Arma tus Papas MR. Taste" -> "Arma Tus Papas Mr. Taste" @ Mr Taste - Ñuñoa: $8,990 / $5,390 (score 100)
+2026-11-10 23:58:29     row 909 "Dúo Wrap + Snack" -> "Dúo Wrap + Snack" @ Mr Taste - Ñuñoa: $14,990 / $8,540 (score 100)
+2026-11-10 23:58:29     row 910 "Arma tu Wrap" -> "Arma Tu Wrap" @ Mr Taste - Ñuñoa: $5,890 / $3,650 (score 100)
+2026-11-10 23:58:29     row 911 "Empanadas Medialuna x3" -> "Empanadas Medialuna X3" @ Mr Taste - Ñuñoa: $2,690 / $1,290 (score 100)
+2026-11-10 23:58:29     row 912 "Snack Box" -> "Snack Box" @ Mr Taste - Ñuñoa: $6,690 / $4,820 (score 100)
+2026-11-10 23:58:29     row 913 "Empanadas Medialuna x6" -> "Empanadas Medialuna X6" @ Mr Taste - Ñuñoa: $5,600 / $3,000 (score 100)
+2026-11-10 23:58:29     row 914 "Wings x10 + Aritos" -> "Wings X10 + Aritos" @ Mr Taste - Ñuñoa: $10,990 / $7,690 (score 100)
+2026-11-10 23:58:29     row 915 "Arma tu Sándwich" -> "Arma Tu Sándwich" @ Mr Taste - Ñuñoa: $6,190 / $4,090 (score 100)
+2026-11-10 23:58:29     row 916 "Papas MR. Taste y Bebida" -> "Papas Mr Taste + Bebida" @ Mr Taste - Ñuñoa: $8,990 / $6,380 (score 91)
+2026-11-10 23:58:29     row 917 "Arma tu Match" -> "Arma Tu Match" @ Mr Taste - Ñuñoa: $11,990 / $6,830 (score 100)
+2026-11-10 23:58:29     row 918 "Papas Medianas" -> "Papas Medianas" @ Mr Taste - Ñuñoa: $1,990 / $0 (score 100)
+2026-11-10 23:58:29     row 919 "Wings x5 + Aritos" -> "Wings X5 + Aritos" @ Mr Taste - Ñuñoa: $7,490 / $5,090 (score 100)
+2026-11-10 23:58:29     row 920 "Chicken Fingers X6" -> "Chicken Fingers X6" @ Mr Taste - Ñuñoa: $4,690 / $0 (score 100)
+2026-11-10 23:58:29     row 921 "Chicken Philly Sándwich + Snack" -> "Chicken Philly Sándwich + Snack" @ Mr Taste - Ñuñoa: $8,090 / $6,470 (score 100)
+2026-11-10 23:58:29   -> filled 15/15
+2026-11-10 23:58:29 [60/81] rappi: milsabores_muusteak ("muu steak")
+2026-11-10 23:58:37   rappi search "muu steak" @Providencia: Muu Grill - Costanera Center (Hijo 1) 
+2026-11-10 23:58:46     row 922 "Filete" -> "Filete" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-10 23:58:46     row 923 "Lomo Vetado" -> "Lomo Vetado" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-10 23:58:46     row 924 "Malaya a las Brasas" -> "Malaya a las Brasas" @ Muu Steak - Tajamar: $14,900 / $0 (score 100)
+2026-11-10 23:58:46     row 925 "Papas Fritas" -> "Papas Fritas" @ Muu Steak - Tajamar: $5,900 / $0 (score 100)
+2026-11-10 23:58:46     row 926 "Lomo Liso" -> "Lomo Liso" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-10 23:58:46     row 927 "Lomo Saltado a Nuestro Estilo" -> "Lomo Saltado a Nuestro Estilo" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-10 23:58:46     row 928 "Arroz" -> "Arroz" @ Muu Steak - Tajamar: $4,900 / $0 (score 100)
+2026-11-10 23:58:46     row 929 "Anticucho Mixto" -> "Anticucho Mixto" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-10 23:58:46     row 930 "Coca Cola Zero" -> "Coca Cola Zero" @ Muu Steak - Tajamar: $3,290 / $0 (score 100)
+2026-11-10 23:58:46     row 931 "Puré Rustico" -> "Puré Rustico" @ Muu Steak - Tajamar: $6,900 / $0 (score 100)
+2026-11-10 23:58:46     row 932 "Gnocci" -> "Gnocci" @ Muu Steak - Tajamar: $9,900 / $0 (score 100)
+2026-11-10 23:58:46     row 933 "Entraña" -> "Entraña" @ Muu Steak - Tajamar: $34,900 / $0 (score 100)
+2026-11-10 23:58:46     row 934 "Fetuccini" -> "Fetuccini" @ Muu Steak - Tajamar: $7,900 / $0 (score 100)
+2026-11-10 23:58:46     row 935 "Pastelera Choclo" -> "Pastelera Choclo" @ Muu Steak - Tajamar: $7,900 / $0 (score 100)
+2026-11-10 23:58:46     row 936 "Milanesa Napolitana" -> "Milanesa Napolitana" @ Muu Steak - Tajamar: $23,900 / $0 (score 100)
+2026-11-10 23:58:46   -> filled 15/15
+2026-11-10 23:58:46 [61/81] rappi: noahs_ cl ("noah's")
+2026-11-11 00:00:04   rappi search "noah's": no matching store in any Santiago location
+2026-11-11 00:00:04   -> store not found
+2026-11-11 00:00:04 [63/81] rappi: papajohns_ch ("papa john's")
+2026-11-11 00:00:14   rappi search "papa john's" @Providencia: Papa John's - Providencia
+2026-11-11 00:00:24     row 967 "Dupla De Familiares + Bebida 15L" -> "Dupla de Familiares + Bebida" @ Papa Johns Pizza - Tajamar: $33,990 / $23,500 (score 91)
+2026-11-11 00:00:24     row 968 "Mediana a elección mas mini palitos" -> "Mediana a elección mas Mini Palitos" @ Papa Johns Pizza - Tajamar: $14,890 / $7,990 (score 100)
+2026-11-11 00:00:24     row 969 "Arma tu Pizza" -> "Arma Tu Pizza Familiar" @ Papa Johns Pizza - Tajamar: $12,200 / $0 (score 91)
+2026-11-11 00:00:24     row 972 "Palitos de Ajo y Queso Parmesano" -> "Palitos de Ajo y Queso Parmesano" @ Papa Johns Pizza - Tajamar: $5,990 / $0 (score 100)
+2026-11-11 00:00:24     row 973 "Super Pepperoni" -> "Pizza Super Pepperoni" @ Papa Johns Pizza - Tajamar: $5,900 / $0 (score 91)
+2026-11-11 00:00:24     row 975 "Pollo BBQ" -> "Pizza Pollo Bbq Familiar" @ Papa Johns Pizza - Tajamar: $16,900 / $0 (score 85)
+2026-11-11 00:00:24     row 976 "Todas las Carnes" -> "Pizza Todas Las Carnes" @ Papa Johns Pizza - Tajamar: $6,900 / $0 (score 91)
+2026-11-11 00:00:24     row 979 "Napolitana" -> "Pizza Napolitana" @ Papa Johns Pizza - Tajamar: $4,500 / $0 (score 91)
+2026-11-11 00:00:24     row 981 "Palitos de Queso" -> "Palito de Queso" @ Papa Johns Pizza - Tajamar: $6,990 / $0 (score 94)
+2026-11-11 00:00:24   -> filled 9/15
+2026-11-11 00:00:24 [64/81] rappi: pizzapizza_cl ("pizza pizza")
+2026-11-11 00:00:32   rappi search "pizza pizza" @Providencia: Pizzapizza® Providencia / Under Pizza Panorámico / Domino's Pizza Manuel Montt / Papa John's - Providencia
+2026-11-11 00:00:58     row 982 "PROMO 2x combina entre 20 especialidades" -> "Promo 2x combina entre 21 especialidades" @ PizzaPizza® - Divina Providencia: $32,400 / $23,400 (score 98)
+2026-11-11 00:00:58     row 983 "Pepperoni" -> "Pepperoni" @ PizzaPizza® - Divina Providencia: $11,700 / $8,900 (score 100)
+2026-11-11 00:00:58     row 984 "PROMO 2x  ármalas a tu gusto" -> "Promo 2x ármalas a tu gusto" @ PizzaPizza® - Divina Providencia: $29,400 / $23,900 (score 100)
+2026-11-11 00:00:58     row 985 "PROMO 2x combina entre 8 especialidades" -> "Promo 2x combina entre 9 especialidades" @ PizzaPizza® - Divina Providencia: $26,400 / $21,200 (score 97)
+2026-11-11 00:00:58     row 986 "Ármala a tu gusto mediana" -> "Armala a tu gusto mediana" @ PizzaPizza® - Divina Providencia: $10,200 / $0 (score 100)
+2026-11-11 00:00:58     row 987 "Doble Queso" -> "Doble queso" @ PizzaPizza® - Divina Providencia: $11,700 / $8,900 (score 100)
+2026-11-11 00:00:58     row 988 "Ármala a tu gusto grande" -> "Armala a tu gusto grande" @ PizzaPizza® - Divina Providencia: $12,000 / $0 (score 100)
+2026-11-11 00:00:58     row 989 "Napolitana" -> "Napolitana" @ PizzaPizza® - Divina Providencia: $11,700 / $8,900 (score 100)
+2026-11-11 00:00:58     row 990 "Combo pizza 1 ing + Bebida 1.5L" -> "Combo pizza 1 ing + Bebida 1.5L" @ PizzaPizza® - Divina Providencia: $15,100 / $12,300 (score 100)
+2026-11-11 00:00:58     row 991 "Todas las Carnes" -> "Todas las carnes" @ PizzaPizza® - Divina Providencia: $16,200 / $0 (score 100)
+2026-11-11 00:00:58     row 992 "PROMO pizza 1 ingrediente" -> "Promo pizza 1 ingrediente" @ PizzaPizza® - Divina Providencia: $11,700 / $0 (score 100)
+2026-11-11 00:00:58     row 993 "6 Palitos de ajo" -> "Palitos de ajo" @ PizzaPizza® - Divina Providencia: $5,100 / $0 (score 91)
+2026-11-11 00:00:58     row 994 "14 Masitas Mozzarella y Ajo" -> "Masitas Mozzarella y ajo" @ PizzaPizza® - Divina Providencia: $6,900 / $0 (score 91)
+2026-11-11 00:00:58     row 995 "Pollo BBQ" -> "Pollo bbq" @ PizzaPizza® - Divina Providencia: $13,200 / $0 (score 100)
+2026-11-11 00:00:58     row 996 "Alitas de Pollo con salsa BBQ" -> "Alitas de pollo con salsa BBQ" @ PizzaPizza® - Divina Providencia: $6,400 / $0 (score 100)
+2026-11-11 00:00:58   -> filled 15/15
+2026-11-11 00:00:58 [65/81] rappi: atomic_poked ("poked")
+2026-11-11 00:01:07   rappi search "poked" @Providencia: Poked - Av. Salvador / Poke Poke - Providencia
+2026-11-11 00:01:22     row 997 "Promo! 2 Pollo Crispy Gohan" -> "Promo! 2 pollo crispy gohan" @ Poked - Ñuñoa: $14,800 / $7,400 (score 100)
+2026-11-11 00:01:22     row 998 "Arma tu Gohan" -> "Arma tu gohan" @ Poked - Ñuñoa: $8,720 / $4,800 (score 100)
+2026-11-11 00:01:22     row 999 "Arma tu Poke" -> "Arma Tu Poke" @ Poked - Ñuñoa: $8,470 / $4,660 (score 100)
+2026-11-11 00:01:22     row 1000 "Combo Pollo Crispy Gohan + Bebida" -> "Combo Pollo Crispy Gohan + Bebida" @ Poked - Ñuñoa: $9,540 / $6,870 (score 100)
+2026-11-11 00:01:22     row 1001 "1 Gohan + 1 Crispy Handroll + 1 Bebida" -> "1 Gohan + 1 crispy handroll + 1 bebida" @ Poked - Ñuñoa: $15,890 / $0 (score 100)
+2026-11-11 00:01:22     row 1003 "Arma tu Baby Poke" -> "Arma Tu Baby Poke" @ Poked - Ñuñoa: $5,790 / $3,470 (score 100)
+2026-11-11 00:01:22     row 1004 "2 Gohan a Elección" -> "2 Gohan a elección" @ Poked - Ñuñoa: $16,290 / $8,960 (score 100)
+2026-11-11 00:01:22     row 1006 "2 Gohan a Elección + Gyozas" -> "2 Gohan a Elección + Gyozas" @ Poked - Ñuñoa: $20,520 / $10,050 (score 100)
+2026-11-11 00:01:22     row 1007 "Gyozas" -> "Gyozas" @ Poked - Ñuñoa: $4,230 / $3,600 (score 100)
+2026-11-11 00:01:22     row 1008 "New York Gohan" -> "New York Gohan" @ Poked - Ñuñoa: $7,290 / $0 (score 100)
+2026-11-11 00:01:22     row 1010 "Arma tu Baby Gohan" -> "Arma tu baby gohan" @ Poked - Ñuñoa: $5,990 / $3,530 (score 100)
+2026-11-11 00:01:22     row 1011 "Chicken Teriyaki Poke + Bebida Gratis" -> "Chicken Teriyaki Poke + Bebida Gratis" @ Poked - Ñuñoa: $10,880 / $6,310 (score 100)
+2026-11-11 00:01:22   -> filled 12/15
+2026-11-11 00:01:22 [66/81] rappi: sbarro_pronto ("sbarro")
+2026-11-11 00:02:35   rappi search "sbarro": no matching store in any Santiago location
+2026-11-11 00:02:35   -> store not found
+2026-11-11 00:02:35 [67/81] rappi: Streat Burger_DD_CL ("streat burger")
+2026-11-11 00:03:51   rappi search "streat burger": no matching store in any Santiago location
+2026-11-11 00:03:51   -> store not found
+2026-11-11 00:03:51 [68/81] rappi: streat_icecream ("streat")
+2026-11-11 00:04:56   rappi search "streat": no matching store in any Santiago location
+2026-11-11 00:04:56   -> store not found
+2026-11-11 00:04:56 [69/81] rappi: SushiBlues_Grupo Food Hall ("sushi blues")
+2026-11-11 00:05:04   rappi search "sushi blues" @Providencia: Sushi Blues Costanera Center
+2026-11-11 00:05:10     row 1073 "Combo 4 (15 Piezas) + Bebida Lata" -> "Combo 4 (15 Piezas) + Bebida Lata" @ Sushi Blues - Tajamar: $12,490 / $0 (score 100)
+2026-11-11 00:05:10     row 1074 "Combo 5 (20 Piezas) + Bebida Lata" -> "Combo 5 (20 Piezas) + Bebida Lata" @ Sushi Blues - Tajamar: $16,990 / $0 (score 100)
+2026-11-11 00:05:10     row 1075 "Salsa Tare (Teriyaki)" -> "Salsa Tare (Teriyaki)" @ Sushi Blues - Tajamar: $790 / $0 (score 100)
+2026-11-11 00:05:10     row 1076 "Salsa Acevichada" -> "Salsa Acevichada" @ Sushi Blues - Tajamar: $1,090 / $0 (score 100)
+2026-11-11 00:05:10     row 1077 "Familiar (40 Piezas) + Bebida 15 lts" -> "Familiar (40 Piezas) + Bebida 1,5 lts" @ Sushi Blues - Tajamar: $28,990 / $0 (score 97)
+2026-11-11 00:05:10     row 1078 "Combo 7 (15 Piezas) + Bebida Lata" -> "Combo 3 (15 Piezas) + Bebida Lata" @ Sushi Blues - Tajamar: $12,990 / $0 (score 97)
+2026-11-11 00:05:10     row 1079 "Gohan Premium + Bebida Lata" -> "Gohan Premium + Bebida Lata" @ Sushi Blues - Tajamar: $10,490 / $0 (score 100)
+2026-11-11 00:05:10     row 1080 "Hot Roll (30 Piezas)- Ding Dong" -> "Hot Roll (30 Piezas)" @ Sushi Blues - Tajamar: $19,990 / $14,990 (score 85)
+2026-11-11 00:05:10     row 1081 "Gohan Pollo" -> "Gohan Pollo" @ Sushi Blues - Tajamar: $7,990 / $6,390 (score 100)
+2026-11-11 00:05:10     row 1082 "Salsa Soya" -> "Salsa Soya" @ Sushi Blues - Tajamar: $790 / $0 (score 100)
+2026-11-11 00:05:10     row 1084 "Gyozas Cerdo/Camarón X 5" -> "Gyozas CerdoCamarón X 5" @ Sushi Blues - Tajamar: $3,990 / $0 (score 96)
+2026-11-11 00:05:10     row 1085 "Gyozas Cerdo/Camarón X 3" -> "Gyozas CerdoCamarón X 3" @ Sushi Blues - Tajamar: $2,990 / $0 (score 96)
+2026-11-11 00:05:10     row 1086 "Gohan a elección + Bebida Lata" -> "Gohan a elección + Bebida Lata" @ Sushi Blues - Tajamar: $9,990 / $7,990 (score 100)
+2026-11-11 00:05:10   -> filled 13/15
+2026-11-11 00:05:10 [70/81] rappi: milsabores_takeawok ("take a wok")
+2026-11-11 00:05:18   rappi search "take a wok" @Providencia: Take a Wok - Costanera Center
+2026-11-11 00:05:27     row 1087 "Super" -> "Super" @ Take a Wok - Tajamar: $12,990 / $0 (score 100)
+2026-11-11 00:05:27     row 1088 "Combo Super" -> "Combo Super" @ Take a Wok - Tajamar: $18,980 / $16,130 (score 100)
+2026-11-11 00:05:27     row 1089 "Deluxe" -> "Deluxe" @ Take a Wok - Tajamar: $14,990 / $0 (score 100)
+2026-11-11 00:05:27     row 1090 "Combo Especial" -> "Combo Especial" @ Take a Wok - Tajamar: $16,980 / $0 (score 100)
+2026-11-11 00:05:27     row 1091 "Especial" -> "Especial" @ Take a Wok - Tajamar: $10,990 / $0 (score 100)
+2026-11-11 00:05:27     row 1092 "Wok Super" -> "Super" @ Take a Wok - Tajamar: $12,990 / $0 (score 91)
+2026-11-11 00:05:27     row 1093 "Combo  Deluxe" -> "Combo Deluxe" @ Take a Wok - Tajamar: $20,980 / $17,830 (score 100)
+2026-11-11 00:05:27     row 1094 "Wok Deluxe" -> "Deluxe" @ Take a Wok - Tajamar: $14,990 / $0 (score 91)
+2026-11-11 00:05:27     row 1095 "Combo Deluxe" -> "Combo Deluxe" @ Take a Wok - Tajamar: $20,980 / $17,830 (score 100)
+2026-11-11 00:05:27     row 1096 "Wok Especial" -> "Especial" @ Take a Wok - Tajamar: $10,990 / $0 (score 91)
+2026-11-11 00:05:27     row 1097 "Pad Thai Wok" -> "Pad Thai Wok" @ Take a Wok - Tajamar: $14,990 / $0 (score 100)
+2026-11-11 00:05:27     row 1098 "Combo Wok Super" -> "Combo Super" @ Take a Wok - Tajamar: $18,980 / $16,130 (score 91)
+2026-11-11 00:05:27     row 1099 "Rollitos Primavera" -> "Rollitos Primavera" @ Take a Wok - Tajamar: $6,900 / $0 (score 100)
+2026-11-11 00:05:27     row 1100 "Yao wok" -> "Yao wok" @ Take a Wok - Tajamar: $12,990 / $0 (score 100)
+2026-11-11 00:05:27     row 1101 "Yao Wok + Bebida a elección" -> "Yao Wok + Bebida a elección" @ Take a Wok - Tajamar: $12,890 / $0 (score 100)
+2026-11-11 00:05:27   -> filled 15/15
+2026-11-11 00:05:27 [71/81] rappi: milsabores_tanta ("tanta")
+2026-11-11 00:05:34   rappi search "tanta" @Providencia: Tanta - Costanera Center
+2026-11-11 00:05:44     row 1102 "Lomo Saltado" -> "Lomo Saltado" @ Tanta - Tajamar: $23,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1103 "Tallarines Saltados Criollos de Filete" -> "Tallarines Saltados Criollos de Filete" @ Tanta - Tajamar: $18,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1104 "Cebiche Clásico" -> "Cebiche Clásico" @ Tanta - Tajamar: $18,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1105 "Fetuccinis Criollos" -> "Fetuccinis Criollos" @ Tanta - Tajamar: $21,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1106 "Ají de Gallina" -> "Ají de Gallina" @ Tanta - Tajamar: $15,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1107 "Lomo Saltado Spring Rolls" -> "Lomo Saltado Spring Rolls" @ Tanta - Tajamar: $12,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1108 "Saltado Criollo de Pollo" -> "Saltado Criollo de Pollo" @ Tanta - Tajamar: $17,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1109 "Cebiche Mixto" -> "Cebiche Mixto" @ Tanta - Tajamar: $22,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1110 "Seductor" -> "Seductor" @ Tanta - Tajamar: $4,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1111 "Angelita" -> "Angelita" @ Tanta - Tajamar: $13,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1112 "Coca Cola Zero" -> "Coca Cola Zero" @ Tanta - Tajamar: $2,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1113 "Copa de Suspiro Limeño" -> "Copa de Suspiro Limeño" @ Tanta - Tajamar: $5,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1114 "Crema Volteada" -> "Crema Volteada" @ Tanta - Tajamar: $6,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1115 "Pisco Sour 1/2 Litro" -> "Pisco Sour 1/2 Litro" @ Tanta - Tajamar: $10,900 / $0 (score 100)
+2026-11-11 00:05:44     row 1116 "Causa Limeña Pollo" -> "Causa Limeña Pollo" @ Tanta - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:05:44   -> filled 15/15
+2026-11-11 00:05:44 [72/81] rappi: Tarragona ("tarragona")
+2026-11-11 00:05:53   rappi search "tarragona" @Providencia: Tarragona Avícola Puente
+2026-11-11 00:05:59     row 1117 "Promo Box Recargado" -> "Promo Box Recargado" @ Tarragona - Centro Histórico: $12,090 / $0 (score 100)
+2026-11-11 00:05:59     row 1118 "Promo Box Recargado UBER" -> "Promo Box Recargado" @ Tarragona - Centro Histórico: $12,090 / $0 (score 91)
+2026-11-11 00:05:59     row 1121 "Trio Box Sandwich Clasicos" -> "Trio Box Sandwich Clasicos" @ Tarragona - Centro Histórico: $27,890 / $14,990 (score 100)
+2026-11-11 00:05:59     row 1122 "Salsas" -> "Salsas" @ Tarragona - Centro Histórico: $700 / $0 (score 100)
+2026-11-11 00:05:59     row 1123 "Dupla Box Sandwich Clasicos" -> "Dupla Box Sandwich Clasicos" @ Tarragona - Centro Histórico: $18,590 / $11,990 (score 100)
+2026-11-11 00:05:59     row 1124 "Promo Fajita - Coca Cola" -> "Promo Fajita - Coca Cola - Benedictino" @ Tarragona - Centro Histórico: $9,170 / $0 (score 91)
+2026-11-11 00:05:59     row 1125 "Dupla Box Fajitas Clasicas" -> "Dupla Box Fajitas Clasicas" @ Tarragona - Centro Histórico: $18,590 / $11,990 (score 100)
+2026-11-11 00:05:59     row 1126 "10 Empanadas Snack" -> "10 Empanadas Snack" @ Tarragona - Centro Histórico: $2,990 / $0 (score 100)
+2026-11-11 00:05:59     row 1127 "Super Full Basket" -> "Super Full Basket" @ Tarragona - Centro Histórico: $43,390 / $27,990 (score 100)
+2026-11-11 00:05:59     row 1128 "Trio Box Fajitas Clasicas" -> "Trio Box Fajitas Clasicas" @ Tarragona - Centro Histórico: $27,890 / $14,990 (score 100)
+2026-11-11 00:05:59     row 1129 "Trio Deluxe Box Sandwich" -> "Trio Deluxe Box Sandwich" @ Tarragona - Centro Histórico: $15,990 / $0 (score 100)
+2026-11-11 00:05:59     row 1130 "Party Mix" -> "Party Mix" @ Tarragona - Centro Histórico: $36,090 / $23,290 (score 100)
+2026-11-11 00:05:59     row 1131 "Caja de Papas" -> "Caja de Papas" @ Tarragona - Centro Histórico: $3,990 / $0 (score 100)
+2026-11-11 00:05:59   -> filled 13/15
+2026-11-11 00:05:59 [73/81] rappi: elementalcl ("elemental")
+2026-11-11 00:07:17   rappi search "elemental": no matching store in any Santiago location
+2026-11-11 00:07:17   -> store not found
+2026-11-11 00:07:17 [74/81] rappi: pollostop_ch ("pollo stop")
+2026-11-11 00:08:28   rappi search "pollo stop": no matching store in any Santiago location
+2026-11-11 00:08:28   -> store not found
+2026-11-11 00:08:28 [76/81] rappi: udon_parent_tbd ("udon")
+2026-11-11 00:09:30   rappi search "udon": no matching store in any Santiago location
+2026-11-11 00:09:30   -> store not found
+2026-11-11 00:09:30 [77/81] rappi: underpizza_cl ("under pizza")
+2026-11-11 00:09:40   rappi search "under pizza" @Providencia: Under Pizza Panorámico
+2026-11-11 00:09:40     row 1252 "Promo Duo Clasico" -> "Promo Duo Clásica" @ Under Pizza - Los Leones: $24,470 / $17,990 (score 94)
+2026-11-11 00:09:40     row 1253 "Pepperoni" -> "Pepperoni" @ Under Pizza - Los Leones: $9,990 / $7,990 (score 100)
+2026-11-11 00:09:40     row 1254 "Promo Duo Especial" -> "Promo Duo Especial" @ Under Pizza - Los Leones: $29,470 / $22,990 (score 100)
+2026-11-11 00:09:40     row 1255 "Combo Clásico" -> "Combo Clasico" @ Under Pizza - Los Leones: $18,470 / $14,490 (score 100)
+2026-11-11 00:09:40     row 1256 "Promo Trio Clasico" -> "Promo Trio Clasico" @ Under Pizza - Los Leones: $29,970 / $22,490 (score 100)
+2026-11-11 00:09:40     row 1257 "Combo Especial" -> "Combo Especial" @ Under Pizza - Los Leones: $20,970 / $16,490 (score 100)
+2026-11-11 00:09:40     row 1258 "Promo Trio Especial" -> "Promo Trio Especial" @ Under Pizza - Los Leones: $37,470 / $27,990 (score 100)
+2026-11-11 00:09:40     row 1259 "Napolitana" -> "Napolitana" @ Under Pizza - Los Leones: $8,990 / $7,990 (score 100)
+2026-11-11 00:09:40     row 1260 "Super Combo Especial" -> "Super Combo Especial" @ Under Pizza - Los Leones: $22,970 / $18,490 (score 100)
+2026-11-11 00:09:40     row 1261 "Promo Para Tod@s" -> "Promo para Todos" @ Under Pizza - Los Leones: $30,960 / $24,990 (score 94)
+2026-11-11 00:09:40     row 1262 "Palitos de Ajo" -> "Palitos de Ajo" @ Under Pizza - Los Leones: $4,490 / $0 (score 100)
+2026-11-11 00:09:40     row 1263 "Doble Queso" -> "Doble Queso" @ Under Pizza - Los Leones: $8,990 / $7,990 (score 100)
+2026-11-11 00:09:40     row 1264 "Combo Border Queso" -> "Combo Border Queso" @ Under Pizza - Los Leones: $21,470 / $17,490 (score 100)
+2026-11-11 00:09:40     row 1265 "Super Combo Clásico" -> "Super Combo Clasico" @ Under Pizza - Los Leones: $20,470 / $16,990 (score 100)
+2026-11-11 00:09:40     row 1266 "Mega Promo Especial" -> "Mega Promo Especial" @ Under Pizza - Los Leones: $46,450 / $34,990 (score 100)
+2026-11-11 00:09:40   -> filled 15/15
+2026-11-11 00:09:40 [78/81] rappi: atomic_vittore ("vittore")
+2026-11-11 00:10:48   rappi search "vittore": no matching store in any Santiago location
+2026-11-11 00:10:48   -> store not found
+2026-11-11 00:10:48 [79/81] rappi: wendyscl ("wendy's")
+2026-11-11 00:10:58   rappi search "wendy's" @Providencia: Wendy's Pedro de Valdivia
+2026-11-11 00:11:13     row 1275 "Box Daves Desc OFF" -> "Box Daves Desc OFF" @ Wendy's - Divina Providencia: $9,990 / $0 (score 100)
+2026-11-11 00:11:13     row 1276 "Box Jr Chicken" -> "Box Jr Chicken OFF" @ Wendy's - Divina Providencia: $9,990 / $0 (score 91)
+2026-11-11 00:11:13     row 1277 "Duo Crispy BBQ Bacon" -> "Duo Crispy BBQ Bacon OFF" @ Wendy's - Divina Providencia: $16,990 / $0 (score 91)
+2026-11-11 00:11:13     row 1278 "Empanadas De Queso X10" -> "Empanadas De Queso X10" @ Wendy's - Divina Providencia: $3,290 / $0 (score 100)
+2026-11-11 00:11:13     row 1280 "Dip Baconaisse" -> "Dip Baconaisse" @ Wendy's - Divina Providencia: $450 / $0 (score 100)
+2026-11-11 00:11:13     row 1281 "Papas Fritas Grandes" -> "Papas Fritas Grandes" @ Wendy's - Divina Providencia: $2,350 / $0 (score 100)
+2026-11-11 00:11:13     row 1282 "Combo Baconator (Original Doble)" -> "Combo Baconator (Original Doble)" @ Wendy's - Divina Providencia: $10,990 / $0 (score 100)
+2026-11-11 00:11:13     row 1285 "Trio Locura Con Cheeseburger" -> "Trio Locura Con Cheeseburger OFF" @ Wendy's - Divina Providencia: $19,990 / $0 (score 91)
+2026-11-11 00:11:13     row 1286 "CHILI" -> "CHILI" @ Wendy's - Divina Providencia: $2,190 / $0 (score 100)
+2026-11-11 00:11:13     row 1287 "Duo Box Daves" -> "Duo Box Daves" @ Wendy's - Divina Providencia: $15,190 / $0 (score 100)
+2026-11-11 00:11:13     row 1288 "Combo Daves" -> "Combo Daves" @ Wendy's - Divina Providencia: $7,990 / $0 (score 100)
+2026-11-11 00:11:13   -> filled 11/15
+2026-11-11 00:11:13 [80/81] rappi: wevo_burger ("wevo")
+2026-11-11 00:12:25   rappi search "wevo": no matching store in any Santiago location
+2026-11-11 00:12:25   -> store not found
+2026-11-11 00:12:25 [81/81] rappi: atomic_wingit ("wing it")
+2026-11-11 00:13:03   rappi search "wing it" @Ñuñoa: Wing It! Simon Bolivar 
+2026-11-11 00:13:11     row 1303 "Chicken Crispers Box" -> "Chicken Crispers Box" @ Wing It! - Ñuñoa: $18,990 / $9,870 (score 100)
+2026-11-11 00:13:11     row 1304 "Double Crispy Bucket" -> "Double Crispy Bucket" @ Wing It! - Ñuñoa: $18,900 / $11,530 (score 100)
+2026-11-11 00:13:11     row 1305 "Combo Crispers & Nuggets XL" -> "Combo Crispers & Nuggets XL" @ Wing It! - Ñuñoa: $12,600 / $0 (score 100)
+2026-11-11 00:13:11     row 1306 "Combo Alitas" -> "Combo Alitas" @ Wing It! - Ñuñoa: $10,500 / $5,990 (score 100)
+2026-11-11 00:13:11     row 1307 "Nuggets Box" -> "Nuggets Box" @ Wing It! - Ñuñoa: $8,000 / $5,920 (score 100)
+2026-11-11 00:13:11     row 1308 "Combo Chicken Crispers" -> "Combo Chicken Crispers" @ Wing It! - Ñuñoa: $11,900 / $5,800 (score 100)
+2026-11-11 00:13:11     row 1310 "Nuggets x20 + Papas" -> "Nuggets x20 + Papas" @ Wing It! - Ñuñoa: $11,800 / $7,000 (score 100)
+2026-11-11 00:13:11     row 1311 "Combo Louisiana Wrap" -> "Combo Louisiana Wrap" @ Wing It! - Ñuñoa: $6,700 / $5,430 (score 100)
+2026-11-11 00:13:11     row 1312 "Nuggets Party Box" -> "Nuggets Party Box" @ Wing It! - Ñuñoa: $16,900 / $10,650 (score 100)
+2026-11-11 00:13:11     row 1313 "Super Wing It Bucket" -> "Super Wing It Bucket" @ Wing It! - Ñuñoa: $20,500 / $0 (score 100)
+2026-11-11 00:13:11     row 1314 "Chicken Crispers X15" -> "Chicken Crispers X15" @ Wing It! - Ñuñoa: $14,990 / $10,040 (score 100)
+2026-11-11 00:13:11     row 1315 "Combo Doble Wrap" -> "Combo Doble Wrap" @ Wing It! - Ñuñoa: $16,200 / $11,340 (score 100)
+2026-11-11 00:13:11     row 1316 "Empanadas de Queso X6" -> "Empanadas de Queso X6" @ Wing It! - Ñuñoa: $1,300 / $0 (score 100)
+2026-11-11 00:13:11   -> filled 13/15
+2026-11-11 00:13:11 done.
+2026-11-11 00:13:27 start: 1 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-11 00:13:27 [1/1] rappi: milsabores_fuente ("fuente mardoqueo")
+2026-11-11 00:13:37   rappi search "fuente mardoqueo" @Providencia: Fuente Mardoqueo Las Condes
+2026-11-11 00:13:44     row 503 "Papas Fritas Grande" -> "Papas Fritas" @ Fuente mardoqueo - El Golf: $4,000 / $0 (score 91)
+2026-11-11 00:13:44     row 774 "Papas Fritas Grande" -> "Papas Fritas" @ Fuente mardoqueo - El Golf: $4,000 / $0 (score 91)
+2026-11-11 00:13:44     row 786 "Coca Cola Zero" -> "Coca Cola" @ Fuente mardoqueo - El Golf: $2,700 / $0 (score 91)
+2026-11-11 00:13:44   -> filled 3/30
+2026-11-11 00:13:44 done.
+2026-11-11 00:13:44 start: 81 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-11 00:13:44 [1/81] pedidosya: milsabores_barrachalaca ("barra chalaca")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [2/81] pedidosya: barriochicken_cl ("barrio chicken")
+2026-11-11 00:13:44 PedidosYa: 1 saved menu page(s) found: Barra Chalaca - Costanera Center
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [3/81] pedidosya: buffalo_waffles ("buffalo waffles")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [4/81] pedidosya: milas_cl ("milas")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [5/81] pedidosya: buffetexpress_cl ("buffet express")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [6/81] pedidosya: Carls_Jr_CL ("carl's jr")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [7/81] pedidosya: chicken_factory ("chicken factory")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [8/81] pedidosya: chilis_alsea ("chili's")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [9/81] pedidosya: China Wok_Grupo Degasa ("china wok")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [10/81] pedidosya: atomic_clubdelgohan ("club del gohan")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [11/81] pedidosya: atomic_clubdelpoke ("club del poke")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [12/81] pedidosya: Club del Poke - La Florida III ("club del poke")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [13/81] pedidosya: Doggis_Grupo G&N ("doggis")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [14/81] pedidosya: Juan Maestro_Grupo G&N ("juan maestro")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [15/81] pedidosya: doggis_heladeria_g&n ("doggis heladeria")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [16/81] pedidosya: domino_cl ("domino's pizza")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [17/81] pedidosya: milsabores_dulceluna ("dulce luna")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [18/81] pedidosya: DunkinDonuts_MS_CL ("dunkin")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [19/81] pedidosya: milsabores_bodegondelima ("el bodegon")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [20/81] pedidosya: elcaferosa ("el cafe rosa")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [21/81] pedidosya: roof_burger_cl ("roof burger")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [22/81] pedidosya: milsabores_eljapones ("el japones")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [23/81] pedidosya: milsabores_enriquetomas ("enrique tomas")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [24/81] pedidosya: milsabores_lady ("lady focaccia")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [25/81] pedidosya: fuente_chilena ("fuente chilena")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [26/81] pedidosya: Fork_CL ("fork")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [27/81] pedidosya: Momofuku (Ultimate Parent) ("momofuku")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [28/81] pedidosya: momofuku (ultimate parent) ("momofuku")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [29/81] pedidosya: Grido Mall Alto Pe�alolen ("grido")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [30/81] pedidosya: Grido_RM ("grido")
+2026-11-11 00:13:44   -> nothing to fill
+2026-11-11 00:13:44 [31/81] pedidosya: 7 cortes_milsabores ("7 cortes")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [32/81] pedidosya: mesondelmarinero_milsabores ("meson del marinero")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [33/81] pedidosya: milsabores_ekeko ("ekeko")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [34/81] pedidosya: milsabores_fuente ("fuente mardoqueo")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [35/81] pedidosya: milsabores_lapiazza ("la piazza")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [36/81] pedidosya: milsabores_havanna ("havanna")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [37/81] pedidosya: Más Que Empanada (Viña del Mar) ("mas que empanada")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [38/81] pedidosya: idilico_cl ("idilico")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [39/81] pedidosya: atomic_itacate ("itacate")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [40/81] pedidosya: milsabores_jalisco ("jalisco")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [41/81] pedidosya: jimmyjohns_cl ("jimmy john's")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [42/81] pedidosya: johnnyrocketschile ("johnny rockets")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [43/81] pedidosya: Juan Maestro Centro Comercial Maipu ("juan maestro")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [44/81] pedidosya: Juan Maestro Líder Vicuña Mackenna ("juan maestro")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [45/81] pedidosya: just_burger_cl ("just burger")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [46/81] pedidosya: sin_miedo_burgers ("sin miedo")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [47/81] pedidosya: kairos ("kairos")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [48/81] pedidosya: krispykreme_cl ("krispykreme")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [49/81] pedidosya: milsabores_la_argentina ("la argentina")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [50/81] pedidosya: la ermita ("la ermita")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [51/81] pedidosya: milsabores_lasanguchera ("la sanguchera")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [52/81] pedidosya: LittleCaesarsCL ("little caesars")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [53/81] pedidosya: lovdo_g&n_cl ("lovdo")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [54/81] pedidosya: milsabores_mammamia ("mamma mia")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [55/81] pedidosya: mamut_chile ("mamut")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [56/81] pedidosya: mariberico ("mariberico")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [57/81] pedidosya: melt_pizzas ("melt pizzas")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [58/81] pedidosya: milsabores_mila ("mila")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [59/81] pedidosya: atomic_mrtaste ("mr taste")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [60/81] pedidosya: milsabores_muusteak ("muu steak")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [61/81] pedidosya: noahs_ cl ("noah's")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [62/81] pedidosya: alsea_pfchangs ("p.f. chang's")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [63/81] pedidosya: papajohns_ch ("papa john's")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [64/81] pedidosya: pizzapizza_cl ("pizza pizza")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [65/81] pedidosya: atomic_poked ("poked")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [66/81] pedidosya: sbarro_pronto ("sbarro")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [67/81] pedidosya: Streat Burger_DD_CL ("streat burger")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [68/81] pedidosya: streat_icecream ("streat")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [69/81] pedidosya: SushiBlues_Grupo Food Hall ("sushi blues")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [70/81] pedidosya: milsabores_takeawok ("take a wok")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [71/81] pedidosya: milsabores_tanta ("tanta")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [72/81] pedidosya: Tarragona ("tarragona")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [73/81] pedidosya: elementalcl ("elemental")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [74/81] pedidosya: pollostop_ch ("pollo stop")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [75/81] pedidosya: tommy beans_chile ("tommy beans")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [76/81] pedidosya: udon_parent_tbd ("udon")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [77/81] pedidosya: underpizza_cl ("under pizza")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [78/81] pedidosya: atomic_vittore ("vittore")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [79/81] pedidosya: wendyscl ("wendy's")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [80/81] pedidosya: wevo_burger ("wevo")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 [81/81] pedidosya: atomic_wingit ("wing it")
+2026-11-11 00:13:44   -> no saved page for this restaurant
+2026-11-11 00:13:44 done.
+2026-11-11 00:14:47 start: 81 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-11 00:14:47 [1/81] rappi: milsabores_barrachalaca ("barra chalaca")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [2/81] rappi: barriochicken_cl ("barrio chicken")
+2026-11-11 00:14:47     row 1177 "Barrio One Box Full" -> "Barrio One Box Full" @ Barrio Chicken - Ñuñoa: $8,750 / $7,000 (score 100)
+2026-11-11 00:14:47     row 1178 "Box Par de Wraps" -> "Box Par de Wraps" @ Barrio Chicken - Ñuñoa: $12,500 / $10,000 (score 100)
+2026-11-11 00:14:47     row 1179 "Burger Dúo Dinámico" -> "Burger Dúo Dinámico" @ Barrio Chicken - Ñuñoa: $18,990 / $14,000 (score 100)
+2026-11-11 00:14:47     row 1180 "Barrio Box" -> "Barrio Box" @ Barrio Chicken - Ñuñoa: $12,990 / $10,000 (score 100)
+2026-11-11 00:14:47     row 1181 "Combo Barrio Fest" -> "Combo Barrio Fest" @ Barrio Chicken - Ñuñoa: $26,290 / $20,990 (score 100)
+2026-11-11 00:14:47     row 1182 "Combo Chicken Burger Del Barrio" -> "Combo Chicken Burger Del Barrio" @ Barrio Chicken - Ñuñoa: $10,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1183 "Combo Wow" -> "Combo Wow" @ Barrio Chicken - Ñuñoa: $25,000 / $19,990 (score 100)
+2026-11-11 00:14:47     row 1184 "Cup XL Salsa del Barrio" -> "Cup XL Salsa del Barrio" @ Barrio Chicken - Ñuñoa: $2,500 / $0 (score 100)
+2026-11-11 00:14:47     row 1185 "Pop Corn Grande" -> "Pop Corn Grande" @ Barrio Chicken - Ñuñoa: $5,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1188 "La Junta del Pollo Barrio" -> "La Junta del Pollo Barrio" @ Barrio Chicken - Ñuñoa: $13,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1189 "Chicken Tenders x20" -> "Chicken Tenders x20" @ Barrio Chicken - Ñuñoa: $21,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1190 "Coleslaw" -> "Coleslaw" @ Barrio Chicken - Ñuñoa: $2,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1191 "Chicken Tenders x14" -> "Chicken Tenders x14" @ Barrio Chicken - Ñuñoa: $16,990 / $0 (score 100)
+2026-11-11 00:14:47   -> filled 13/15
+2026-11-11 00:14:47 [3/81] rappi: buffalo_waffles ("buffalo waffles")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [4/81] rappi: milas_cl ("milas")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [5/81] rappi: buffetexpress_cl ("buffet express")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [6/81] rappi: Carls_Jr_CL ("carl's jr")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [7/81] rappi: chicken_factory ("chicken factory")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [8/81] rappi: chilis_alsea ("chili's")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [9/81] rappi: China Wok_Grupo Degasa ("china wok")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [10/81] rappi: atomic_clubdelgohan ("club del gohan")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [11/81] rappi: atomic_clubdelpoke ("club del poke")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [12/81] rappi: Club del Poke - La Florida III ("club del poke")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [13/81] rappi: Doggis_Grupo G&N ("doggis")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [14/81] rappi: Juan Maestro_Grupo G&N ("juan maestro")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [15/81] rappi: doggis_heladeria_g&n ("doggis heladeria")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [16/81] rappi: domino_cl ("domino's pizza")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [17/81] rappi: milsabores_dulceluna ("dulce luna")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [18/81] rappi: DunkinDonuts_MS_CL ("dunkin")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [19/81] rappi: milsabores_bodegondelima ("el bodegon")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [20/81] rappi: elcaferosa ("el cafe rosa")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [21/81] rappi: roof_burger_cl ("roof burger")
+2026-11-11 00:14:47     row 1012 "Classic Burger + Papas" -> "Classic Burger + Papas" @ Roof Burger - La Florida: $10,990 / $7,140 (score 100)
+2026-11-11 00:14:47     row 1013 "Cheddar Burger + Papas" -> "Cheddar burger + papas" @ Roof Burger - La Florida: $11,990 / $6,000 (score 100)
+2026-11-11 00:14:47     row 1014 "Roof Burger + Papas" -> "Roof burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1017 "BBQ Burger + Papas" -> "BBQ Burger + Papas" @ Roof Burger - La Florida: $13,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1018 "Avocado Burger + Papas" -> "Avocado burger + papas" @ Roof Burger - La Florida: $11,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1019 "Basic Burger + Papas" -> "Basic Burger + Papas" @ Roof Burger - La Florida: $9,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1020 "Cheese Burger + Papas" -> "Cheese burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1021 "Italian Burger + Papas" -> "Italian burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1022 "Tasty Burger + Papas" -> "Tasty Burger + Papas" @ Roof Burger - La Florida: $10,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1024 "American Burger + Papas" -> "American burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1025 "Bacon Burger + Papas" -> "Bacon burger + papas" @ Roof Burger - La Florida: $12,990 / $0 (score 100)
+2026-11-11 00:14:47     row 1026 "Coca-Cola Zero" -> "Coca-Cola Zero" @ Roof Burger - La Florida: $2,000 / $0 (score 100)
+2026-11-11 00:14:47   -> filled 12/15
+2026-11-11 00:14:47 [22/81] rappi: milsabores_eljapones ("el japones")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [23/81] rappi: milsabores_enriquetomas ("enrique tomas")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [24/81] rappi: milsabores_lady ("lady focaccia")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [25/81] rappi: fuente_chilena ("fuente chilena")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [26/81] rappi: Fork_CL ("fork")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [27/81] rappi: Momofuku (Ultimate Parent) ("momofuku")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [28/81] rappi: momofuku (ultimate parent) ("momofuku")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [29/81] rappi: Grido Mall Alto Pe�alolen ("grido")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [30/81] rappi: Grido_RM ("grido")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [31/81] rappi: 7 cortes_milsabores ("7 cortes")
+2026-11-11 00:14:47   -> nothing to fill
+2026-11-11 00:14:47 [32/81] rappi: mesondelmarinero_milsabores ("meson del marinero")
+2026-11-11 00:14:47   -> store not found
+2026-11-11 00:14:47 [33/81] rappi: milsabores_ekeko ("ekeko")
+2026-11-11 00:14:47   -> store not found
+2026-11-11 00:14:47 [34/81] rappi: milsabores_fuente ("fuente mardoqueo")
+2026-11-11 00:14:47   -> filled 0/30
+2026-11-11 00:14:47 [35/81] rappi: milsabores_lapiazza ("la piazza")
+2026-11-11 00:14:47   -> store not found
+2026-11-11 00:14:47 [36/81] rappi: milsabores_havanna ("havanna")
+2026-11-11 00:14:47   -> store not found
+2026-11-11 00:14:47 [37/81] rappi: Más Que Empanada (Viña del Mar) ("mas que empanada")
+2026-11-11 00:14:47   -> store not found
+2026-11-11 00:14:47 [38/81] rappi: idilico_cl ("idilico")
+2026-11-11 00:14:47   -> store not found
+2026-11-11 00:14:47 [39/81] rappi: atomic_itacate ("itacate")
+2026-11-11 00:14:47     row 568 "Arma Tu Burrito" -> "Arma Tu Burrito" @ Itacate - Los Castaños: $7,390 / $0 (score 100)
+2026-11-11 00:14:47     row 569 "Combo Double Burritos" -> "Combo Double Burritos" @ Itacate - Los Castaños: $13,980 / $0 (score 100)
+2026-11-11 00:14:47     row 570 "Combo Triple Burritos" -> "Combo Triple Burritos" @ Itacate - Los Castaños: $20,970 / $0 (score 100)
+2026-11-11 00:14:47     row 572 "Arma tu Bowl" -> "Arma Tu Bowl" @ Itacate - Los Castaños: $7,490 / $0 (score 100)
+2026-11-11 00:14:47     row 573 "Arma Tu Burrito + Bebida" -> "Arma Tu Burrito + Bebida" @ Itacate - Los Castaños: $9,690 / $0 (score 100)
+2026-11-11 00:14:47     row 574 "Combo Antojo!" -> "Combo Antojo" @ Itacate - Los Castaños: $20,970 / $0 (score 100)
+2026-11-11 00:14:47     row 575 "Papas Suprema Doble" -> "Papas Suprema Doble" @ Itacate - Los Castaños: $4,190 / $0 (score 100)
+2026-11-11 00:14:47     row 576 "Combo Chilli Lover!" -> "Combo Chilli Lover" @ Itacate - Los Castaños: $9,080 / $0 (score 100)
+2026-11-11 00:14:47     row 577 "Arma tu Bowl + Bebida" -> "Arma Tu Bowl + Bebida" @ Itacate - Los Castaños: $9,790 / $0 (score 100)
+2026-11-11 00:14:47     row 578 "Papas Supremas" -> "Papas Supremas" @ Itacate - Los Castaños: $2,990 / $0 (score 100)
+2026-11-11 00:14:47     row 579 "Guacamole" -> "Guacamole" @ Itacate - Los Castaños: $990 / $0 (score 100)
+2026-11-11 00:14:47     row 580 "Empanadas Cheesy Bites x6" -> "Empanadas Cheesy Bites X6" @ Itacate - Los Castaños: $2,100 / $0 (score 100)
+2026-11-11 00:14:47     row 581 "Combo Duo Lover!" -> "Combo Duo Lover" @ Itacate - Los Castaños: $14,430 / $0 (score 100)
+2026-11-11 00:14:47   -> filled 13/15
+2026-11-11 00:14:47 [40/81] rappi: milsabores_jalisco ("jalisco")
+2026-11-11 00:14:47   -> store not found
+2026-11-11 00:14:47 [41/81] rappi: jimmyjohns_cl ("jimmy john's")
+2026-11-11 00:14:47     row 599 "Signature + Chips" -> "Signature + Chips" @ Jimmy John's - Vitacura: $11,700 / $9,990 (score 100)
+2026-11-11 00:14:47     row 600 "Roast Beef & Cheddar (30 cm)" -> "Roast Beef Cheddar 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 100)
+2026-11-11 00:14:47     row 602 "Signature + Bebida Lata" -> "Signature + Bebida Lata" @ Jimmy John's - Vitacura: $11,700 / $9,990 (score 100)
+2026-11-11 00:14:47     row 603 "Meatball Parmesan (30 cm)" -> "Meatball Parmesan 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 100)
+2026-11-11 00:14:47     row 605 "Buffalo Chicken Melt (30 cm)" -> "Buffalo Chicken Melt 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 100)
+2026-11-11 00:14:47     row 606 "The Pepe (30 cm)" -> "The Pepe 30 cm" @ Jimmy John's - Vitacura: $10,890 / $0 (score 100)
+2026-11-11 00:14:47     row 607 "Italian Club (30 cm)" -> "Italian Club 30 cm" @ Jimmy John's - Vitacura: $14,190 / $0 (score 100)
+2026-11-11 00:14:47     row 609 "Turkey Tom (30 cm)" -> "Turkey Tom 30 cm" @ Jimmy John's - Vitacura: $10,890 / $0 (score 100)
+2026-11-11 00:14:47   -> filled 8/15
+2026-11-11 00:14:47 [42/81] rappi: johnnyrocketschile ("johnny rockets")
+2026-11-11 00:14:47     row 613 "Route 66 + Fries 🍟" -> "Route 66 + Fries" @ Johnny Rockets - Las Condes: $7,990 / $0 (score 100)
+2026-11-11 00:14:47     row 614 "The Original + Fries 🍟" -> "The Original + Fries" @ Johnny Rockets - Las Condes: $6,990 / $0 (score 100)
+2026-11-11 00:14:47     row 615 "Smokehouse Doble + Fries 🍟" -> "Smokehouse Doble + Fries" @ Johnny Rockets - Las Condes: $11,990 / $0 (score 100)
+2026-11-11 00:14:47     row 616 "Smokehouse Single + Fries 🍟" -> "Smokehouse Single + Fries" @ Johnny Rockets - Las Condes: $8,990 / $0 (score 100)
+2026-11-11 00:14:47     row 617 "Bacon Cheddar Single + Fries 🍟" -> "Bacon Cheddar Single + Fries" @ Johnny Rockets - Las Condes: $8,990 / $0 (score 100)
+2026-11-11 00:14:47     row 618 "Rocket Single + Fries 🍟" -> "Rocket Single + Fries" @ Johnny Rockets - Las Condes: $7,990 / $0 (score 100)
+2026-11-11 00:14:47     row 619 "Bacon Cheddar Doble + Fries 🍟" -> "Bacon Cheddar Doble + Fries" @ Johnny Rockets - Las Condes: $11,990 / $0 (score 100)
+2026-11-11 00:14:47     row 620 "Rocket Doble + Fries 🍟" -> "Rocket Doble + Fries" @ Johnny Rockets - Las Condes: $10,990 / $0 (score 100)
+2026-11-11 00:14:47     row 621 "The Houston + Fries 🍟" -> "The Houston + Fries" @ Johnny Rockets - Las Condes: $7,990 / $0 (score 100)
+2026-11-11 00:14:47     row 622 "Triple Rockstar Burger + Fries 🍟" -> "Triple Rockstar Burger + Fries" @ Johnny Rockets - Las Condes: $13,990 / $0 (score 100)
+2026-11-11 00:14:47     row 623 "Chicken Tenders + Fries 🍟" -> "Chicken Tenders + Fries" @ Johnny Rockets - Las Condes: $6,990 / $0 (score 100)
+2026-11-11 00:14:47     row 624 "Cobb Salad 🥗" -> "Cobb Salad" @ Johnny Rockets - Las Condes: $8,490 / $0 (score 100)
+2026-11-11 00:14:47     row 625 "Texas Burger + Fries 🍟" -> "Texas Burger + Fries" @ Johnny Rockets - Las Condes: $5,990 / $0 (score 100)
+2026-11-11 00:14:47     row 626 "Sublime Burger + Fries 🍟" -> "Sublime Burger + Fries" @ Johnny Rockets - Las Condes: $13,990 / $0 (score 100)
+2026-11-11 00:14:47     row 627 "Oreo Cookies & Cream Shake 🍪" -> "Oreo Cookies & Cream Shake" @ Johnny Rockets - Las Condes: $5,990 / $0 (score 100)
+2026-11-11 00:14:47   -> filled 15/15
+2026-11-11 00:14:47 [43/81] rappi: Juan Maestro Centro Comercial Maipu ("juan maestro")
+2026-11-11 00:14:47     row 628 "Super Juan Smashter Burger" -> "Super Juan Smashter Burger" @ Juan Maestro - Ñuñoa: $10,700 / $7,590 (score 100)
+2026-11-11 00:14:47     row 630 "Caja de Papas Fritas y Empanadas" -> "Caja de papas fritas + empanadas" @ Juan Maestro - Ñuñoa: $5,900 / $0 (score 94)
+2026-11-11 00:14:47     row 636 "Papas Fritas Familiares" -> "Papas fritas familiares" @ Juan Maestro - Ñuñoa: $5,700 / $0 (score 100)
+2026-11-11 00:14:47   -> filled 3/9
+2026-11-11 00:14:47 [44/81] rappi: Juan Maestro Líder Vicuña Mackenna ("juan maestro")
+2026-11-11 00:14:47     row 644 "Empanadas x5" -> "Empanadas x5" @ Juan Maestro - Ñuñoa: $3,590 / $0 (score 100)
+2026-11-11 00:14:48     row 649 "Papas Fritas Grandes" -> "Papas fritas grandes" @ Juan Maestro - Ñuñoa: $3,090 / $0 (score 100)
+2026-11-11 00:14:48     row 650 "Smashter Burger Clásica" -> "Smashter Burger Clásica" @ Juan Maestro - Ñuñoa: $6,990 / $0 (score 100)
+2026-11-11 00:14:48     row 651 "Smashter Burger Cuarto Maestro" -> "Smashter Burger Cuarto Maestro" @ Juan Maestro - Ñuñoa: $5,990 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 4/15
+2026-11-11 00:14:48 [45/81] rappi: just_burger_cl ("just burger")
+2026-11-11 00:14:48     row 668 "Combo Just Classic" -> "Combo Just Classic" @ Just Burger - Los Leones: $12,480 / $5,990 (score 100)
+2026-11-11 00:14:48     row 669 "Combo Just BBQ" -> "Combo Just BBQ" @ Just Burger - Los Leones: $12,880 / $0 (score 100)
+2026-11-11 00:14:48     row 672 "Promo BBQ simple Duo" -> "Promo BBQ Simple Duo" @ Just Burger - Los Leones: $22,180 / $14,990 (score 100)
+2026-11-11 00:14:48     row 673 "Empanadas de Queso" -> "Empanadas de Queso" @ Just Burger - Los Leones: $2,990 / $0 (score 100)
+2026-11-11 00:14:48     row 674 "Combo Just Blue" -> "Combo Just Blue" @ Just Burger - Los Leones: $14,180 / $0 (score 100)
+2026-11-11 00:14:48     row 675 "Just Classic" -> "Just Classic promo" @ Just Burger - Los Leones: $8,000 / $0 (score 91)
+2026-11-11 00:14:48     row 676 "Combo Just Classic Doble" -> "Combo Just Classic Doble" @ Just Burger - Los Leones: $14,680 / $0 (score 100)
+2026-11-11 00:14:48     row 677 "Combo Just BBQ Doble" -> "Combo Just BBQ Doble" @ Just Burger - Los Leones: $15,080 / $0 (score 100)
+2026-11-11 00:14:48     row 678 "Combo Just Órale Wey!" -> "Combo Just Órale Wey!" @ Just Burger - Los Leones: $13,080 / $0 (score 100)
+2026-11-11 00:14:48     row 679 "Combo Just Cheese" -> "Combo Just Cheese" @ Just Burger - Los Leones: $11,480 / $0 (score 100)
+2026-11-11 00:14:48     row 680 "Promo Classic Doble Duo" -> "Promo Classic Doble Duo" @ Just Burger - Los Leones: $25,780 / $19,990 (score 100)
+2026-11-11 00:14:48     row 681 "Combo Just 4to libra" -> "Combo Just 4to libra" @ Just Burger - Los Leones: $12,180 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 12/15
+2026-11-11 00:14:48 [46/81] rappi: sin_miedo_burgers ("sin miedo")
+2026-11-11 00:14:48     row 683 "Combo Rodeo" -> "Combo Rodeo" @ Sin Miedo Burgers - Los Leones: $11,380 / $8,990 (score 100)
+2026-11-11 00:14:48     row 684 "Clásica" -> "Clasica" @ Sin Miedo Burgers - Los Leones: $6,690 / $0 (score 100)
+2026-11-11 00:14:48     row 685 "Doble Queso" -> "Doble Queso" @ Sin Miedo Burgers - Los Leones: $7,090 / $0 (score 100)
+2026-11-11 00:14:48     row 686 "Empanadas de Queso" -> "Empanadas de Queso" @ Sin Miedo Burgers - Los Leones: $2,690 / $0 (score 100)
+2026-11-11 00:14:48     row 687 "Rodeo Burger" -> "Rodeo" @ Sin Miedo Burgers - Los Leones: $7,090 / $0 (score 91)
+2026-11-11 00:14:48     row 688 "Clásica + Papas Fritas" -> "Papas Fritas" @ Sin Miedo Burgers - Los Leones: $2,290 / $0 (score 91)
+2026-11-11 00:14:48     row 689 "Papas Fritas Grandes" -> "Papas Fritas Grandes" @ Sin Miedo Burgers - Los Leones: $3,290 / $2,790 (score 100)
+2026-11-11 00:14:48     row 690 "Doble Rodeo Burger" -> "Doble Rodeo Burger" @ Sin Miedo Burgers - Los Leones: $8,590 / $0 (score 100)
+2026-11-11 00:14:48     row 691 "Doble Clásica" -> "Doble Clásica" @ Sin Miedo Burgers - Los Leones: $7,590 / $0 (score 100)
+2026-11-11 00:14:48     row 694 "Italiana" -> "Italiana" @ Sin Miedo Burgers - Los Leones: $6,690 / $0 (score 100)
+2026-11-11 00:14:48     row 695 "Combo Italiana" -> "Combo Italiana" @ Sin Miedo Burgers - Los Leones: $10,380 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 11/15
+2026-11-11 00:14:48 [47/81] rappi: kairos ("kairos")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [48/81] rappi: krispykreme_cl ("krispykreme")
+2026-11-11 00:14:48     row 713 "6 Pack a Eleccion" -> "6 Pack a Eleccion" @ Krispy Kreme - Divina Providencia: $15,000 / $13,000 (score 100)
+2026-11-11 00:14:48     row 714 "Escoge tu Docena Basic" -> "Escoge tu Docena Basic" @ Krispy Kreme - Divina Providencia: $18,000 / $16,000 (score 100)
+2026-11-11 00:14:48     row 716 "Escoge tu Docena Premium" -> "Escoge tu Docena Premium" @ Krispy Kreme - Divina Providencia: $23,000 / $20,000 (score 100)
+2026-11-11 00:14:48     row 718 "6Pack a Eleccion" -> "6 Pack a Eleccion" @ Krispy Kreme - Divina Providencia: $15,000 / $13,000 (score 100)
+2026-11-11 00:14:48     row 719 "Escoge tu Docena Select" -> "Escoge tu Docena Select" @ Krispy Kreme - Divina Providencia: $20,500 / $18,500 (score 100)
+2026-11-11 00:14:48     row 722 "3 Pack a Eleccion" -> "3 Pack a Eleccion" @ Krispy Kreme - Divina Providencia: $10,000 / $8,500 (score 100)
+2026-11-11 00:14:48   -> filled 6/15
+2026-11-11 00:14:48 [49/81] rappi: milsabores_la_argentina ("la argentina")
+2026-11-11 00:14:48     row 727 "Mitad y Mitad Grande" -> "Mitad y Mitad Grande" @ La Argentina Pizzeria - La Florida: $0 / $0 (score 100)
+2026-11-11 00:14:48     row 728 "Muzzarella Grande" -> "Muzzarella Grande" @ La Argentina Pizzeria - La Florida: $0 / $0 (score 100)
+2026-11-11 00:14:48     row 729 "Muzzarella Jamón Grande" -> "Muzzarella Jamón Grande" @ La Argentina Pizzeria - La Florida: $28,900 / $0 (score 100)
+2026-11-11 00:14:48     row 730 "Muzzarella Napolitana Jamón Grande" -> "Muzzarella Napolitana Jamón Grande" @ La Argentina Pizzeria - La Florida: $39,900 / $0 (score 100)
+2026-11-11 00:14:48     row 731 "Muzzarella Jamón Morrón Grande" -> "Muzzarella Jamón Morrón Grande" @ La Argentina Pizzeria - La Florida: $35,600 / $0 (score 100)
+2026-11-11 00:14:48     row 732 "Fugazza Queso Grande" -> "Fugazza Queso Grande" @ La Argentina Pizzeria - La Florida: $26,800 / $0 (score 100)
+2026-11-11 00:14:48     row 733 "1/2 Pizza Grande" -> "1/2 Pizza Grande" @ La Argentina Pizzeria - La Florida: $0 / $0 (score 100)
+2026-11-11 00:14:48     row 734 "Fugazzeta Grande" -> "Fugazzeta Grande" @ La Argentina Pizzeria - La Florida: $39,900 / $0 (score 100)
+2026-11-11 00:14:48     row 735 "Fainá" -> "Fainá" @ La Argentina Pizzeria - La Florida: $1,500 / $0 (score 100)
+2026-11-11 00:14:48     row 736 "Chimichurri 1oz" -> "Chimichurri 1oz" @ La Argentina Pizzeria - La Florida: $600 / $0 (score 100)
+2026-11-11 00:14:48     row 737 "Fugazza Grande" -> "Fugazza Grande" @ La Argentina Pizzeria - La Florida: $9,900 / $0 (score 100)
+2026-11-11 00:14:48     row 738 "Muzzarella 4 Quesos Grande" -> "Muzzarella 4 Quesos Grande" @ La Argentina Pizzeria - La Florida: $36,900 / $0 (score 100)
+2026-11-11 00:14:48     row 740 "Muzzarella Jamón Ananá Grande" -> "Muzzarella Jamón Ananá Grande" @ La Argentina Pizzeria - La Florida: $36,800 / $0 (score 100)
+2026-11-11 00:14:48     row 741 "Chimichurri 350gr" -> "Chimichurri 350gr" @ La Argentina Pizzeria - La Florida: $7,800 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 14/15
+2026-11-11 00:14:48 [50/81] rappi: la ermita ("la ermita")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [51/81] rappi: milsabores_lasanguchera ("la sanguchera")
+2026-11-11 00:14:48     row 790 "Lomo Saltado" -> "Lomo Saltado" @ La Sanguchera del Barrio - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:14:48     row 791 "Churrazo Italiano" -> "Churrazo Italiano" @ La Sanguchera del Barrio - Tajamar: $13,900 / $0 (score 100)
+2026-11-11 00:14:48     row 794 "Pescado Tempuron" -> "Pescado Tempuron" @ La Sanguchera del Barrio - Tajamar: $13,900 / $0 (score 100)
+2026-11-11 00:14:48     row 798 "Pollo Amistoso" -> "Pollo Amistoso" @ La Sanguchera del Barrio - Tajamar: $12,900 / $0 (score 100)
+2026-11-11 00:14:48     row 800 "Churrazo Italiano de Filete" -> "Churrazo Italiano de Filete" @ La Sanguchera del Barrio - Tajamar: $16,900 / $0 (score 100)
+2026-11-11 00:14:48     row 801 "Del Barrio" -> "Del Barrio" @ La Sanguchera del Barrio - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 6/15
+2026-11-11 00:14:48 [52/81] rappi: LittleCaesarsCL ("little caesars")
+2026-11-11 00:14:48     row 802 "Classic Pepperoni Familiar" -> "Classic Pepperoni Familiar" @ Little Caesars Pizza - Los Leones: $8,500 / $7,500 (score 100)
+2026-11-11 00:14:48     row 804 "Trio Perfecto" -> "Trio Perfecto" @ Little Caesars Pizza - Los Leones: $28,000 / $22,500 (score 100)
+2026-11-11 00:14:48     row 805 "Hazlo Combo con Puff" -> "Hazlo Combo con Puff" @ Little Caesars Pizza - Los Leones: $9,500 / $6,000 (score 100)
+2026-11-11 00:14:48     row 806 "Super Cheese Pepperoni Familiar" -> "Super Cheese Pepperoni Familiar" @ Little Caesars Pizza - Los Leones: $13,500 / $0 (score 100)
+2026-11-11 00:14:48     row 807 "Classic Cheese Familiar" -> "Classic Cheese Familiar" @ Little Caesars Pizza - Los Leones: $8,500 / $7,500 (score 100)
+2026-11-11 00:14:48     row 808 "Duo Full" -> "Duo Full" @ Little Caesars Pizza - Los Leones: $31,000 / $23,000 (score 100)
+2026-11-11 00:14:48     row 809 "New Cheezy Jalapeño" -> "New Cheezy Jalapeño" @ Little Caesars Pizza - Los Leones: $1,500 / $0 (score 100)
+2026-11-11 00:14:48     row 810 "Crazy Combo" -> "Crazy Combo" @ Little Caesars Pizza - Los Leones: $4,500 / $0 (score 100)
+2026-11-11 00:14:48     row 811 "COMBO EXTRA PEPPERONI" -> "COMBO EXTRA PEPPERONI" @ Little Caesars Pizza - Los Leones: $22,500 / $18,000 (score 100)
+2026-11-11 00:14:48     row 812 "Hazlo Combo con Bebida" -> "Hazlo Combo con Bebida" @ Little Caesars Pizza - Los Leones: $8,000 / $6,000 (score 100)
+2026-11-11 00:14:48     row 813 "Super Cheese + Classic Cheese" -> "Super Cheese + Classic Cheese" @ Little Caesars Pizza - Los Leones: $20,500 / $18,000 (score 100)
+2026-11-11 00:14:48     row 814 "Ultimate Supreme Familiar" -> "Ultimate Supreme Familiar" @ Little Caesars Pizza - Los Leones: $14,000 / $0 (score 100)
+2026-11-11 00:14:48     row 815 "El Cuarteto del Sabor" -> "El Cuarteto del Sabor" @ Little Caesars Pizza - Los Leones: $39,500 / $33,000 (score 100)
+2026-11-11 00:14:48   -> filled 13/15
+2026-11-11 00:14:48 [53/81] rappi: lovdo_g&n_cl ("lovdo")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [54/81] rappi: milsabores_mammamia ("mamma mia")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [55/81] rappi: mamut_chile ("mamut")
+2026-11-11 00:14:48     row 847 "Ribs Box" -> "Ribs Box" @ Mamut - Divina Providencia: $18,690 / $12,990 (score 100)
+2026-11-11 00:14:48     row 848 "Dupla Americana" -> "Dupla Americana" @ Mamut - Divina Providencia: $19,980 / $11,990 (score 100)
+2026-11-11 00:14:48     row 849 "Plan Mamut" -> "Plan Mamut" @ Mamut - Divina Providencia: $30,970 / $24,990 (score 100)
+2026-11-11 00:14:48     row 850 "Texas Burger Box" -> "Texas Burger Box" @ Mamut - Divina Providencia: $11,690 / $9,990 (score 100)
+2026-11-11 00:14:48     row 851 "New Orleans Burger Box" -> "New Orleans Burger Box" @ Mamut - Divina Providencia: $11,990 / $7,000 (score 100)
+2026-11-11 00:14:48     row 852 "Ribs Original Combo" -> "Ribs Original Combo" @ Mamut - Divina Providencia: $22,990 / $0 (score 100)
+2026-11-11 00:14:48     row 853 "Dupla de Pasta" -> "Dupla de Pasta" @ Mamut - Divina Providencia: $24,480 / $18,990 (score 100)
+2026-11-11 00:14:48     row 854 "American Ribs" -> "American Ribs" @ Mamut - Divina Providencia: $24,000 / $19,990 (score 100)
+2026-11-11 00:14:48     row 855 "Pasta Box" -> "Pasta Box" @ Mamut - Divina Providencia: $13,490 / $11,990 (score 100)
+2026-11-11 00:14:48     row 856 "California Burger Box" -> "California Burger Box" @ Mamut - Divina Providencia: $11,690 / $9,990 (score 100)
+2026-11-11 00:14:48     row 857 "Ribs Original" -> "Ribs Original" @ Mamut - Divina Providencia: $13,990 / $0 (score 100)
+2026-11-11 00:14:48     row 859 "Scampi & Cream" -> "Scampi & Cream" @ Mamut - Divina Providencia: $12,990 / $0 (score 100)
+2026-11-11 00:14:48     row 861 "Queensland Chicken" -> "Queensland Chicken" @ Mamut - Divina Providencia: $11,490 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 13/15
+2026-11-11 00:14:48 [56/81] rappi: mariberico ("mariberico")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [57/81] rappi: melt_pizzas ("melt pizzas")
+2026-11-11 00:14:48     row 877 "2 Medianas Special" -> "2 Medianas Special" @ Melt Pizzas - Divina Providencia: $21,980 / $11,990 (score 100)
+2026-11-11 00:14:48     row 878 "2 Pizzas familiares + Palitos" -> "2 Pizzas Familiares + Palitos" @ Melt Pizzas - Divina Providencia: $39,766 / $26,590 (score 100)
+2026-11-11 00:14:48     row 879 "1 Familiar Special" -> "1 Familiar Special" @ Melt Pizzas - Divina Providencia: $15,390 / $8,490 (score 100)
+2026-11-11 00:14:48     row 880 "Double Pepperoni Mediana" -> "Double Pepperoni Mediana" @ Melt Pizzas - Divina Providencia: $14,290 / $0 (score 100)
+2026-11-11 00:14:48     row 881 "🍕 ¡2 Melt Express x $19.990! 🍕" -> "🍕 ¡2 Melt Express X $19.990! 🍕" @ Melt Pizzas - Divina Providencia: $31,476 / $19,990 (score 100)
+2026-11-11 00:14:48     row 882 "Promo 3 Familiares" -> "Promo 3 Pizzas Familiares" @ Melt Pizzas - Divina Providencia: $62,726 / $39,290 (score 91)
+2026-11-11 00:14:48     row 883 "Pizza Familiar + Palitos" -> "Pizza Familiar + Palitos" @ Melt Pizzas - Divina Providencia: $23,699 / $16,490 (score 100)
+2026-11-11 00:14:48     row 884 "Chicken BBQ Familiar" -> "Chicken BBQ Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-11 00:14:48     row 885 "Honey Mustard" -> "Honey Mustard" @ Melt Pizzas - Divina Providencia: $1,000 / $0 (score 100)
+2026-11-11 00:14:48     row 886 "Pepperoni Extreme Familiar" -> "Pepperoni Extreme Familiar" @ Melt Pizzas - Divina Providencia: $9,990 / $0 (score 100)
+2026-11-11 00:14:48     row 887 "Palitos de Ajo" -> "Palitos de Ajo" @ Melt Pizzas - Divina Providencia: $4,490 / $0 (score 100)
+2026-11-11 00:14:48     row 888 "Full Veggie Mediana" -> "Full Veggie Mediana" @ Melt Pizzas - Divina Providencia: $15,890 / $0 (score 100)
+2026-11-11 00:14:48     row 889 "Special Mix Familiar" -> "Special Mix Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-11 00:14:48     row 890 "Chicken Honey Mustard Familiar" -> "Chicken Honey Mustard Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-11 00:14:48     row 891 "Pesto Margarita Familiar" -> "Pesto Margarita Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1237 "2 Medianas Special" -> "2 Medianas Special" @ Melt Pizzas - Divina Providencia: $21,980 / $11,990 (score 100)
+2026-11-11 00:14:48     row 1238 "1 Familiar Special" -> "1 Familiar Special" @ Melt Pizzas - Divina Providencia: $15,390 / $8,490 (score 100)
+2026-11-11 00:14:48     row 1239 "2 Pizzas familiares + Palitos" -> "2 Pizzas Familiares + Palitos" @ Melt Pizzas - Divina Providencia: $39,766 / $26,590 (score 100)
+2026-11-11 00:14:48     row 1240 "🍕 ¡2 Melt Express x $19.990! 🍕" -> "🍕 ¡2 Melt Express X $19.990! 🍕" @ Melt Pizzas - Divina Providencia: $31,476 / $19,990 (score 100)
+2026-11-11 00:14:48     row 1241 "Double Pepperoni Mediana" -> "Double Pepperoni Mediana" @ Melt Pizzas - Divina Providencia: $14,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1242 "2 FAMILIARES +PALITOS +BEBIDA 1.5" -> "2 Familiares + Palitos + Bebida 1,5l" @ Melt Pizzas - Divina Providencia: $43,459 / $28,990 (score 94)
+2026-11-11 00:14:48     row 1243 "Special Mix Familiar" -> "Special Mix Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1244 "Promo 3 Familiares" -> "Promo 3 Pizzas Familiares" @ Melt Pizzas - Divina Providencia: $62,726 / $39,290 (score 91)
+2026-11-11 00:14:48     row 1245 "Pepperoni Extreme Familiar" -> "Pepperoni Extreme Familiar" @ Melt Pizzas - Divina Providencia: $9,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1246 "Chicken BBQ Familiar" -> "Chicken BBQ Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1247 "Honey Mustard" -> "Honey Mustard" @ Melt Pizzas - Divina Providencia: $1,000 / $0 (score 100)
+2026-11-11 00:14:48     row 1248 "Pizza Familiar + Palitos" -> "Pizza Familiar + Palitos" @ Melt Pizzas - Divina Providencia: $23,699 / $16,490 (score 100)
+2026-11-11 00:14:48     row 1249 "Palitos de Ajo" -> "Palitos de Ajo" @ Melt Pizzas - Divina Providencia: $4,490 / $0 (score 100)
+2026-11-11 00:14:48     row 1250 "Todas Las Carnes Familiar" -> "Todas Las Carnes Familiar" @ Melt Pizzas - Divina Providencia: $21,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1251 "Chicken Honey Mustard Familiar" -> "Chicken Honey Mustard Familiar" @ Melt Pizzas - Divina Providencia: $18,290 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 30/30
+2026-11-11 00:14:48 [58/81] rappi: milsabores_mila ("mila")
+2026-11-11 00:14:48     row 892 "Clásica" -> "Clásica" @ Milá - Tajamar: $12,900 / $0 (score 100)
+2026-11-11 00:14:48     row 893 "Napolitana" -> "Napolitana" @ Milá - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:14:48     row 894 "Champiñón" -> "Champiñón" @ Milá - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:14:48     row 895 "Florentina" -> "Florentina" @ Milá - Tajamar: $15,900 / $0 (score 100)
+2026-11-11 00:14:48     row 896 "A Caballo" -> "A Caballo" @ Milá - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:14:48     row 897 "Argentina" -> "Argentina" @ Milá - Tajamar: $15,900 / $0 (score 100)
+2026-11-11 00:14:48     row 898 "Empanadas Argentinas Caseras" -> "Empanadas Argentinas Caseras" @ Milá - Tajamar: $8,900 / $0 (score 100)
+2026-11-11 00:14:48     row 899 "Fetuccini Supremo" -> "Fetuccini Supremo" @ Milá - Tajamar: $16,900 / $0 (score 100)
+2026-11-11 00:14:48     row 900 "Milanesa Clásica" -> "Clásica" @ Milá - Tajamar: $12,900 / $0 (score 91)
+2026-11-11 00:14:48     row 901 "Fugazzeta" -> "Fugazzeta" @ Milá - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:14:48     row 902 "Milanesa Napolitana" -> "Napolitana" @ Milá - Tajamar: $14,900 / $0 (score 91)
+2026-11-11 00:14:48     row 903 "Milá" -> "Milá" @ Milá - Tajamar: $15,900 / $0 (score 100)
+2026-11-11 00:14:48     row 904 "Flan Casero" -> "Flan Casero" @ Milá - Tajamar: $5,900 / $0 (score 100)
+2026-11-11 00:14:48     row 905 "Milanesa Vacuno" -> "Milanesa Vacuno" @ Milá - Tajamar: $9,900 / $0 (score 100)
+2026-11-11 00:14:48     row 906 "Coca Cola Zero" -> "Coca Cola Zero" @ Milá - Tajamar: $2,900 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 15/15
+2026-11-11 00:14:48 [59/81] rappi: atomic_mrtaste ("mr taste")
+2026-11-11 00:14:48     row 908 "Arma tus Papas MR. Taste" -> "Arma Tus Papas Mr. Taste" @ Mr Taste - Ñuñoa: $8,990 / $5,390 (score 100)
+2026-11-11 00:14:48     row 909 "Dúo Wrap + Snack" -> "Dúo Wrap + Snack" @ Mr Taste - Ñuñoa: $14,990 / $8,540 (score 100)
+2026-11-11 00:14:48     row 910 "Arma tu Wrap" -> "Arma Tu Wrap" @ Mr Taste - Ñuñoa: $5,890 / $3,650 (score 100)
+2026-11-11 00:14:48     row 911 "Empanadas Medialuna x3" -> "Empanadas Medialuna X3" @ Mr Taste - Ñuñoa: $2,690 / $1,290 (score 100)
+2026-11-11 00:14:48     row 912 "Snack Box" -> "Snack Box" @ Mr Taste - Ñuñoa: $6,690 / $4,820 (score 100)
+2026-11-11 00:14:48     row 913 "Empanadas Medialuna x6" -> "Empanadas Medialuna X6" @ Mr Taste - Ñuñoa: $5,600 / $3,000 (score 100)
+2026-11-11 00:14:48     row 914 "Wings x10 + Aritos" -> "Wings X10 + Aritos" @ Mr Taste - Ñuñoa: $10,990 / $7,690 (score 100)
+2026-11-11 00:14:48     row 915 "Arma tu Sándwich" -> "Arma Tu Sándwich" @ Mr Taste - Ñuñoa: $6,190 / $4,090 (score 100)
+2026-11-11 00:14:48     row 916 "Papas MR. Taste y Bebida" -> "Papas Mr Taste + Bebida" @ Mr Taste - Ñuñoa: $8,990 / $6,380 (score 91)
+2026-11-11 00:14:48     row 917 "Arma tu Match" -> "Arma Tu Match" @ Mr Taste - Ñuñoa: $11,990 / $6,830 (score 100)
+2026-11-11 00:14:48     row 918 "Papas Medianas" -> "Papas Medianas" @ Mr Taste - Ñuñoa: $1,990 / $0 (score 100)
+2026-11-11 00:14:48     row 919 "Wings x5 + Aritos" -> "Wings X5 + Aritos" @ Mr Taste - Ñuñoa: $7,490 / $5,090 (score 100)
+2026-11-11 00:14:48     row 920 "Chicken Fingers X6" -> "Chicken Fingers X6" @ Mr Taste - Ñuñoa: $4,690 / $0 (score 100)
+2026-11-11 00:14:48     row 921 "Chicken Philly Sándwich + Snack" -> "Chicken Philly Sándwich + Snack" @ Mr Taste - Ñuñoa: $8,090 / $6,470 (score 100)
+2026-11-11 00:14:48   -> filled 14/15
+2026-11-11 00:14:48 [60/81] rappi: milsabores_muusteak ("muu steak")
+2026-11-11 00:14:48     row 922 "Filete" -> "Filete" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-11 00:14:48     row 923 "Lomo Vetado" -> "Lomo Vetado" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-11 00:14:48     row 924 "Malaya a las Brasas" -> "Malaya a las Brasas" @ Muu Steak - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:14:48     row 925 "Papas Fritas" -> "Papas Fritas" @ Muu Steak - Tajamar: $5,900 / $0 (score 100)
+2026-11-11 00:14:48     row 926 "Lomo Liso" -> "Lomo Liso" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-11 00:14:48     row 927 "Lomo Saltado a Nuestro Estilo" -> "Lomo Saltado a Nuestro Estilo" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-11 00:14:48     row 928 "Arroz" -> "Arroz" @ Muu Steak - Tajamar: $4,900 / $0 (score 100)
+2026-11-11 00:14:48     row 929 "Anticucho Mixto" -> "Anticucho Mixto" @ Muu Steak - Tajamar: $26,900 / $0 (score 100)
+2026-11-11 00:14:48     row 930 "Coca Cola Zero" -> "Coca Cola Zero" @ Muu Steak - Tajamar: $3,290 / $0 (score 100)
+2026-11-11 00:14:48     row 931 "Puré Rustico" -> "Puré Rustico" @ Muu Steak - Tajamar: $6,900 / $0 (score 100)
+2026-11-11 00:14:48     row 932 "Gnocci" -> "Gnocci" @ Muu Steak - Tajamar: $9,900 / $0 (score 100)
+2026-11-11 00:14:48     row 933 "Entraña" -> "Entraña" @ Muu Steak - Tajamar: $34,900 / $0 (score 100)
+2026-11-11 00:14:48     row 934 "Fetuccini" -> "Fetuccini" @ Muu Steak - Tajamar: $7,900 / $0 (score 100)
+2026-11-11 00:14:48     row 935 "Pastelera Choclo" -> "Pastelera Choclo" @ Muu Steak - Tajamar: $7,900 / $0 (score 100)
+2026-11-11 00:14:48     row 936 "Milanesa Napolitana" -> "Milanesa Napolitana" @ Muu Steak - Tajamar: $23,900 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 15/15
+2026-11-11 00:14:48 [61/81] rappi: noahs_ cl ("noah's")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [62/81] rappi: alsea_pfchangs ("p.f. chang's")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [63/81] rappi: papajohns_ch ("papa john's")
+2026-11-11 00:14:48     row 968 "Mediana a elección mas mini palitos" -> "Mediana a elección mas Mini Palitos" @ Papa Johns Pizza - Tajamar: $14,890 / $7,990 (score 100)
+2026-11-11 00:14:48     row 972 "Palitos de Ajo y Queso Parmesano" -> "Palitos de Ajo y Queso Parmesano" @ Papa Johns Pizza - Tajamar: $5,990 / $0 (score 100)
+2026-11-11 00:14:48     row 973 "Super Pepperoni" -> "Pizza Super Pepperoni" @ Papa Johns Pizza - Tajamar: $5,900 / $0 (score 91)
+2026-11-11 00:14:48     row 975 "Pollo BBQ" -> "Pizza de Pollo BBQ" @ Papa Johns Pizza - Tajamar: $5,900 / $0 (score 85)
+2026-11-11 00:14:48     row 976 "Todas las Carnes" -> "Pizza Todas Las Carnes" @ Papa Johns Pizza - Tajamar: $6,900 / $0 (score 91)
+2026-11-11 00:14:48     row 979 "Napolitana" -> "Pizza Napolitana" @ Papa Johns Pizza - Tajamar: $4,500 / $0 (score 91)
+2026-11-11 00:14:48     row 981 "Palitos de Queso" -> "Palito de Queso" @ Papa Johns Pizza - Tajamar: $6,990 / $0 (score 94)
+2026-11-11 00:14:48   -> filled 7/15
+2026-11-11 00:14:48 [64/81] rappi: pizzapizza_cl ("pizza pizza")
+2026-11-11 00:14:48     row 983 "Pepperoni" -> "Pepperoni" @ PizzaPizza® - Divina Providencia: $11,700 / $8,900 (score 100)
+2026-11-11 00:14:48     row 984 "PROMO 2x  ármalas a tu gusto" -> "Promo 2x ármalas a tu gusto" @ PizzaPizza® - Divina Providencia: $29,400 / $23,900 (score 100)
+2026-11-11 00:14:48     row 986 "Ármala a tu gusto mediana" -> "Armala a tu gusto mediana" @ PizzaPizza® - Divina Providencia: $10,200 / $0 (score 100)
+2026-11-11 00:14:48     row 987 "Doble Queso" -> "Doble queso" @ PizzaPizza® - Divina Providencia: $11,700 / $8,900 (score 100)
+2026-11-11 00:14:48     row 988 "Ármala a tu gusto grande" -> "Armala a tu gusto grande" @ PizzaPizza® - Divina Providencia: $12,000 / $0 (score 100)
+2026-11-11 00:14:48     row 989 "Napolitana" -> "Napolitana" @ PizzaPizza® - Divina Providencia: $11,700 / $8,900 (score 100)
+2026-11-11 00:14:48     row 990 "Combo pizza 1 ing + Bebida 1.5L" -> "Combo pizza 1 ing + Bebida 1.5L" @ PizzaPizza® - Divina Providencia: $15,100 / $12,300 (score 100)
+2026-11-11 00:14:48     row 991 "Todas las Carnes" -> "Todas las carnes" @ PizzaPizza® - Divina Providencia: $16,200 / $0 (score 100)
+2026-11-11 00:14:48     row 992 "PROMO pizza 1 ingrediente" -> "Promo pizza 1 ingrediente" @ PizzaPizza® - Divina Providencia: $11,700 / $0 (score 100)
+2026-11-11 00:14:48     row 995 "Pollo BBQ" -> "Pollo bbq" @ PizzaPizza® - Divina Providencia: $13,200 / $0 (score 100)
+2026-11-11 00:14:48     row 996 "Alitas de Pollo con salsa BBQ" -> "Alitas de pollo con salsa BBQ" @ PizzaPizza® - Divina Providencia: $6,400 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 11/15
+2026-11-11 00:14:48 [65/81] rappi: atomic_poked ("poked")
+2026-11-11 00:14:48     row 997 "Promo! 2 Pollo Crispy Gohan" -> "Promo! 2 pollo crispy gohan" @ Poked - Ñuñoa: $14,800 / $7,400 (score 100)
+2026-11-11 00:14:48     row 998 "Arma tu Gohan" -> "Arma tu gohan" @ Poked - Ñuñoa: $8,720 / $4,800 (score 100)
+2026-11-11 00:14:48     row 999 "Arma tu Poke" -> "Arma Tu Poke" @ Poked - Ñuñoa: $8,470 / $4,660 (score 100)
+2026-11-11 00:14:48     row 1000 "Combo Pollo Crispy Gohan + Bebida" -> "Combo Pollo Crispy Gohan + Bebida" @ Poked - Ñuñoa: $9,540 / $6,870 (score 100)
+2026-11-11 00:14:48     row 1001 "1 Gohan + 1 Crispy Handroll + 1 Bebida" -> "1 Gohan + 1 crispy handroll + 1 bebida" @ Poked - Ñuñoa: $15,890 / $0 (score 100)
+2026-11-11 00:14:48     row 1003 "Arma tu Baby Poke" -> "Arma Tu Baby Poke" @ Poked - Ñuñoa: $5,790 / $3,470 (score 100)
+2026-11-11 00:14:48     row 1004 "2 Gohan a Elección" -> "2 Gohan a elección" @ Poked - Ñuñoa: $16,290 / $8,960 (score 100)
+2026-11-11 00:14:48     row 1006 "2 Gohan a Elección + Gyozas" -> "2 Gohan a Elección + Gyozas" @ Poked - Ñuñoa: $20,520 / $10,050 (score 100)
+2026-11-11 00:14:48     row 1007 "Gyozas" -> "Gyozas" @ Poked - Ñuñoa: $4,230 / $3,600 (score 100)
+2026-11-11 00:14:48     row 1008 "New York Gohan" -> "New York Gohan" @ Poked - Ñuñoa: $7,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1010 "Arma tu Baby Gohan" -> "Arma tu baby gohan" @ Poked - Ñuñoa: $5,990 / $3,530 (score 100)
+2026-11-11 00:14:48     row 1011 "Chicken Teriyaki Poke + Bebida Gratis" -> "Chicken Teriyaki Poke + Bebida Gratis" @ Poked - Ñuñoa: $10,880 / $6,310 (score 100)
+2026-11-11 00:14:48   -> filled 12/15
+2026-11-11 00:14:48 [66/81] rappi: sbarro_pronto ("sbarro")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [67/81] rappi: Streat Burger_DD_CL ("streat burger")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [68/81] rappi: streat_icecream ("streat")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [69/81] rappi: SushiBlues_Grupo Food Hall ("sushi blues")
+2026-11-11 00:14:48     row 1073 "Combo 4 (15 Piezas) + Bebida Lata" -> "Combo 4 (15 Piezas) + Bebida Lata" @ Sushi Blues - Tajamar: $12,490 / $0 (score 100)
+2026-11-11 00:14:48     row 1074 "Combo 5 (20 Piezas) + Bebida Lata" -> "Combo 5 (20 Piezas) + Bebida Lata" @ Sushi Blues - Tajamar: $16,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1075 "Salsa Tare (Teriyaki)" -> "Salsa Tare (Teriyaki)" @ Sushi Blues - Tajamar: $790 / $0 (score 100)
+2026-11-11 00:14:48     row 1076 "Salsa Acevichada" -> "Salsa Acevichada" @ Sushi Blues - Tajamar: $1,090 / $0 (score 100)
+2026-11-11 00:14:48     row 1077 "Familiar (40 Piezas) + Bebida 15 lts" -> "Familiar (40 Piezas) + Bebida 1,5 lts" @ Sushi Blues - Tajamar: $28,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1079 "Gohan Premium + Bebida Lata" -> "Gohan Premium + Bebida Lata" @ Sushi Blues - Tajamar: $10,490 / $0 (score 100)
+2026-11-11 00:14:48     row 1081 "Gohan Pollo" -> "Gohan Pollo" @ Sushi Blues - Tajamar: $7,990 / $6,390 (score 100)
+2026-11-11 00:14:48     row 1082 "Salsa Soya" -> "Salsa Soya" @ Sushi Blues - Tajamar: $790 / $0 (score 100)
+2026-11-11 00:14:48     row 1084 "Gyozas Cerdo/Camarón X 5" -> "Gyozas CerdoCamarón X 5" @ Sushi Blues - Tajamar: $3,990 / $0 (score 96)
+2026-11-11 00:14:48     row 1085 "Gyozas Cerdo/Camarón X 3" -> "Gyozas CerdoCamarón X 3" @ Sushi Blues - Tajamar: $2,990 / $0 (score 96)
+2026-11-11 00:14:48     row 1086 "Gohan a elección + Bebida Lata" -> "Gohan a elección + Bebida Lata" @ Sushi Blues - Tajamar: $9,990 / $7,990 (score 100)
+2026-11-11 00:14:48   -> filled 11/15
+2026-11-11 00:14:48 [70/81] rappi: milsabores_takeawok ("take a wok")
+2026-11-11 00:14:48     row 1087 "Super" -> "Super" @ Take a Wok - Tajamar: $12,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1088 "Combo Super" -> "Combo Super" @ Take a Wok - Tajamar: $18,980 / $16,130 (score 100)
+2026-11-11 00:14:48     row 1089 "Deluxe" -> "Deluxe" @ Take a Wok - Tajamar: $14,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1090 "Combo Especial" -> "Combo Especial" @ Take a Wok - Tajamar: $16,980 / $0 (score 100)
+2026-11-11 00:14:48     row 1091 "Especial" -> "Especial" @ Take a Wok - Tajamar: $10,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1092 "Wok Super" -> "Super" @ Take a Wok - Tajamar: $12,990 / $0 (score 91)
+2026-11-11 00:14:48     row 1093 "Combo  Deluxe" -> "Combo Deluxe" @ Take a Wok - Tajamar: $20,980 / $17,830 (score 100)
+2026-11-11 00:14:48     row 1094 "Wok Deluxe" -> "Deluxe" @ Take a Wok - Tajamar: $14,990 / $0 (score 91)
+2026-11-11 00:14:48     row 1095 "Combo Deluxe" -> "Combo Deluxe" @ Take a Wok - Tajamar: $20,980 / $17,830 (score 100)
+2026-11-11 00:14:48     row 1096 "Wok Especial" -> "Especial" @ Take a Wok - Tajamar: $10,990 / $0 (score 91)
+2026-11-11 00:14:48     row 1097 "Pad Thai Wok" -> "Pad Thai Wok" @ Take a Wok - Tajamar: $14,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1098 "Combo Wok Super" -> "Combo Super" @ Take a Wok - Tajamar: $18,980 / $16,130 (score 91)
+2026-11-11 00:14:48     row 1099 "Rollitos Primavera" -> "Rollitos Primavera" @ Take a Wok - Tajamar: $6,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1100 "Yao wok" -> "Yao wok" @ Take a Wok - Tajamar: $12,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1101 "Yao Wok + Bebida a elección" -> "Yao Wok + Bebida a elección" @ Take a Wok - Tajamar: $12,890 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 15/15
+2026-11-11 00:14:48 [71/81] rappi: milsabores_tanta ("tanta")
+2026-11-11 00:14:48     row 1102 "Lomo Saltado" -> "Lomo Saltado" @ Tanta - Tajamar: $23,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1103 "Tallarines Saltados Criollos de Filete" -> "Tallarines Saltados Criollos de Filete" @ Tanta - Tajamar: $18,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1104 "Cebiche Clásico" -> "Cebiche Clásico" @ Tanta - Tajamar: $18,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1105 "Fetuccinis Criollos" -> "Fetuccinis Criollos" @ Tanta - Tajamar: $21,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1106 "Ají de Gallina" -> "Ají de Gallina" @ Tanta - Tajamar: $15,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1107 "Lomo Saltado Spring Rolls" -> "Lomo Saltado Spring Rolls" @ Tanta - Tajamar: $12,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1108 "Saltado Criollo de Pollo" -> "Saltado Criollo de Pollo" @ Tanta - Tajamar: $17,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1109 "Cebiche Mixto" -> "Cebiche Mixto" @ Tanta - Tajamar: $22,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1110 "Seductor" -> "Seductor" @ Tanta - Tajamar: $4,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1111 "Angelita" -> "Angelita" @ Tanta - Tajamar: $13,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1112 "Coca Cola Zero" -> "Coca Cola Zero" @ Tanta - Tajamar: $2,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1113 "Copa de Suspiro Limeño" -> "Copa de Suspiro Limeño" @ Tanta - Tajamar: $5,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1114 "Crema Volteada" -> "Crema Volteada" @ Tanta - Tajamar: $6,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1115 "Pisco Sour 1/2 Litro" -> "Pisco Sour 1/2 Litro" @ Tanta - Tajamar: $10,900 / $0 (score 100)
+2026-11-11 00:14:48     row 1116 "Causa Limeña Pollo" -> "Causa Limeña Pollo" @ Tanta - Tajamar: $14,900 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 15/15
+2026-11-11 00:14:48 [72/81] rappi: Tarragona ("tarragona")
+2026-11-11 00:14:48     row 1117 "Promo Box Recargado" -> "Promo Box Recargado" @ Tarragona - Centro Histórico: $12,090 / $0 (score 100)
+2026-11-11 00:14:48     row 1121 "Trio Box Sandwich Clasicos" -> "Trio Box Sandwich Clasicos" @ Tarragona - Centro Histórico: $27,890 / $14,990 (score 100)
+2026-11-11 00:14:48     row 1122 "Salsas" -> "Salsas" @ Tarragona - Centro Histórico: $700 / $0 (score 100)
+2026-11-11 00:14:48     row 1123 "Dupla Box Sandwich Clasicos" -> "Dupla Box Sandwich Clasicos" @ Tarragona - Centro Histórico: $18,590 / $11,990 (score 100)
+2026-11-11 00:14:48     row 1125 "Dupla Box Fajitas Clasicas" -> "Dupla Box Fajitas Clasicas" @ Tarragona - Centro Histórico: $18,590 / $11,990 (score 100)
+2026-11-11 00:14:48     row 1126 "10 Empanadas Snack" -> "10 Empanadas Snack" @ Tarragona - Centro Histórico: $2,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1127 "Super Full Basket" -> "Super Full Basket" @ Tarragona - Centro Histórico: $43,390 / $27,990 (score 100)
+2026-11-11 00:14:48     row 1128 "Trio Box Fajitas Clasicas" -> "Trio Box Fajitas Clasicas" @ Tarragona - Centro Histórico: $27,890 / $14,990 (score 100)
+2026-11-11 00:14:48     row 1129 "Trio Deluxe Box Sandwich" -> "Trio Deluxe Box Sandwich" @ Tarragona - Centro Histórico: $15,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1130 "Party Mix" -> "Party Mix" @ Tarragona - Centro Histórico: $36,090 / $23,290 (score 100)
+2026-11-11 00:14:48     row 1131 "Caja de Papas" -> "Caja de Papas" @ Tarragona - Centro Histórico: $3,990 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 11/15
+2026-11-11 00:14:48 [73/81] rappi: elementalcl ("elemental")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [74/81] rappi: pollostop_ch ("pollo stop")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [75/81] rappi: tommy beans_chile ("tommy beans")
+2026-11-11 00:14:48     row 1192 "Arma tu Burrito 🌯" -> "Arma tu Burrito" @ Tommy Beans - Lyon: $7,790 / $0 (score 100)
+2026-11-11 00:14:48     row 1193 "Arma tu Burrito 🌯" -> "Arma tu Burrito" @ Tommy Beans - Lyon: $7,790 / $0 (score 100)
+2026-11-11 00:14:48     row 1195 "Arma tu Bowl 🥙" -> "Arma tu Bowl" @ Tommy Beans - Lyon: $7,790 / $0 (score 100)
+2026-11-11 00:14:48     row 1196 "Tommy Duo Carne" -> "Tommy Duo Carne" @ Tommy Beans - Lyon: $20,390 / $0 (score 100)
+2026-11-11 00:14:48     row 1198 "Big Mex Pollo" -> "Big Mex Pollo" @ Tommy Beans - Lyon: $11,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1199 "Arma tu Bowl 🥙" -> "Arma tu Bowl" @ Tommy Beans - Lyon: $7,790 / $0 (score 100)
+2026-11-11 00:14:48     row 1200 "Tommy Duo Vegetariano" -> "Tommy Duo Vegetariano" @ Tommy Beans - Lyon: $19,690 / $0 (score 100)
+2026-11-11 00:14:48     row 1201 "Tommy x4" -> "Tommy X4" @ Tommy Beans - Lyon: $24,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1202 "Burrote de Kilo" -> "Burrote de Kilo" @ Tommy Beans - Lyon: $17,390 / $0 (score 100)
+2026-11-11 00:14:48     row 1204 "Burrote de Kilo" -> "Burrote de Kilo" @ Tommy Beans - Lyon: $17,390 / $0 (score 100)
+2026-11-11 00:14:48     row 1205 "Taqueo Wey" -> "Taqueo Wey" @ Tommy Beans - Lyon: $9,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1209 "Tommy Lover Pollo Grill" -> "Tommy Lover Pollo Grill" @ Tommy Beans - Lyon: $6,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1210 "Big Mex Vegetariano" -> "Big Mex Vegetariano" @ Tommy Beans - Lyon: $10,390 / $0 (score 100)
+2026-11-11 00:14:48     row 1211 "Bowl Chicken Prime" -> "Bowl Chicken Prime" @ Tommy Beans - Lyon: $7,490 / $0 (score 100)
+2026-11-11 00:14:48     row 1212 "Big Mex Pollo" -> "Big Mex Pollo" @ Tommy Beans - Lyon: $11,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1213 "Burrito Carnal Prime" -> "Burrito Carnal Prime" @ Tommy Beans - Lyon: $8,090 / $0 (score 100)
+2026-11-11 00:14:48     row 1214 "Papas fritas para compartir guacamole🌶️" -> "Papas fritas para compartir guacamole" @ Tommy Beans - Lyon: $5,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1215 "Combo Para Dos" -> "Combo Para Dos" @ Tommy Beans - Lyon: $20,630 / $14,000 (score 100)
+2026-11-11 00:14:48     row 1217 "Burrito Chicken Prime" -> "Burrito Chicken Prime" @ Tommy Beans - Lyon: $7,790 / $0 (score 100)
+2026-11-11 00:14:48     row 1220 "Cup Cheddar🧀" -> "Cup Cheddar" @ Tommy Beans - Lyon: $2,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1221 "Tommy Duo Pollo" -> "Tommy Duo Pollo" @ Tommy Beans - Lyon: $20,090 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 21/30
+2026-11-11 00:14:48 [76/81] rappi: udon_parent_tbd ("udon")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [77/81] rappi: underpizza_cl ("under pizza")
+2026-11-11 00:14:48     row 1252 "Promo Duo Clasico" -> "Promo Duo Clásica" @ Under Pizza - Los Leones: $24,470 / $17,990 (score 94)
+2026-11-11 00:14:48     row 1253 "Pepperoni" -> "Pepperoni" @ Under Pizza - Los Leones: $9,990 / $7,990 (score 100)
+2026-11-11 00:14:48     row 1254 "Promo Duo Especial" -> "Promo Duo Especial" @ Under Pizza - Los Leones: $29,470 / $22,990 (score 100)
+2026-11-11 00:14:48     row 1255 "Combo Clásico" -> "Combo Clasico" @ Under Pizza - Los Leones: $18,470 / $14,490 (score 100)
+2026-11-11 00:14:48     row 1256 "Promo Trio Clasico" -> "Promo Trio Clasico" @ Under Pizza - Los Leones: $29,970 / $22,490 (score 100)
+2026-11-11 00:14:48     row 1257 "Combo Especial" -> "Combo Especial" @ Under Pizza - Los Leones: $20,970 / $16,490 (score 100)
+2026-11-11 00:14:48     row 1258 "Promo Trio Especial" -> "Promo Trio Especial" @ Under Pizza - Los Leones: $37,470 / $27,990 (score 100)
+2026-11-11 00:14:48     row 1259 "Napolitana" -> "Napolitana" @ Under Pizza - Los Leones: $8,990 / $7,990 (score 100)
+2026-11-11 00:14:48     row 1260 "Super Combo Especial" -> "Super Combo Especial" @ Under Pizza - Los Leones: $22,970 / $18,490 (score 100)
+2026-11-11 00:14:48     row 1261 "Promo Para Tod@s" -> "Promo para Todos" @ Under Pizza - Los Leones: $30,960 / $24,990 (score 100)
+2026-11-11 00:14:48     row 1262 "Palitos de Ajo" -> "Palitos de Ajo" @ Under Pizza - Los Leones: $4,490 / $0 (score 100)
+2026-11-11 00:14:48     row 1263 "Doble Queso" -> "Doble Queso" @ Under Pizza - Los Leones: $8,990 / $7,990 (score 100)
+2026-11-11 00:14:48     row 1264 "Combo Border Queso" -> "Combo Border Queso" @ Under Pizza - Los Leones: $21,470 / $17,490 (score 100)
+2026-11-11 00:14:48     row 1265 "Super Combo Clásico" -> "Super Combo Clasico" @ Under Pizza - Los Leones: $20,470 / $16,990 (score 100)
+2026-11-11 00:14:48     row 1266 "Mega Promo Especial" -> "Mega Promo Especial" @ Under Pizza - Los Leones: $46,450 / $34,990 (score 100)
+2026-11-11 00:14:48   -> filled 15/15
+2026-11-11 00:14:48 [78/81] rappi: atomic_vittore ("vittore")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [79/81] rappi: wendyscl ("wendy's")
+2026-11-11 00:14:48     row 1275 "Box Daves Desc OFF" -> "Box Daves Desc OFF" @ Wendy's - Divina Providencia: $9,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1276 "Box Jr Chicken" -> "Box Jr Chicken OFF" @ Wendy's - Divina Providencia: $9,990 / $0 (score 91)
+2026-11-11 00:14:48     row 1277 "Duo Crispy BBQ Bacon" -> "Duo Crispy BBQ Bacon OFF" @ Wendy's - Divina Providencia: $16,990 / $0 (score 91)
+2026-11-11 00:14:48     row 1278 "Empanadas De Queso X10" -> "Empanadas De Queso X10" @ Wendy's - Divina Providencia: $3,290 / $0 (score 100)
+2026-11-11 00:14:48     row 1280 "Dip Baconaisse" -> "Dip Baconaisse" @ Wendy's - Divina Providencia: $450 / $0 (score 100)
+2026-11-11 00:14:48     row 1281 "Papas Fritas Grandes" -> "Papas Fritas Grandes" @ Wendy's - Divina Providencia: $2,350 / $0 (score 100)
+2026-11-11 00:14:48     row 1282 "Combo Baconator (Original Doble)" -> "Combo Baconator (Original Doble)" @ Wendy's - Divina Providencia: $10,990 / $0 (score 100)
+2026-11-11 00:14:48     row 1285 "Trio Locura Con Cheeseburger" -> "Trio Locura Con Cheeseburger OFF" @ Wendy's - Divina Providencia: $19,990 / $0 (score 91)
+2026-11-11 00:14:48     row 1286 "CHILI" -> "CHILI" @ Wendy's - Divina Providencia: $2,190 / $0 (score 100)
+2026-11-11 00:14:48     row 1287 "Duo Box Daves" -> "Duo Box Daves" @ Wendy's - Divina Providencia: $15,190 / $0 (score 100)
+2026-11-11 00:14:48     row 1288 "Combo Daves" -> "Combo Daves" @ Wendy's - Divina Providencia: $7,990 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 11/15
+2026-11-11 00:14:48 [80/81] rappi: wevo_burger ("wevo")
+2026-11-11 00:14:48   -> store not found
+2026-11-11 00:14:48 [81/81] rappi: atomic_wingit ("wing it")
+2026-11-11 00:14:48     row 1303 "Chicken Crispers Box" -> "Chicken Crispers Box" @ Wing It! - Ñuñoa: $18,990 / $9,870 (score 100)
+2026-11-11 00:14:48     row 1304 "Double Crispy Bucket" -> "Double Crispy Bucket" @ Wing It! - Ñuñoa: $18,900 / $11,530 (score 100)
+2026-11-11 00:14:48     row 1305 "Combo Crispers & Nuggets XL" -> "Combo Crispers & Nuggets XL" @ Wing It! - Ñuñoa: $12,600 / $0 (score 100)
+2026-11-11 00:14:48     row 1306 "Combo Alitas" -> "Combo Alitas" @ Wing It! - Ñuñoa: $10,500 / $5,990 (score 100)
+2026-11-11 00:14:48     row 1307 "Nuggets Box" -> "Nuggets Box" @ Wing It! - Ñuñoa: $8,000 / $5,920 (score 100)
+2026-11-11 00:14:48     row 1308 "Combo Chicken Crispers" -> "Combo Chicken Crispers" @ Wing It! - Ñuñoa: $11,900 / $5,800 (score 100)
+2026-11-11 00:14:48     row 1310 "Nuggets x20 + Papas" -> "Nuggets x20 + Papas" @ Wing It! - Ñuñoa: $11,800 / $7,000 (score 100)
+2026-11-11 00:14:48     row 1311 "Combo Louisiana Wrap" -> "Combo Louisiana Wrap" @ Wing It! - Ñuñoa: $6,700 / $5,430 (score 100)
+2026-11-11 00:14:48     row 1312 "Nuggets Party Box" -> "Nuggets Party Box" @ Wing It! - Ñuñoa: $16,900 / $10,650 (score 100)
+2026-11-11 00:14:48     row 1313 "Super Wing It Bucket" -> "Super Wing It Bucket" @ Wing It! - Ñuñoa: $20,500 / $0 (score 100)
+2026-11-11 00:14:48     row 1314 "Chicken Crispers X15" -> "Chicken Crispers X15" @ Wing It! - Ñuñoa: $14,990 / $10,040 (score 100)
+2026-11-11 00:14:48     row 1315 "Combo Doble Wrap" -> "Combo Doble Wrap" @ Wing It! - Ñuñoa: $16,200 / $11,340 (score 100)
+2026-11-11 00:14:48     row 1316 "Empanadas de Queso X6" -> "Empanadas de Queso X6" @ Wing It! - Ñuñoa: $1,300 / $0 (score 100)
+2026-11-11 00:14:48   -> filled 13/15
+2026-11-11 00:14:48 done.
+2026-11-11 00:14:52 start: 81 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-11 00:14:52 [1/81] pedidosya: milsabores_barrachalaca ("barra chalaca")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [2/81] pedidosya: barriochicken_cl ("barrio chicken")
+2026-11-11 00:14:52 PedidosYa: 1 saved menu page(s) found: Barra Chalaca - Costanera Center
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [3/81] pedidosya: buffalo_waffles ("buffalo waffles")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [4/81] pedidosya: milas_cl ("milas")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [5/81] pedidosya: buffetexpress_cl ("buffet express")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [6/81] pedidosya: Carls_Jr_CL ("carl's jr")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [7/81] pedidosya: chicken_factory ("chicken factory")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [8/81] pedidosya: chilis_alsea ("chili's")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [9/81] pedidosya: China Wok_Grupo Degasa ("china wok")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [10/81] pedidosya: atomic_clubdelgohan ("club del gohan")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [11/81] pedidosya: atomic_clubdelpoke ("club del poke")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [12/81] pedidosya: Club del Poke - La Florida III ("club del poke")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [13/81] pedidosya: Doggis_Grupo G&N ("doggis")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [14/81] pedidosya: Juan Maestro_Grupo G&N ("juan maestro")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [15/81] pedidosya: doggis_heladeria_g&n ("doggis heladeria")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [16/81] pedidosya: domino_cl ("domino's pizza")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [17/81] pedidosya: milsabores_dulceluna ("dulce luna")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [18/81] pedidosya: DunkinDonuts_MS_CL ("dunkin")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [19/81] pedidosya: milsabores_bodegondelima ("el bodegon")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [20/81] pedidosya: elcaferosa ("el cafe rosa")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [21/81] pedidosya: roof_burger_cl ("roof burger")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [22/81] pedidosya: milsabores_eljapones ("el japones")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [23/81] pedidosya: milsabores_enriquetomas ("enrique tomas")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [24/81] pedidosya: milsabores_lady ("lady focaccia")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [25/81] pedidosya: fuente_chilena ("fuente chilena")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [26/81] pedidosya: Fork_CL ("fork")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [27/81] pedidosya: Momofuku (Ultimate Parent) ("momofuku")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [28/81] pedidosya: momofuku (ultimate parent) ("momofuku")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [29/81] pedidosya: Grido Mall Alto Pe�alolen ("grido")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [30/81] pedidosya: Grido_RM ("grido")
+2026-11-11 00:14:52   -> nothing to fill
+2026-11-11 00:14:52 [31/81] pedidosya: 7 cortes_milsabores ("7 cortes")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [32/81] pedidosya: mesondelmarinero_milsabores ("meson del marinero")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [33/81] pedidosya: milsabores_ekeko ("ekeko")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [34/81] pedidosya: milsabores_fuente ("fuente mardoqueo")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [35/81] pedidosya: milsabores_lapiazza ("la piazza")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [36/81] pedidosya: milsabores_havanna ("havanna")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [37/81] pedidosya: Más Que Empanada (Viña del Mar) ("mas que empanada")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [38/81] pedidosya: idilico_cl ("idilico")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [39/81] pedidosya: atomic_itacate ("itacate")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [40/81] pedidosya: milsabores_jalisco ("jalisco")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [41/81] pedidosya: jimmyjohns_cl ("jimmy john's")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [42/81] pedidosya: johnnyrocketschile ("johnny rockets")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [43/81] pedidosya: Juan Maestro Centro Comercial Maipu ("juan maestro")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [44/81] pedidosya: Juan Maestro Líder Vicuña Mackenna ("juan maestro")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [45/81] pedidosya: just_burger_cl ("just burger")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [46/81] pedidosya: sin_miedo_burgers ("sin miedo")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [47/81] pedidosya: kairos ("kairos")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [48/81] pedidosya: krispykreme_cl ("krispykreme")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [49/81] pedidosya: milsabores_la_argentina ("la argentina")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [50/81] pedidosya: la ermita ("la ermita")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [51/81] pedidosya: milsabores_lasanguchera ("la sanguchera")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [52/81] pedidosya: LittleCaesarsCL ("little caesars")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [53/81] pedidosya: lovdo_g&n_cl ("lovdo")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [54/81] pedidosya: milsabores_mammamia ("mamma mia")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [55/81] pedidosya: mamut_chile ("mamut")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [56/81] pedidosya: mariberico ("mariberico")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [57/81] pedidosya: melt_pizzas ("melt pizzas")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [58/81] pedidosya: milsabores_mila ("mila")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [59/81] pedidosya: atomic_mrtaste ("mr taste")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [60/81] pedidosya: milsabores_muusteak ("muu steak")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [61/81] pedidosya: noahs_ cl ("noah's")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [62/81] pedidosya: alsea_pfchangs ("p.f. chang's")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [63/81] pedidosya: papajohns_ch ("papa john's")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [64/81] pedidosya: pizzapizza_cl ("pizza pizza")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [65/81] pedidosya: atomic_poked ("poked")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [66/81] pedidosya: sbarro_pronto ("sbarro")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [67/81] pedidosya: Streat Burger_DD_CL ("streat burger")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [68/81] pedidosya: streat_icecream ("streat")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [69/81] pedidosya: SushiBlues_Grupo Food Hall ("sushi blues")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [70/81] pedidosya: milsabores_takeawok ("take a wok")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [71/81] pedidosya: milsabores_tanta ("tanta")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [72/81] pedidosya: Tarragona ("tarragona")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [73/81] pedidosya: elementalcl ("elemental")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [74/81] pedidosya: pollostop_ch ("pollo stop")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [75/81] pedidosya: tommy beans_chile ("tommy beans")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [76/81] pedidosya: udon_parent_tbd ("udon")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [77/81] pedidosya: underpizza_cl ("under pizza")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [78/81] pedidosya: atomic_vittore ("vittore")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [79/81] pedidosya: wendyscl ("wendy's")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [80/81] pedidosya: wevo_burger ("wevo")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 [81/81] pedidosya: atomic_wingit ("wing it")
+2026-11-11 00:14:52   -> no saved page for this restaurant
+2026-11-11 00:14:52 done.

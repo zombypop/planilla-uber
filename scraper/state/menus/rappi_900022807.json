@@ -1,0 +1,407 @@
+{
+  "id": "900022807",
+  "name": "Take a Wok - Tajamar",
+  "url": "https://www.rappi.cl/restaurantes/900022807",
+  "items": [
+    {
+      "name": "Yao Wok + Bebida a elección",
+      "full": 12890,
+      "offer": 0,
+      "available": true,
+      "corridor": "Promociones"
+    },
+    {
+      "name": "Wantan Take a Wok",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bocaditos"
+    },
+    {
+      "name": "Rollitos Primavera",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bocaditos"
+    },
+    {
+      "name": "Alitas Take",
+      "full": 8900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bocaditos"
+    },
+    {
+      "name": "Pork Gyoza",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bocaditos"
+    },
+    {
+      "name": "Taquitos Siu Cao",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bocaditos"
+    },
+    {
+      "name": "Tempura de Verduras",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bocaditos"
+    },
+    {
+      "name": "Korean Chicken Bites",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bocaditos"
+    },
+    {
+      "name": "Chicken",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bao´s"
+    },
+    {
+      "name": "Take a Wok",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bao´s"
+    },
+    {
+      "name": "Chashu Bao (2Und)",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bao´s"
+    },
+    {
+      "name": "Ka Ma Wok",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Take a Wow"
+    },
+    {
+      "name": "Yao wok",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Take a Wow"
+    },
+    {
+      "name": "Ji Wok",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Take a Wow"
+    },
+    {
+      "name": "Pad Thai Wok",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Take a Wow"
+    },
+    {
+      "name": "New Fan Wok",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Take a Wow"
+    },
+    {
+      "name": "Seafood Wok",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Fire Wok"
+    },
+    {
+      "name": "Black Dragon Wok",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Fire Wok"
+    },
+    {
+      "name": "Yin Yang Wok",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Fire Wok"
+    },
+    {
+      "name": "Tataki Salmón",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Chicken Bite Salad",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Tonkotsu Ramen",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ramen"
+    },
+    {
+      "name": "Miso Ramen",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ramen"
+    },
+    {
+      "name": "Thai Ramen",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ramen"
+    },
+    {
+      "name": "Ki Thai",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pokes"
+    },
+    {
+      "name": "Tuna Chipotle",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pokes"
+    },
+    {
+      "name": "Pacific Salmón",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pokes"
+    },
+    {
+      "name": "Pork Tonkatsu Bowl",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pokes"
+    },
+    {
+      "name": "Kebab Chicken Bowl",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pokes"
+    },
+    {
+      "name": "Tipakay",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Asian Street Food"
+    },
+    {
+      "name": "Chijaukay",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Asian Street Food"
+    },
+    {
+      "name": "Thai Chaufa",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Asian Street Food"
+    },
+    {
+      "name": "Ppal Gan Ramen Seco",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Asian Street Food"
+    },
+    {
+      "name": "Gungjung Tteokbokki",
+      "full": 16990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Asian Street Food"
+    },
+    {
+      "name": "Bibimbap",
+      "full": 15990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Asian Street Food"
+    },
+    {
+      "name": "Especial",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Elige tu Wok"
+    },
+    {
+      "name": "Super",
+      "full": 12990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Elige tu Wok"
+    },
+    {
+      "name": "Deluxe",
+      "full": 14990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Elige tu Wok"
+    },
+    {
+      "name": "Combo Especial",
+      "full": 16980,
+      "offer": 0,
+      "available": true,
+      "corridor": "Elige tu Combo Wok"
+    },
+    {
+      "name": "Combo Super",
+      "full": 18980,
+      "offer": 16130,
+      "available": true,
+      "corridor": "Elige tu Combo Wok"
+    },
+    {
+      "name": "Combo Deluxe",
+      "full": 20980,
+      "offer": 17830,
+      "available": true,
+      "corridor": "Elige tu Combo Wok"
+    },
+    {
+      "name": "Kids Wok",
+      "full": 9990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Kid´s Wok"
+    },
+    {
+      "name": "Wantancitos",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Dulce"
+    },
+    {
+      "name": "Tartita de Maracuyá",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Dulce"
+    },
+    {
+      "name": "Choco Lover",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Lo Dulce"
+    },
+    {
+      "name": "Infusión Dragón",
+      "full": 4690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Infusión Samurai",
+      "full": 4690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Infusión Lee",
+      "full": 4690,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Coca Cola",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Coca Cola Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Coca Cola Light",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Sprite",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Sprite Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Fanta",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Fanta Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Drinks"
+    },
+    {
+      "name": "Agua vital con gas",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Agua vital sin gas",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    }
+  ],
+  "fetchedAt": 1794355527888
+}

@@ -1,0 +1,449 @@
+{
+  "id": "900057203",
+  "name": "Johnny Rockets - Las Condes",
+  "url": "https://www.rappi.cl/restaurantes/900057203",
+  "items": [
+    {
+      "name": "Bacon Cheese Fries",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "Cheese Fries",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "Chili Cheese Fries",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "Onion Rings",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "American Fries",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "1/2 Chunks+1/2 Fries",
+      "full": 5490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "Crispy Chicken Chunks",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "BBQ Chicken Wings (Nuevo)",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "Mozzarella sticks",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "Sweet Potato Fries",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Starters"
+    },
+    {
+      "name": "Thriller Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "¡Sólo por Tiempo Limitado!"
+    },
+    {
+      "name": "Merken Rockstar + Fries",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Sublime Burger + Fries",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Triple Rockstar Burger + Fries",
+      "full": 13990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Rocket Single + Fries",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Rocket Doble + Fries",
+      "full": 10990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Bacon Cheddar Single + Fries",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Bacon Cheddar Doble + Fries",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Smokehouse Single + Fries",
+      "full": 8990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Smokehouse Doble + Fries",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "The Original + Fries",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "The Houston + Fries",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Route 66 + Fries",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Streamliner + Fries",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "California Burger + Fries",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Texas Burger + Fries",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Hamburguesas - Incluyen Papas"
+    },
+    {
+      "name": "Bebidas en Lata 355cc",
+      "full": 0,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Agua Mineral con Gas",
+      "full": 2490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Agua Mineral sin Gas",
+      "full": 2490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Bebidas"
+    },
+    {
+      "name": "Caesar Salad",
+      "full": 8490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Cobb Salad",
+      "full": 8490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Rockin Salad",
+      "full": 8490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Grilled Chicken Salad",
+      "full": 8490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Apple Pie",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "The Perfect Brownie",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "New York Cheesecake",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Churros",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "Key Lime Pie",
+      "full": 7490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Postres"
+    },
+    {
+      "name": "The Beyond Original Burger",
+      "full": 11990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Beyond Meat Burger"
+    },
+    {
+      "name": "Kids Meal Individual",
+      "full": 4990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Kids Menú"
+    },
+    {
+      "name": "Vanilla Shake",
+      "full": 5490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Chocolate Shake",
+      "full": 5490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Choco Vanilla Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Choco Banana Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Choco Peanut Butter Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Choco Strawberry Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Choco Madness Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Strawberry Shake",
+      "full": 5490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Strawberry Banana Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Strawberry Oreo Crumble Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Oreo Cookies & Cream Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Peanut Butter Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Butterfinger Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Black Forest Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Orange Dreamsicle Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Very Cherry Shake",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Golden Shake Biscoff",
+      "full": 5990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "Shake Pistacho Dubai",
+      "full": 6490,
+      "offer": 0,
+      "available": true,
+      "corridor": "Shakes"
+    },
+    {
+      "name": "BBQ Chicken Bacon Melt + Fries",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sandwiches - ¡Incluyen Papas!"
+    },
+    {
+      "name": "Philly Cheese Steak + Fries",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sandwiches - ¡Incluyen Papas!"
+    },
+    {
+      "name": "Grilled Chicken Breast Sandwich + Fries",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sandwiches - ¡Incluyen Papas!"
+    },
+    {
+      "name": "Chicken Club Sandwich + Fries",
+      "full": 7990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sandwiches - ¡Incluyen Papas!"
+    },
+    {
+      "name": "Chicken Tenders + Fries",
+      "full": 6990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sandwiches - ¡Incluyen Papas!"
+    }
+  ],
+  "fetchedAt": 1794354481734
+}

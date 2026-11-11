@@ -1,0 +1,918 @@
+{
+  "id": "900031827",
+  "name": "Tanta - Tajamar",
+  "url": "https://www.rappi.cl/restaurantes/900031827",
+  "items": [
+    {
+      "name": "Menú Spaghetti + Bebida a elección",
+      "full": 12800,
+      "offer": 0,
+      "available": true,
+      "corridor": "Menú Ejecutivo"
+    },
+    {
+      "name": "Empanada Ají de Gallina",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Empanada Lomo Saltado",
+      "full": 7900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Carpaccio Filete",
+      "full": 17900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Causa Limeña Lomito de Atún Casero",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Causa Limeña Pollo",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Causa Limeña de Camarón",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Tiradito Dos Cremas",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Cebiche Clásico",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Cebiche Mixto",
+      "full": 22900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Cebiche Carretillero",
+      "full": 22900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Entradas"
+    },
+    {
+      "name": "Gran Piqueo Marino",
+      "full": 32900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Piqueos"
+    },
+    {
+      "name": "Gran Piqueo Tanta",
+      "full": 29900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Piqueos"
+    },
+    {
+      "name": "El Plato del Pescador",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Piqueos"
+    },
+    {
+      "name": "Trío Crocante",
+      "full": 25900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Piqueos"
+    },
+    {
+      "name": "Súper Gyosas",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Piqueos"
+    },
+    {
+      "name": "Empanadas Buenos Aires",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Piqueos"
+    },
+    {
+      "name": "Tequeños Criollos",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Piqueos"
+    },
+    {
+      "name": "Lomo Saltado Spring Rolls",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Piqueos"
+    },
+    {
+      "name": "Nikkei de Pollo Crocante",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Nikkei de Camarón al Panko",
+      "full": 14900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ensaladas"
+    },
+    {
+      "name": "Sopa Capón",
+      "full": 12900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sopas"
+    },
+    {
+      "name": "Crema de Zapallo de una Abuela Limeña",
+      "full": 9900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sopas"
+    },
+    {
+      "name": "Angelita",
+      "full": 13900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Sopas"
+    },
+    {
+      "name": "Tallarines Saltados Criollos de Filete",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Tallarines Saltados Criollos de Camarón",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Tallarines Saltados Criollos de Pollo",
+      "full": 15900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Pasta con Mariscos a la Criolla",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Pasta Lima Thai",
+      "full": 17900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Spaghetti al Ajillo",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Spaghetti al Ajillo con Camarones",
+      "full": 15900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Spaghetti Mediterráneo",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Ravioles de Asado",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Fetuccinis Criollos",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Fetuccini de la Infancia",
+      "full": 17900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Ravioles Italia",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Tallarín Casero de Filete",
+      "full": 23900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Tallarín Casero de Pollo",
+      "full": 17900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Tallarín Casero de Pescado",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Pasta"
+    },
+    {
+      "name": "Bistec a la Sartén",
+      "full": 23900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Super Chaufa Jorge Chavez",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Ají de Gallina",
+      "full": 15900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "El Chanchito Taiwan",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Pollito Capón",
+      "full": 17900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Anticuchones de Filete",
+      "full": 23900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Anticuchones de Camarones",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Anticuchones de Pollo",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Risotto Criollo",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Tacu Tacu a lo Pobre Filete",
+      "full": 22900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Tacu Tacu a lo Pobre de Pollo",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Tacu Tacu a lo Pobre Pescado",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Lomo Saltado",
+      "full": 23900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Saltado Criollo de Camarones",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Saltado Criollo de Pescado",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Saltado Criollo de Pollo",
+      "full": 17900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Mi Suprema de Pollo Maryland",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Atún",
+      "full": 18900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Salmón a la Florentina",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "La Tanti Pizza de Filete",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "La Tanti Pizza de Pollo",
+      "full": 17900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Salmón a la Chorrillana",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Risotto Miraflorino",
+      "full": 23900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Asado de la Abuela",
+      "full": 21900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Pesca del Día a lo Macho",
+      "full": 23900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Saltado Mandarín",
+      "full": 16900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Guisos"
+    },
+    {
+      "name": "Macarrón Chocolate",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Macarrón Coco",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Macarrón Canela China",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Macarrón Frambuesa",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Macarrón Caramelo",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Macarrón Chicha Morada",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Macarrón Durazno",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Macarrón Maracuyá",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Macarrón Frutilla",
+      "full": 1400,
+      "offer": 0,
+      "available": true,
+      "corridor": "Macarrones"
+    },
+    {
+      "name": "Degustación de Postres",
+      "full": 22900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Crema Volteada",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Copa de Suspiro Limeño",
+      "full": 5900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Tarta de Limón",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Pom",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Tartita de Maracuyá",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Opera",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Choco Brownie",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Manzanita de Feria",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Banana Pie",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Hawaiana",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Floricienta",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Lucumita",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Macchiatto",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Ciocoo Gianduia",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Selva Negra",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Tarta de Frutos Secos",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Mango Pasión",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Parisienne",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Nuestros Postres"
+    },
+    {
+      "name": "Mango",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ice Tea"
+    },
+    {
+      "name": "Maracuyá y Naranja",
+      "full": 3990,
+      "offer": 0,
+      "available": true,
+      "corridor": "Ice Tea"
+    },
+    {
+      "name": "Chicha Cool",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Mockteles"
+    },
+    {
+      "name": "Frambuesita",
+      "full": 6900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Mockteles"
+    },
+    {
+      "name": "Agua Gasificada 750cc",
+      "full": 4300,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Agua sin Gas",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Agua con Gas",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Aguas"
+    },
+    {
+      "name": "Seductor",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Fogoso",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Norteño",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Muchachita",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Agilito",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Doña Luisa",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Piel de Seda",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Elegante",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Mango Huarango",
+      "full": 4900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Jugos"
+    },
+    {
+      "name": "Limonada Clásica",
+      "full": 3900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Limonadas"
+    },
+    {
+      "name": "Limonada Menta",
+      "full": 3900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Limonadas"
+    },
+    {
+      "name": "Limonada Menta y Jengibre",
+      "full": 3900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Limonadas"
+    },
+    {
+      "name": "Hierba Luisa",
+      "full": 4600,
+      "offer": 0,
+      "available": true,
+      "corridor": "Limonadas"
+    },
+    {
+      "name": "Coca Cola",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Coca Cola Light",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Coca Cola Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Sprite",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Sprite Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Fanta",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Ginger Ale",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Ginger Ale Zero",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Pisco Sour 1/2 Litro",
+      "full": 10900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Pisco Sour 1 Litro",
+      "full": 19900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Gaseosas"
+    },
+    {
+      "name": "Espresso",
+      "full": 2000,
+      "offer": 0,
+      "available": true,
+      "corridor": "Té Café e Infusiones"
+    },
+    {
+      "name": "Americano",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Té Café e Infusiones"
+    },
+    {
+      "name": "Cortado",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Té Café e Infusiones"
+    },
+    {
+      "name": "Capuccino",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Té Café e Infusiones"
+    },
+    {
+      "name": "Capuccino con Crema",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Té Café e Infusiones"
+    },
+    {
+      "name": "Mocaccino",
+      "full": 2900,
+      "offer": 0,
+      "available": true,
+      "corridor": "Té Café e Infusiones"
+    },
+    {
+      "name": "Infusiones",
+      "full": 2500,
+      "offer": 0,
+      "available": true,
+      "corridor": "Té Café e Infusiones"
+    }
+  ],
+  "fetchedAt": 1794355544847
+}
