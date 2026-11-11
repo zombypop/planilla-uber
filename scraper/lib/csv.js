@@ -2,7 +2,7 @@
 // Minimal RFC4180 CSV parser/serializer that round-trips the original file
 // byte-for-byte (we verify this before writing anything).
 
-function parse(text) {
+function parse(text, delim = ',') {
   const rows = [];
   let row = [], field = '', i = 0, inQ = false;
   while (i < text.length) {
@@ -15,7 +15,7 @@ function parse(text) {
       field += c; i++; continue;
     }
     if (c === '"') { inQ = true; i++; continue; }
-    if (c === ',') { row.push(field); field = ''; i++; continue; }
+    if (c === delim) { row.push(field); field = ''; i++; continue; }
     if (c === '\r' && text[i + 1] === '\n') { row.push(field); rows.push(row); row = []; field = ''; i += 2; continue; }
     if (c === '\n') { row.push(field); rows.push(row); row = []; field = ''; i++; continue; }
     field += c; i++;
@@ -23,15 +23,15 @@ function parse(text) {
   const trailingNewline = /\r?\n$/.test(text);
   if (!trailingNewline || field !== '' || row.length) { row.push(field); rows.push(row); }
   const eol = text.includes('\r\n') ? '\r\n' : '\n';
-  return { rows, eol, trailingNewline };
+  return { rows, eol, trailingNewline, delim };
 }
 
-function quote(f) {
-  return /[",\r\n]/.test(f) ? '"' + f.replace(/"/g, '""') + '"' : f;
+function quote(f, delim = ',') {
+  return /["\r\n]/.test(f) || f.includes(delim) ? '"' + f.replace(/"/g, '""') + '"' : f;
 }
 
-function serialize({ rows, eol, trailingNewline }) {
-  return rows.map(r => r.map(quote).join(',')).join(eol) + (trailingNewline ? eol : '');
+function serialize({ rows, eol, trailingNewline, delim = ',' }) {
+  return rows.map(r => r.map(f => quote(f, delim)).join(delim)).join(eol) + (trailingNewline ? eol : '');
 }
 
 module.exports = { parse, serialize };

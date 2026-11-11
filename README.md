@@ -61,6 +61,22 @@ Then run `./start.sh --only ubereats`. A page saved with Ctrl+S anywhere in this
 Pages are matched by store name. To pin a file, use `"ubereats_files": ["..."]` in `scraper/stores.json`.
 Bookmarklet source: `scraper/bookmarklet/ubereats.js`.
 
+## Windows / any PC: `actualizar-precios.html`
+
+To update Uber Eats and PedidosYa prices on a PC without Node or this project, copy two files to that PC:
+`actualizar-precios.html` and `pedidosya-bookmarklet.html`. Then:
+
+1. Save menus with the bookmark buttons. The files go to Downloads.
+2. Double-click `actualizar-precios.html` (Chrome or Edge).
+3. Click **Abrir planilla** to pick the CSV, then **Elegir carpeta Descargas** (or drag the files onto the page).
+4. Review the matches, then click **Guardar en la planilla**. This writes into the same CSV; the browser asks for
+   permission the first time. **Descargar copia** downloads the updated CSV instead.
+
+It uses the same matching code as `run.js` and the same rule: only empty price cells are filled. It works with
+CSVs saved by Excel (`;` separator, Windows encoding). Rappi can't be done there, because the browser can't
+download Rappi menus. The page is built from `scraper/webapp/` and the `scraper/lib/` files, so rebuild it after
+changing those or `scraper/stores.json`: `node scraper/webapp/build.js`.
+
 ## Review / fix
 
 - `scraper/logs/not_found.csv`: dishes that couldn't be matched confidently, with the closest menu item and its score. These cells are left blank rather than guessed.

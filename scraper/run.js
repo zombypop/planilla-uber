@@ -17,7 +17,9 @@ const csv = require('./lib/csv');
 const match = require('./lib/match');
 const rappi = require('./lib/rappi');
 const pedidosya = require('./lib/pedidosya');
+const { defaultSearch } = require('./lib/search');
 const ubereats = require('./lib/ubereats');
+const fill = require('./lib/fill');
 
 const ROOT = path.resolve(__dirname, '..');
 const INPUT = path.join(ROOT, 'Planilla-Cacho - Sheet2.csv');
@@ -29,18 +31,18 @@ const PROGRESS = path.join(STATE, 'progress.json');
 const NOT_FOUND = path.join(LOGS, 'not_found.csv');
 const MENUS = path.join(STATE, 'menus');
 
-const COL = { name: 0, dish: 5 };
+const { COL, blank } = fill;
+// columns come from lib/fill.js (Uber O/P, PedidosYa R/S, Rappi U/V)
 const PLATFORMS = {
-  rappi: { full: 20, offer: 21, url: 22, enabled: true },
+  rappi: { ...fill.COLUMNS.rappi, enabled: true },
   // PedidosYa blocks automated access, so it is read from menu pages the user
   // saved with Ctrl+S anywhere inside this folder (no requests to PedidosYa).
-  pedidosya: { full: 17, offer: 18, url: 19, enabled: true },
+  pedidosya: { ...fill.COLUMNS.pedidosya, enabled: true },
   // Uber Eats also blocks automated access: read from saved menus, like PedidosYa.
-  ubereats: { full: 14, offer: 15, url: 16, enabled: true },
+  ubereats: { ...fill.COLUMNS.ubereats, enabled: true },
 };
 const DOMAINS = { rappi: 'rappi.cl', pedidosya: 'pedidosya.cl', ubereats: 'ubereats.com' };
 const SAVED_PARSERS = { pedidosya, ubereats };
-const THRESHOLD = 85;
 
 // Santiago points to search from when a chain isn't delivering to the first one.
 const LOCATIONS = [
@@ -53,35 +55,6 @@ const LOCATIONS = [
   { name: 'Puente Alto', lat: -33.6100, lng: -70.5760 },
   { name: 'Huechuraba', lat: -33.3700, lng: -70.6330 },
 ];
-
-// Search terms for the internal restaurant slugs in column A.
-const SEARCH_TERMS = {
-  '7 cortes_milsabores': '7 cortes', 'Carls_Jr_CL': "carl's jr", 'China Wok_Grupo Degasa': 'china wok',
-  'Club del Poke - La Florida III': 'club del poke', 'Doggis_Grupo G&N': 'doggis', 'DunkinDonuts_MS_CL': 'dunkin',
-  'Fork_CL': 'fork', 'Grido Mall Alto Pe�alolen': 'grido', 'Grido_RM': 'grido',
-  'Juan Maestro Centro Comercial Maipu': 'juan maestro', 'Juan Maestro Líder Vicuña Mackenna': 'juan maestro',
-  'Juan Maestro_Grupo G&N': 'juan maestro', 'LittleCaesarsCL': 'little caesars', 'Momofuku (Ultimate Parent)': 'momofuku',
-  'momofuku (ultimate parent)': 'momofuku', 'Más Que Empanada (Viña del Mar)': 'mas que empanada',
-  'Streat Burger_DD_CL': 'streat burger', 'SushiBlues_Grupo Food Hall': 'sushi blues', 'Tarragona': 'tarragona',
-  'alsea_pfchangs': "p.f. chang's", 'atomic_clubdelgohan': 'club del gohan', 'atomic_clubdelpoke': 'club del poke',
-  'atomic_itacate': 'itacate', 'atomic_mrtaste': 'mr taste', 'atomic_poked': 'poked', 'atomic_vittore': 'vittore',
-  'atomic_wingit': 'wing it', 'barriochicken_cl': 'barrio chicken', 'buffalo_waffles': 'buffalo waffles',
-  'buffetexpress_cl': 'buffet express', 'chicken_factory': 'chicken factory', 'chilis_alsea': "chili's",
-  'doggis_heladeria_g&n': 'doggis heladeria', 'domino_cl': "domino's pizza", 'elcaferosa': 'el cafe rosa',
-  'elementalcl': 'elemental', 'fuente_chilena': 'fuente chilena', 'idilico_cl': 'idilico', 'jimmyjohns_cl': "jimmy john's",
-  'johnnyrocketschile': 'johnny rockets', 'just_burger_cl': 'just burger', 'kairos': 'kairos', 'la ermita': 'la ermita',
-  'lovdo_g&n_cl': 'lovdo', 'mamut_chile': 'mamut', 'mariberico': 'mariberico', 'melt_pizzas': 'melt pizzas',
-  'mesondelmarinero_milsabores': 'meson del marinero', 'milas_cl': 'milas', 'milsabores_barrachalaca': 'barra chalaca',
-  'milsabores_bodegondelima': 'el bodegon', 'milsabores_dulceluna': 'dulce luna', 'milsabores_ekeko': 'ekeko',
-  'milsabores_eljapones': 'el japones', 'milsabores_enriquetomas': 'enrique tomas', 'milsabores_fuente': 'fuente mardoqueo',
-  'milsabores_havanna': 'havanna', 'milsabores_jalisco': 'jalisco', 'milsabores_la_argentina': 'la argentina',
-  'milsabores_lady': 'lady focaccia', 'milsabores_lapiazza': 'la piazza', 'milsabores_lasanguchera': 'la sanguchera',
-  'milsabores_mammamia': 'mamma mia', 'milsabores_mila': 'mila', 'milsabores_muusteak': 'muu steak',
-  'milsabores_takeawok': 'take a wok', 'milsabores_tanta': 'tanta', 'noahs_ cl': "noah's", 'papajohns_ch': "papa john's",
-  'pizzapizza_cl': 'pizza pizza', 'pollostop_ch': 'pollo stop', 'roof_burger_cl': 'roof burger', 'sbarro_pronto': 'sbarro',
-  'sin_miedo_burgers': 'sin miedo', 'streat_icecream': 'streat', 'tommy beans_chile': 'tommy beans', 'udon_parent_tbd': 'udon',
-  'underpizza_cl': 'under pizza', 'wendyscl': "wendy's", 'wevo_burger': 'wevo',
-};
 
 // ---------------------------------------------------------------- helpers
 const args = process.argv.slice(2);
@@ -96,15 +69,8 @@ const pause = () => sleep(4000 + Math.random() * 5000);
 const log = (...m) => console.log(new Date().toISOString().replace('T', ' ').slice(0, 19), ...m);
 const readJson = (f, d) => { try { return JSON.parse(fs.readFileSync(f, 'utf8')); } catch { return d; } };
 const writeJson = (f, v) => { fs.writeFileSync(f + '.tmp', JSON.stringify(v, null, 2)); fs.renameSync(f + '.tmp', f); };
-const money = n => '$' + Math.round(n).toLocaleString('en-US');
-const blank = v => !String(v || '').trim();
 const fileSlug = s => match.norm(s).replace(/ /g, '_') || 'x';
 
-function defaultSearch(name) {
-  if (SEARCH_TERMS[name]) return SEARCH_TERMS[name];
-  return name.replace(/\(.*?\)/g, ' ').replace(/^(milsabores|atomic|alsea)_/i, '').replace(/_(cl|ch|chile|rm|g&n|grupo.*)$/i, '')
-    .replace(/[_-]+/g, ' ').trim().toLowerCase();
-}
 
 // ------------------------------------------------- one instance at a time
 {
@@ -123,16 +89,12 @@ if (fs.existsSync(OUTPUT)) {
   const out = csv.parse(fs.readFileSync(OUTPUT, 'utf8'));
   if (out.rows.length === origSheet.rows.length) sheet = out; // resume from previous run
 }
-const dataRows = sheet.rows.map((r, i) => ({ r, i })).filter(({ r, i }) => i >= 2 && !blank(r[COL.name]) && !blank(r[COL.dish]));
+const dataRows = fill.dataRows(sheet.rows);
 
 function saveSheet() {
   if (opt.dryRun) return;
   // Safety: only price cells that were empty in the original may differ.
-  const allowed = new Set(Object.values(PLATFORMS).flatMap(p => [p.full, p.offer]));
-  sheet.rows.forEach((row, i) => row.forEach((v, j) => {
-    const o = origSheet.rows[i][j];
-    if (v !== o && !(allowed.has(j) && blank(o))) throw new Error(`refusing to change cell row ${i + 1} col ${j + 1}`);
-  }));
+  fill.checkOnlyBlankPricesChanged(origSheet.rows, sheet.rows);
   fs.writeFileSync(OUTPUT + '.tmp', csv.serialize(sheet));
   fs.renameSync(OUTPUT + '.tmp', OUTPUT);
 }
@@ -215,14 +177,7 @@ function savedMenus(p, name) {
     }).filter(m => m?.items?.length);
     log(`${p}: ${savedPages[p].length} saved menu page(s) found: ${savedPages[p].map(m => m.name).join(' / ') || '-'}`);
   }
-  const cfg = stores[name];
-  const pinned = (cfg[`${p}_files`] || []).map(f => path.resolve(ROOT, f));
-  if (pinned.length) return savedPages[p].filter(m => pinned.includes(path.resolve(m.id)));
-  const byName = savedPages[p].filter(m => match.score(cfg.search, m.name.split(/ - | \(/)[0]) >= 85);
-  if (byName.length) return byName;
-  // fallback: store name starts with the search words ("Tarragona Mall Plaza Alameda")
-  const q = match.norm(cfg.search);
-  return savedPages[p].filter(m => (match.norm(m.name) + ' ').startsWith(q + ' '));
+  return fill.selectMenus(savedPages[p], name, stores, p);
 }
 
 async function fillPlatform(p, name, rows) {
@@ -234,20 +189,9 @@ async function fillPlatform(p, name, rows) {
     if (p === 'rappi') todo.forEach(x => noteNotFound(p, x, '', null));
     return p === 'rappi' ? 'store not found' : 'no saved page for this restaurant';
   }
-  // Prefer the store whose menu covers most dishes; fall back to the others per dish.
-  const cover = m => todo.filter(x => (match.best(x.r[COL.dish], m.items)?.score || 0) >= THRESHOLD).length;
-  menus.sort((a, b) => cover(b) - cover(a));
   let filled = 0;
-  for (const x of todo) {
-    let hit = null, bestCand = null;
-    for (const m of menus) {
-      const b = match.best(x.r[COL.dish], m.items);
-      if (b && (!bestCand || b.score > bestCand.score)) bestCand = { ...b, store: m };
-      if (b && b.score >= THRESHOLD) { hit = { ...b, store: m }; break; }
-    }
-    if (!hit) { noteNotFound(p, x, menus[0].name, bestCand); continue; }
-    x.r[P.full] = money(hit.item.full);
-    if (blank(x.r[P.offer])) x.r[P.offer] = money(hit.item.offer);
+  for (const { x, hit, best } of fill.fillRows(todo, menus, p)) {
+    if (!hit) { noteNotFound(p, x, best?.store?.name || menus[0].name, best); continue; }
     filled++;
     log(`    row ${x.i + 1} "${x.r[COL.dish]}" -> "${hit.item.name}" @ ${hit.store.name}: ${x.r[P.full]} / ${x.r[P.offer]} (score ${hit.score.toFixed(0)})`);
   }

@@ -1,0 +1,705 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Actualizar precios</title>
+<style>
+  :root {
+    --bg:#f6f6f4; --fg:#1d1d1f; --muted:#6b6b6b; --card:#fff; --line:#e2e2de; --soft:#efefec;
+    --btn:#1d1d1f; --btn-fg:#fff; --ok:#1e8e4e; --ok-soft:#e6f4ec; --warn:#9a6200; --warn-soft:#fdf3e1;
+    --uber:#06c167; --pya:#ea004b; --miss:#b3261e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:#141416; --fg:#f0f0f0; --muted:#a0a0a0; --card:#1e1e21; --line:#333338; --soft:#26262a;
+      --btn:#f0f0f0; --btn-fg:#141416; --ok:#4cc483; --ok-soft:#183325; --warn:#e8b04a; --warn-soft:#33280f; --miss:#f08a80;
+    }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg); font:15px/1.5 system-ui, "Segoe UI", sans-serif; }
+  main { max-width:960px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { font-size:1.7rem; margin:0 0 4px; letter-spacing:-.01em; }
+  h2 { font-size:1.05rem; margin:0; display:flex; align-items:center; gap:10px; }
+  .sub { color:var(--muted); margin:0 0 24px; }
+  .muted { color:var(--muted); }
+  .steps { display:grid; grid-template-columns:1fr 1fr; gap:16px; margin-bottom:16px; }
+  @media (max-width:720px) { .steps { grid-template-columns:1fr; } }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px; padding:18px; }
+  .n { display:inline-grid; place-items:center; width:24px; height:24px; border-radius:50%; background:var(--soft);
+       font-size:.8rem; font-weight:700; flex:none; }
+  .done .n { background:var(--ok); color:#fff; }
+  .card p { margin:10px 0 14px; }
+  .row { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
+  button { font:inherit; font-weight:600; border-radius:8px; padding:9px 16px; cursor:pointer;
+           border:1px solid var(--line); background:var(--card); color:var(--fg); }
+  button:hover:not(:disabled) { background:var(--soft); }
+  button.primary { background:var(--btn); color:var(--btn-fg); border-color:var(--btn); }
+  button.primary:hover:not(:disabled) { opacity:.88; background:var(--btn); }
+  button.link { border:0; background:none; padding:4px 6px; font-weight:500; color:var(--muted); text-decoration:underline; }
+  button:disabled { opacity:.45; cursor:not-allowed; }
+  button:focus-visible, summary:focus-visible { outline:2px solid var(--uber); outline-offset:2px; }
+  #sheetInfo { min-height:1.5em; margin-top:12px; overflow-wrap:anywhere; }
+  ul.menus { list-style:none; padding:0; margin:12px 0 0; max-height:220px; overflow:auto; }
+  ul.menus li { padding:5px 0; border-top:1px solid var(--line); overflow-wrap:anywhere; }
+  ul.menus li:first-child { border-top:0; }
+  .badge { display:inline-block; font-size:.72rem; font-weight:700; padding:1px 7px; border-radius:999px; color:#fff; vertical-align:1px; }
+  .badge.ubereats { background:var(--uber); color:#062b17; }
+  .badge.pedidosya { background:var(--pya); }
+  #errors { margin:12px 0 0; padding:10px 14px 10px 30px; border-radius:8px; background:var(--warn-soft); color:var(--warn); }
+  .result-head { display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center; gap:12px; margin-bottom:14px; }
+  .stats { display:flex; flex-wrap:wrap; gap:10px; margin-bottom:14px; }
+  .stat { background:var(--soft); border-radius:10px; padding:10px 16px; min-width:130px; }
+  .stat strong { display:block; font-size:1.5rem; line-height:1.2; font-variant-numeric:tabular-nums; }
+  .stat span { color:var(--muted); font-size:.85rem; }
+  .warn { background:var(--warn-soft); color:var(--warn); border-radius:8px; padding:10px 14px; margin-bottom:14px; }
+  #saveMsg { background:var(--ok-soft); color:var(--ok); border-radius:8px; padding:10px 14px; margin-bottom:14px; font-weight:600; }
+  details.rest { border:1px solid var(--line); border-radius:10px; margin-bottom:8px; background:var(--card); }
+  details.rest summary { cursor:pointer; padding:10px 14px; display:flex; flex-wrap:wrap; gap:4px 6px; align-items:baseline; list-style:none; }
+  details.rest summary::-webkit-details-marker { display:none; }
+  details.rest summary::before { content:'▸'; color:var(--muted); width:12px; }
+  details.rest[open] summary::before { content:'▾'; }
+  .count { margin-left:auto; font-weight:600; color:var(--ok); white-space:nowrap; }
+  .count.partial { color:var(--warn); }
+  .table-wrap { overflow-x:auto; border-top:1px solid var(--line); }
+  table { width:100%; border-collapse:collapse; font-size:.9rem; }
+  th, td { text-align:left; padding:6px 14px; border-bottom:1px solid var(--line); vertical-align:top; }
+  th { font-size:.78rem; text-transform:uppercase; letter-spacing:.03em; color:var(--muted); font-weight:600; }
+  tr:last-child td { border-bottom:0; }
+  .num { text-align:right; font-variant-numeric:tabular-nums; white-space:nowrap; }
+  tr.miss td { color:var(--miss); }
+  tr.miss td .muted { color:var(--muted); }
+  .approx { color:var(--warn); font-size:.85em; }
+  .pad { padding:10px 14px; margin:0; }
+  .help { margin-top:28px; color:var(--muted); font-size:.92rem; }
+  .help summary { cursor:pointer; font-weight:600; color:var(--fg); }
+  .help li { margin-bottom:6px; }
+  code { background:var(--soft); border-radius:5px; padding:1px 5px; font-size:.9em; }
+  .drop-hint { display:none; position:fixed; inset:12px; border:3px dashed var(--uber); border-radius:16px;
+               background:color-mix(in srgb, var(--bg) 85%, transparent); z-index:10; place-items:center;
+               font-size:1.3rem; font-weight:700; pointer-events:none; }
+  body.dragging .drop-hint { display:grid; }
+</style>
+</head>
+<body>
+<div class="drop-hint">Suelta aquí la planilla (.csv) y los menús (.json)</div>
+<main>
+  <h1>Actualizar precios</h1>
+  <p class="sub">Llena los precios de Uber Eats y PedidosYa en la planilla con los menús guardados con los botones.
+    Solo se llenan celdas vacías; todo lo demás queda igual.</p>
+
+  <div class="steps">
+    <section class="card" id="step1">
+      <h2><span class="n">1</span> Planilla</h2>
+      <p class="muted">El archivo <code>Planilla-Cacho - Sheet2 - precios.csv</code>.</p>
+      <div class="row">
+        <button class="primary" id="pickCsv">Abrir planilla (.csv)</button>
+      </div>
+      <input type="file" id="csvInput" accept=".csv" hidden>
+      <div id="sheetInfo"></div>
+    </section>
+
+    <section class="card" id="step2">
+      <h2><span class="n">2</span> Menús guardados</h2>
+      <p class="muted">Los archivos <code>ubereats_….json</code> y <code>pedidosya_….json</code> de Descargas.</p>
+      <div class="row">
+        <button class="primary" id="pickFolder">Elegir carpeta Descargas</button>
+        <button id="pickMenus">Elegir archivos</button>
+        <button class="link" id="clearMenus">Quitar todos</button>
+      </div>
+      <input type="file" id="menuInput" accept=".json" multiple hidden>
+      <ul class="menus" id="menuList"></ul>
+    </section>
+  </div>
+  <ul id="errors" hidden></ul>
+
+  <section class="card" id="step3">
+    <div class="result-head">
+      <h2><span class="n">3</span> Revisar y guardar</h2>
+      <div class="row">
+        <button class="primary" id="saveBtn" disabled>Guardar en la planilla</button>
+        <button id="downloadBtn" disabled>Descargar copia</button>
+      </div>
+    </div>
+    <div id="saveMsg" hidden></div>
+    <div id="result"></div>
+  </section>
+
+  <details class="help">
+    <summary>Cómo funciona</summary>
+    <ol>
+      <li>Guarda los menús con los botones <b>📥 Guardar menú Uber Eats</b> y <b>📥 Guardar menú PedidosYa</b>
+        (página <code>pedidosya-bookmarklet.html</code>). Quedan en Descargas.</li>
+      <li>Abre esta página en Chrome o Edge (doble clic). No necesita instalar nada ni internet.</li>
+      <li>Abre la planilla y elige la carpeta Descargas (o arrastra los archivos a esta ventana).</li>
+      <li>Revisa la lista: cada plato de la planilla con el producto del menú que se usó.
+        Los marcados con ≈ son coincidencias aproximadas; los rojos no se encontraron y quedan vacíos.</li>
+      <li><b>Guardar en la planilla</b> escribe en el mismo archivo (Chrome/Edge piden permiso la primera vez).
+        Si no aparece, usa <b>Descargar copia</b> y reemplaza el archivo.</li>
+    </ol>
+    <p>Columnas: Uber Eats en O/P, PedidosYa en R/S. Offer es <code>$0</code> cuando no hay descuento.
+      Rappi (U/V) se actualiza desde el otro computador.
+      Un menú se asigna al restaurante por el nombre del local; si no calza, aparece en “Menús sin restaurante”.</p>
+  </details>
+</main>
+<script>
+const __defs = {}, __cache = {};
+function require(n) {
+  const k = './' + n.split('/').pop().replace(/\.js$/, '');
+  if (!__cache[k]) { const m = { exports: {} }; __cache[k] = m; __defs[k](m, m.exports, require); }
+  return __cache[k].exports;
+}
+__defs['./csv'] = function (module, exports, require) {
+'use strict';
+// Minimal RFC4180 CSV parser/serializer that round-trips the original file
+// byte-for-byte (we verify this before writing anything).
+
+function parse(text, delim = ',') {
+  const rows = [];
+  let row = [], field = '', i = 0, inQ = false;
+  while (i < text.length) {
+    const c = text[i];
+    if (inQ) {
+      if (c === '"') {
+        if (text[i + 1] === '"') { field += '"'; i += 2; continue; }
+        inQ = false; i++; continue;
+      }
+      field += c; i++; continue;
+    }
+    if (c === '"') { inQ = true; i++; continue; }
+    if (c === delim) { row.push(field); field = ''; i++; continue; }
+    if (c === '\r' && text[i + 1] === '\n') { row.push(field); rows.push(row); row = []; field = ''; i += 2; continue; }
+    if (c === '\n') { row.push(field); rows.push(row); row = []; field = ''; i++; continue; }
+    field += c; i++;
+  }
+  const trailingNewline = /\r?\n$/.test(text);
+  if (!trailingNewline || field !== '' || row.length) { row.push(field); rows.push(row); }
+  const eol = text.includes('\r\n') ? '\r\n' : '\n';
+  return { rows, eol, trailingNewline, delim };
+}
+
+function quote(f, delim = ',') {
+  return /["\r\n]/.test(f) || f.includes(delim) ? '"' + f.replace(/"/g, '""') + '"' : f;
+}
+
+function serialize({ rows, eol, trailingNewline, delim = ',' }) {
+  return rows.map(r => r.map(f => quote(f, delim)).join(delim)).join(eol) + (trailingNewline ? eol : '');
+}
+
+module.exports = { parse, serialize };
+
+};
+__defs['./match'] = function (module, exports, require) {
+'use strict';
+// Dish / restaurant name fuzzy matching (no dependencies).
+
+function norm(s) {
+  return String(s || '')
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/®|™/g, '')
+    .replace(/[´`'’]/g, '')
+    .replace(/@/g, 'o')
+    .replace(/(\d)[.,](\d)/g, '$1$2')          // 1,5 / 1.5 -> 15
+    .replace(/(\d)([a-z])/g, '$1 $2')           // 6pack -> 6 pack, 15l -> 15 l
+    .replace(/([a-z])(\d)/g, '$1 $2')
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim();
+}
+
+function lev(a, b) {
+  if (a === b) return 0;
+  const m = a.length, n = b.length;
+  if (!m) return n; if (!n) return m;
+  let prev = Array.from({ length: n + 1 }, (_, j) => j);
+  for (let i = 1; i <= m; i++) {
+    const cur = [i];
+    for (let j = 1; j <= n; j++) {
+      cur[j] = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1));
+    }
+    prev = cur;
+  }
+  return prev[n];
+}
+
+function ratio(a, b) {
+  if (!a.length && !b.length) return 100;
+  return 100 * (1 - lev(a, b) / Math.max(a.length, b.length));
+}
+
+// Extra words allowed when one name is contained in the other
+// ("Super Pepperoni" vs "Pizza Super Pepperoni"). Anything else extra
+// (papas, bebida, zero, familiar, grande, combo...) means a different product.
+const FILLER = new Set(('de del la el los las y con en a al pizza pizzas off promo wok milanesa burger hamburguesa ' +
+  'sandwich sushi roll rolls clasico clasica plato').split(' '));
+const nums = s => s.split(' ').filter(t => /^\d+$/.test(t)).sort().join(' ');
+
+// Score 0..100. Exact normalized match = 100. Token-sort ratio is the base;
+// a subset match ("Clásica" vs "Mila Clásica") gets credit but is penalised
+// by how many extra words the longer name has, so generic names don't win.
+function score(a, b) {
+  const na = norm(a), nb = norm(b);
+  if (!na || !nb) return 0;
+  if (na === nb) return 100;
+  if (nums(na) !== nums(nb)) return 0;   // sizes / quantities / combo numbers must agree
+  const ta = [...new Set(na.split(' '))].sort(), tb = [...new Set(nb.split(' '))].sort();
+  const sortRatio = ratio(ta.join(' '), tb.join(' '));
+  const sa = new Set(ta), sb = new Set(tb);
+  const inter = ta.filter(t => sb.has(t));
+  let subset = 0;
+  const shorter = Math.min(ta.length, tb.length), longer = Math.max(ta.length, tb.length);
+  if (inter.length && inter.length === shorter) {
+    const extra = (ta.length > tb.length ? ta : tb).filter(t => !inter.includes(t));
+    if (extra.every(t => FILLER.has(t))) subset = 97 - 6 * extra.length;
+  }
+  return Math.max(sortRatio, subset, ratio(na, nb));
+}
+
+// Returns { item, score } for the best menu item, or null.
+function best(name, items, key = i => i.name) {
+  let top = null;
+  for (const it of items) {
+    const s = score(name, key(it));
+    if (!top || s > top.score || (s === top.score && it.available && !top.item.available)) top = { item: it, score: s };
+  }
+  return top;
+}
+
+module.exports = { norm, score, best };
+
+};
+__defs['./search'] = function (module, exports, require) {
+'use strict';
+// Search term for each restaurant slug in column A (used to find its store on
+// each platform and to match saved menus to it).
+
+// Search terms for the internal restaurant slugs in column A.
+const SEARCH_TERMS = {
+  '7 cortes_milsabores': '7 cortes', 'Carls_Jr_CL': "carl's jr", 'China Wok_Grupo Degasa': 'china wok',
+  'Club del Poke - La Florida III': 'club del poke', 'Doggis_Grupo G&N': 'doggis', 'DunkinDonuts_MS_CL': 'dunkin',
+  'Fork_CL': 'fork', 'Grido Mall Alto Pe�alolen': 'grido', 'Grido_RM': 'grido',
+  'Juan Maestro Centro Comercial Maipu': 'juan maestro', 'Juan Maestro Líder Vicuña Mackenna': 'juan maestro',
+  'Juan Maestro_Grupo G&N': 'juan maestro', 'LittleCaesarsCL': 'little caesars', 'Momofuku (Ultimate Parent)': 'momofuku',
+  'momofuku (ultimate parent)': 'momofuku', 'Más Que Empanada (Viña del Mar)': 'mas que empanada',
+  'Streat Burger_DD_CL': 'streat burger', 'SushiBlues_Grupo Food Hall': 'sushi blues', 'Tarragona': 'tarragona',
+  'alsea_pfchangs': "p.f. chang's", 'atomic_clubdelgohan': 'club del gohan', 'atomic_clubdelpoke': 'club del poke',
+  'atomic_itacate': 'itacate', 'atomic_mrtaste': 'mr taste', 'atomic_poked': 'poked', 'atomic_vittore': 'vittore',
+  'atomic_wingit': 'wing it', 'barriochicken_cl': 'barrio chicken', 'buffalo_waffles': 'buffalo waffles',
+  'buffetexpress_cl': 'buffet express', 'chicken_factory': 'chicken factory', 'chilis_alsea': "chili's",
+  'doggis_heladeria_g&n': 'doggis heladeria', 'domino_cl': "domino's pizza", 'elcaferosa': 'el cafe rosa',
+  'elementalcl': 'elemental', 'fuente_chilena': 'fuente chilena', 'idilico_cl': 'idilico', 'jimmyjohns_cl': "jimmy john's",
+  'johnnyrocketschile': 'johnny rockets', 'just_burger_cl': 'just burger', 'kairos': 'kairos', 'la ermita': 'la ermita',
+  'lovdo_g&n_cl': 'lovdo', 'mamut_chile': 'mamut', 'mariberico': 'mariberico', 'melt_pizzas': 'melt pizzas',
+  'mesondelmarinero_milsabores': 'meson del marinero', 'milas_cl': 'milas', 'milsabores_barrachalaca': 'barra chalaca',
+  'milsabores_bodegondelima': 'el bodegon', 'milsabores_dulceluna': 'dulce luna', 'milsabores_ekeko': 'ekeko',
+  'milsabores_eljapones': 'el japones', 'milsabores_enriquetomas': 'enrique tomas', 'milsabores_fuente': 'fuente mardoqueo',
+  'milsabores_havanna': 'havanna', 'milsabores_jalisco': 'jalisco', 'milsabores_la_argentina': 'la argentina',
+  'milsabores_lady': 'lady focaccia', 'milsabores_lapiazza': 'la piazza', 'milsabores_lasanguchera': 'la sanguchera',
+  'milsabores_mammamia': 'mamma mia', 'milsabores_mila': 'mila', 'milsabores_muusteak': 'muu steak',
+  'milsabores_takeawok': 'take a wok', 'milsabores_tanta': 'tanta', 'noahs_ cl': "noah's", 'papajohns_ch': "papa john's",
+  'pizzapizza_cl': 'pizza pizza', 'pollostop_ch': 'pollo stop', 'roof_burger_cl': 'roof burger', 'sbarro_pronto': 'sbarro',
+  'sin_miedo_burgers': 'sin miedo', 'streat_icecream': 'streat', 'tommy beans_chile': 'tommy beans', 'udon_parent_tbd': 'udon',
+  'underpizza_cl': 'under pizza', 'wendyscl': "wendy's", 'wevo_burger': 'wevo',
+};
+
+function defaultSearch(name) {
+  if (SEARCH_TERMS[name]) return SEARCH_TERMS[name];
+  return name.replace(/\(.*?\)/g, ' ').replace(/^(milsabores|atomic|alsea)_/i, '').replace(/_(cl|ch|chile|rm|g&n|grupo.*)$/i, '')
+    .replace(/[_-]+/g, ' ').trim().toLowerCase();
+}
+
+module.exports = { SEARCH_TERMS, defaultSearch };
+
+};
+__defs['./fill'] = function (module, exports, require) {
+'use strict';
+// Matching + filling shared by run.js (Node) and actualizar-precios.html (browser).
+// No Node APIs here: it must run unchanged in the browser.
+
+const match = require('./match');
+
+const COL = { name: 0, dish: 5 };
+// 0-based columns of each platform in the sheet (O/P/Q, R/S/T, U/V/W).
+const COLUMNS = {
+  ubereats: { full: 14, offer: 15, url: 16, label: 'Uber Eats', header: 'Uber' },
+  pedidosya: { full: 17, offer: 18, url: 19, label: 'PedidosYa', header: 'PedidosYa' },
+  rappi: { full: 20, offer: 21, url: 22, label: 'Rappi', header: 'Rappi' },
+};
+const THRESHOLD = 85;
+
+const blank = v => !String(v || '').trim();
+const money = n => '$' + Math.round(n).toLocaleString('en-US');
+const baseName = f => String(f).split(/[\\/]/).pop();
+
+// Bookmarklet JSON ("Guardar menú PedidosYa / Uber Eats") -> menu, or null.
+const SOURCES = { 'pedidosya-bookmarklet': 'pedidosya', 'ubereats-bookmarklet': 'ubereats' };
+function menuFromJson(d, file) {
+  const platform = SOURCES[d?.source];
+  if (!platform || !Array.isArray(d.items)) return null;
+  const items = d.items
+    .filter(i => i && typeof i.name === 'string' && Number(i.full) > 0)
+    .map(i => ({ name: i.name, full: Number(i.full), offer: Number(i.offer) > 0 && Number(i.offer) < Number(i.full) ? Number(i.offer) : 0, available: true, corridor: String(i.section || '') }));
+  return { platform, id: file, name: String(d.store || baseName(file)), url: String(d.url || file), items, discountsSeen: Number(d.discounts) || 0, savedAt: d.savedAt };
+}
+
+// "Streat Burger (Parque Arauco)" / "Barra Chalaca - Costanera" -> brand part
+const brand = name => String(name).split(/ - | \(/)[0];
+const strictMatch = (search, menu) => match.score(search, brand(menu.name)) >= 85;
+
+// Saved menus (of one platform) that belong to restaurant `name`.
+// stores: { <col A name>: { search, <platform>_files: [paths] } }
+function selectMenus(menus, name, stores, platform) {
+  const cfg = stores[name];
+  const pinned = (cfg[`${platform}_files`] || []).map(baseName);
+  if (pinned.length) return menus.filter(m => pinned.includes(baseName(m.id)));
+  const strict = menus.filter(m => strictMatch(cfg.search, m));
+  if (strict.length) return strict;
+  // fallback: store name starts with the search words ("Tarragona Mall Plaza Alameda"),
+  // unless that menu clearly belongs to another restaurant ("streat" vs "Streat Burger ...")
+  const q = match.norm(cfg.search);
+  return menus.filter(m => (match.norm(m.name) + ' ').startsWith(q + ' ') &&
+    !Object.entries(stores).some(([n, c]) => n !== name && c.search !== cfg.search && strictMatch(c.search, m)));
+}
+
+// Fill the empty `platform` price cells of `rows` ([{r: row array, i: row index}])
+// from `menus`. Mutates the rows. Returns one result per row that needed a price:
+// { x, hit: {item, score, store} | null, best: {item, score, store} | null }
+function fillRows(rows, menus, platform) {
+  const P = COLUMNS[platform];
+  const todo = rows.filter(x => blank(x.r[P.full]));
+  if (!todo.length || !menus.length) return todo.map(x => ({ x, hit: null, best: null }));
+  // Prefer the store whose menu covers most dishes; fall back to the others per dish.
+  const cover = m => todo.filter(x => (match.best(x.r[COL.dish], m.items)?.score || 0) >= THRESHOLD).length;
+  menus = [...menus].sort((a, b) => cover(b) - cover(a));
+  return todo.map(x => {
+    let hit = null, best = null;
+    for (const m of menus) {
+      const b = match.best(x.r[COL.dish], m.items);
+      if (b && (!best || b.score > best.score)) best = { ...b, store: m };
+      if (b && b.score >= THRESHOLD) { hit = { ...b, store: m }; break; }
+    }
+    if (hit) {
+      x.r[P.full] = money(hit.item.full);
+      if (blank(x.r[P.offer])) x.r[P.offer] = money(hit.item.offer);
+    }
+    return { x, hit, best };
+  });
+}
+
+// Throws unless the only differences are price cells that were empty in `orig`.
+function checkOnlyBlankPricesChanged(origRows, rows) {
+  const allowed = new Set(Object.values(COLUMNS).flatMap(p => [p.full, p.offer]));
+  if (origRows.length !== rows.length) throw new Error('row count changed');
+  rows.forEach((row, i) => row.forEach((v, j) => {
+    const o = origRows[i][j];
+    if (v !== o && !(allowed.has(j) && blank(o))) throw new Error(`refusing to change cell row ${i + 1} col ${j + 1}`);
+  }));
+}
+
+// Data rows: from the 3rd line on, with restaurant and dish.
+const dataRows = sheetRows => sheetRows.map((r, i) => ({ r, i })).filter(({ r, i }) => i >= 2 && !blank(r[COL.name]) && !blank(r[COL.dish]));
+
+module.exports = { COL, COLUMNS, THRESHOLD, blank, money, menuFromJson, selectMenus, fillRows, checkOnlyBlankPricesChanged, dataRows, brand };
+
+};
+const STORES = {"milsabores_barrachalaca":{"search":"barra chalaca"},"barriochicken_cl":{"search":"barrio chicken"},"buffalo_waffles":{"search":"buffalo waffles"},"milas_cl":{"search":"milas"},"buffetexpress_cl":{"search":"buffet express"},"Carls_Jr_CL":{"search":"carl's jr"},"chicken_factory":{"search":"chicken factory"},"chilis_alsea":{"search":"chili's"},"China Wok_Grupo Degasa":{"search":"china wok"},"atomic_clubdelgohan":{"search":"club del gohan"},"atomic_clubdelpoke":{"search":"club del poke"},"Club del Poke - La Florida III":{"search":"club del poke"},"Doggis_Grupo G&N":{"search":"doggis"},"Juan Maestro_Grupo G&N":{"search":"juan maestro"},"doggis_heladeria_g&n":{"search":"doggis heladeria"},"domino_cl":{"search":"domino's pizza"},"milsabores_dulceluna":{"search":"dulce luna"},"DunkinDonuts_MS_CL":{"search":"dunkin"},"milsabores_bodegondelima":{"search":"el bodegon"},"elcaferosa":{"search":"el cafe rosa"},"roof_burger_cl":{"search":"roof burger"},"milsabores_eljapones":{"search":"el japones"},"milsabores_enriquetomas":{"search":"enrique tomas"},"milsabores_lady":{"search":"lady focaccia"},"fuente_chilena":{"search":"fuente chilena"},"Fork_CL":{"search":"fork"},"Momofuku (Ultimate Parent)":{"search":"momofuku"},"momofuku (ultimate parent)":{"search":"momofuku"},"Grido Mall Alto Pe�alolen":{"search":"grido"},"Grido_RM":{"search":"grido"},"7 cortes_milsabores":{"search":"7 cortes"},"mesondelmarinero_milsabores":{"search":"meson del marinero"},"milsabores_ekeko":{"search":"ekeko"},"milsabores_fuente":{"search":"fuente mardoqueo"},"milsabores_lapiazza":{"search":"la piazza"},"milsabores_havanna":{"search":"havanna"},"Más Que Empanada (Viña del Mar)":{"search":"mas que empanada"},"idilico_cl":{"search":"idilico"},"atomic_itacate":{"search":"itacate"},"milsabores_jalisco":{"search":"jalisco"},"jimmyjohns_cl":{"search":"jimmy john's"},"johnnyrocketschile":{"search":"johnny rockets"},"Juan Maestro Centro Comercial Maipu":{"search":"juan maestro"},"Juan Maestro Líder Vicuña Mackenna":{"search":"juan maestro"},"just_burger_cl":{"search":"just burger"},"sin_miedo_burgers":{"search":"sin miedo"},"kairos":{"search":"kairos"},"krispykreme_cl":{"search":"krispykreme"},"milsabores_la_argentina":{"search":"la argentina"},"la ermita":{"search":"la ermita"},"milsabores_lasanguchera":{"search":"la sanguchera"},"LittleCaesarsCL":{"search":"little caesars"},"lovdo_g&n_cl":{"search":"lovdo"},"milsabores_mammamia":{"search":"mamma mia"},"mamut_chile":{"search":"mamut"},"mariberico":{"search":"mariberico"},"melt_pizzas":{"search":"melt pizzas"},"milsabores_mila":{"search":"mila"},"atomic_mrtaste":{"search":"mr taste"},"milsabores_muusteak":{"search":"muu steak"},"noahs_ cl":{"search":"noah's"},"alsea_pfchangs":{"search":"p.f. chang's"},"papajohns_ch":{"search":"papa john's"},"pizzapizza_cl":{"search":"pizza pizza"},"atomic_poked":{"search":"poked"},"sbarro_pronto":{"search":"sbarro"},"Streat Burger_DD_CL":{"search":"streat burger"},"streat_icecream":{"search":"streat"},"SushiBlues_Grupo Food Hall":{"search":"sushi blues"},"milsabores_takeawok":{"search":"take a wok"},"milsabores_tanta":{"search":"tanta"},"Tarragona":{"search":"tarragona"},"elementalcl":{"search":"elemental"},"pollostop_ch":{"search":"pollo stop"},"tommy beans_chile":{"search":"tommy beans"},"udon_parent_tbd":{"search":"udon"},"underpizza_cl":{"search":"under pizza"},"atomic_vittore":{"search":"vittore"},"wendyscl":{"search":"wendy's"},"wevo_burger":{"search":"wevo"},"atomic_wingit":{"search":"wing it"}};
+</script>
+<script>
+// actualizar-precios.html: browser app (readable source).
+// build.js inlines this together with lib/csv.js, lib/match.js, lib/search.js,
+// lib/fill.js and the restaurant search terms from stores.json.
+//
+// Everything happens on this computer: the page reads the CSV and the saved
+// menu files you give it, and writes the CSV back (or downloads a copy).
+// It makes no network requests.
+/* global STORES, require */
+(() => {
+  'use strict';
+  const csv = require('./csv');
+  const fill = require('./fill');
+  const { defaultSearch } = require('./search');
+  const PLATFORMS = ['ubereats', 'pedidosya'];
+  const $ = s => document.querySelector(s);
+  const el = (tag, attrs = {}, ...kids) => {
+    const e = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (k === 'class') e.className = v; else if (k.startsWith('on')) e.addEventListener(k.slice(2), v); else e.setAttribute(k, v);
+    }
+    for (const k of kids.flat()) if (k != null && k !== false) e.append(k.nodeType ? k : String(k));
+    return e;
+  };
+  const canWrite = 'showOpenFilePicker' in window;
+
+  const state = {
+    sheet: null,     // { fileName, handle, lastModified, enc, bom, text, parsed }
+    menus: new Map(),// key -> menu (one per platform + store + url, newest kept)
+    errors: [],      // files that could not be read
+    result: null,    // { rows, report, unused, filled }
+    savedMsg: '',
+  };
+
+  // ---------------------------------------------------------------- files
+  const W1252 = (() => { // char -> byte for Windows-1252 (what Excel uses for CSV on Spanish Windows)
+    const dec = new TextDecoder('windows-1252'), map = new Map();
+    for (let b = 0; b < 256; b++) map.set(dec.decode(new Uint8Array([b])), b);
+    return map;
+  })();
+  function decodeBytes(buf) {
+    let bytes = new Uint8Array(buf), bom = false;
+    if (bytes[0] === 0xEF && bytes[1] === 0xBB && bytes[2] === 0xBF) { bom = true; bytes = bytes.subarray(3); }
+    try { return { text: new TextDecoder('utf-8', { fatal: true }).decode(bytes), enc: 'utf-8', bom }; }
+    catch { return { text: new TextDecoder('windows-1252').decode(bytes), enc: 'windows-1252', bom: false }; }
+  }
+  function encodeText(text, enc, bom) {
+    if (enc === 'windows-1252') return Uint8Array.from([...text], ch => W1252.get(ch) ?? 0x3F);
+    const body = new TextEncoder().encode(text);
+    if (!bom) return body;
+    const out = new Uint8Array(body.length + 3);
+    out.set([0xEF, 0xBB, 0xBF]); out.set(body, 3);
+    return out;
+  }
+  function detectDelim(text) {
+    const head = text.split(/\r?\n/).slice(0, 2).join('\n');
+    return (head.match(/;/g) || []).length > (head.match(/,/g) || []).length ? ';' : ',';
+  }
+
+  async function loadCsv(file, handle) {
+    const { text, enc, bom } = decodeBytes(await file.arrayBuffer());
+    const parsed = csv.parse(text, detectDelim(text));
+    if (csv.serialize(parsed) !== text) throw new Error('El archivo CSV tiene un formato que no puedo reescribir sin cambiarlo.');
+    const h0 = parsed.rows[0] || [];
+    const bad = Object.values(fill.COLUMNS).filter(c => !String(h0[c.full] || '').includes(c.header));
+    if (bad.length || parsed.rows.length < 3) {
+      throw new Error('Las columnas no coinciden con la planilla (esperaba Uber en O, PedidosYa en R y Rappi en U, con los títulos en las filas 1 y 2).');
+    }
+    state.sheet = { fileName: file.name, handle: handle || null, lastModified: file.lastModified, enc, bom, text, parsed };
+    state.savedMsg = '';
+  }
+
+  async function loadMenu(file) {
+    let d;
+    try { d = JSON.parse(await file.text()); } catch { state.errors.push(`${file.name}: no es un archivo JSON válido`); return; }
+    const m = fill.menuFromJson(d, file.name);
+    if (!m) { state.errors.push(`${file.name}: no es un menú guardado con los botones`); return; }
+    if (!m.items.length) { state.errors.push(`${file.name}: el menú no tiene productos`); return; }
+    const key = [m.platform, m.name, m.url].join('|');
+    const prev = state.menus.get(key);
+    if (!prev || String(m.savedAt || '') >= String(prev.savedAt || '')) state.menus.set(key, m);
+  }
+
+  async function addFiles(files) {
+    state.errors = [];
+    const list = [...files];
+    for (const { file, handle } of list) {
+      try {
+        if (/\.csv$/i.test(file.name)) await loadCsv(file, handle);
+        else if (/\.json$/i.test(file.name)) await loadMenu(file);
+        else state.errors.push(`${file.name}: no es un CSV ni un menú (.json)`);
+      } catch (e) { state.errors.push(`${file.name}: ${e.message}`); }
+    }
+    try { compute(); } catch (e) { state.result = null; state.errors.push('Error al calcular: ' + e.message); }
+    render();
+  }
+
+  // ------------------------------------------------------------- compute
+  function compute() {
+    state.result = null;
+    if (!state.sheet) return;
+    const orig = state.sheet.parsed.rows;
+    const rows = orig.map(r => [...r]);
+    const data = fill.dataRows(rows);
+    const byRest = new Map();
+    for (const x of data) {
+      const n = x.r[fill.COL.name];
+      if (!byRest.has(n)) byRest.set(n, []);
+      byRest.get(n).push(x);
+    }
+    const stores = {};
+    for (const n of byRest.keys()) stores[n] = { ...(STORES[n] || {}), search: STORES[n]?.search || defaultSearch(n) };
+    const menus = [...state.menus.values()];
+    const used = new Set();
+    const report = [];
+    for (const [name, rs] of byRest) {
+      for (const p of PLATFORMS) {
+        const mine = fill.selectMenus(menus.filter(m => m.platform === p), name, stores, p);
+        if (!mine.length) continue;
+        mine.forEach(m => used.add(m));
+        const results = fill.fillRows(rs, mine, p);
+        report.push({ name, platform: p, menus: mine, results, total: rs.length });
+      }
+    }
+    fill.checkOnlyBlankPricesChanged(orig, rows);
+    const filled = report.reduce((a, x) => a + x.results.filter(y => y.hit).length, 0);
+    state.result = { rows, report, unused: menus.filter(m => !used.has(m)), filled };
+  }
+
+  // ---------------------------------------------------------------- save
+  function outputBytes() {
+    const s = state.sheet;
+    return encodeText(csv.serialize({ ...s.parsed, rows: state.result.rows }), s.enc, s.bom);
+  }
+
+  async function afterSave(text, lastModified) {
+    const s = state.sheet;
+    s.text = text; s.lastModified = lastModified;
+    s.parsed = csv.parse(text, s.parsed.delim);
+    compute();
+  }
+
+  async function saveInPlace() {
+    const s = state.sheet;
+    try {
+      if ((await s.handle.queryPermission({ mode: 'readwrite' })) !== 'granted' &&
+          (await s.handle.requestPermission({ mode: 'readwrite' })) !== 'granted') {
+        alert('Sin permiso para modificar el archivo. Usa "Descargar copia".');
+        return;
+      }
+      const current = await s.handle.getFile();
+      if (current.lastModified !== s.lastModified &&
+          !confirm('El archivo cambió desde que lo abriste (¿lo editaste en Excel?).\n\nSi guardas, esos cambios se pierden. ¿Guardar igual?')) return;
+      const filled = state.result.filled;
+      const bytes = outputBytes();
+      const w = await s.handle.createWritable();
+      await w.write(bytes);
+      await w.close();
+      const text = csv.serialize({ ...s.parsed, rows: state.result.rows });
+      await afterSave(text, (await s.handle.getFile()).lastModified);
+      state.savedMsg = `✔ Guardado en ${s.fileName}: ${filled} precio${filled === 1 ? '' : 's'} nuevo${filled === 1 ? '' : 's'}.`;
+    } catch (e) {
+      alert('No se pudo guardar: ' + e.message + '\n\nUsa "Descargar copia".');
+    }
+    render();
+  }
+
+  function download() {
+    const a = el('a', { href: URL.createObjectURL(new Blob([outputBytes()], { type: 'text/csv' })), download: state.sheet.fileName });
+    document.body.append(a); a.click(); a.remove();
+    state.savedMsg = `✔ Descargado: ${state.sheet.fileName} (en Descargas). Reemplaza tu planilla con ese archivo.`;
+    render();
+  }
+
+  // -------------------------------------------------------------- pickers
+  async function pickCsv() {
+    if (canWrite) {
+      try {
+        const [handle] = await window.showOpenFilePicker({ id: 'planilla', types: [{ description: 'Planilla CSV', accept: { 'text/csv': ['.csv'] } }] });
+        await addFiles([{ file: await handle.getFile(), handle }]);
+      } catch (e) { if (e.name !== 'AbortError') alert(e.message); }
+    } else $('#csvInput').click();
+  }
+  async function pickFolder() {
+    try {
+      const dir = await window.showDirectoryPicker({ id: 'menus', startIn: 'downloads' });
+      const files = [];
+      for await (const [name, h] of dir.entries()) {
+        if (h.kind === 'file' && /^(pedidosya|ubereats)_.*\.json$/i.test(name)) files.push({ file: await h.getFile() });
+      }
+      if (!files.length) { state.errors = ['Esa carpeta no tiene archivos pedidosya_*.json ni ubereats_*.json']; render(); return; }
+      await addFiles(files);
+    } catch (e) { if (e.name !== 'AbortError') alert(e.message); }
+  }
+
+  // --------------------------------------------------------------- render
+  const fmtDate = s => { const d = new Date(s); return isNaN(d) ? '' : d.toLocaleString('es-CL', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }); };
+  const badge = p => el('span', { class: 'badge ' + p }, fill.COLUMNS[p].label);
+
+  function render() {
+    // 1) planilla
+    const s = state.sheet;
+    $('#sheetInfo').replaceChildren(s
+      ? el('span', {}, el('b', {}, s.fileName), ` · ${fill.dataRows(s.parsed.rows).length} platos`,
+        s.handle ? '' : el('span', { class: 'muted' }, ' · se descargará una copia al guardar'))
+      : el('span', { class: 'muted' }, 'Ninguna planilla abierta'));
+    $('#step1').classList.toggle('done', !!s);
+
+    // 2) menus
+    const menus = [...state.menus.values()].sort((a, b) => a.platform.localeCompare(b.platform) || a.name.localeCompare(b.name));
+    $('#menuList').replaceChildren(...(menus.length ? menus.map(m => el('li', {},
+      badge(m.platform), ' ', el('b', {}, m.name), el('span', { class: 'muted' },
+        ` · ${m.items.length} productos${m.discountsSeen ? ` · ${m.discountsSeen} con descuento` : ''}${m.savedAt ? ` · guardado ${fmtDate(m.savedAt)}` : ''}`)))
+      : [el('li', { class: 'muted' }, 'Ningún menú cargado')]));
+    $('#step2').classList.toggle('done', menus.length > 0);
+    $('#errors').replaceChildren(...state.errors.map(e => el('li', {}, e)));
+    $('#errors').hidden = !state.errors.length;
+
+    // 3) result
+    const r = state.result;
+    const out = $('#result');
+    $('#saveMsg').textContent = state.savedMsg;
+    $('#saveMsg').hidden = !state.savedMsg;
+    if (!r || !menus.length) {
+      out.replaceChildren(el('p', { class: 'muted' }, !s ? 'Abre la planilla y agrega menús para ver qué precios se van a llenar.' : 'Agrega menús guardados con los botones.'));
+      $('#saveBtn').disabled = $('#downloadBtn').disabled = true;
+      return;
+    }
+    const filled = r.filled;
+    const notFound = r.report.reduce((a, x) => a + x.results.filter(y => !y.hit).length, 0);
+    const blocks = [];
+    blocks.push(el('div', { class: 'stats' },
+      el('div', { class: 'stat' }, el('strong', {}, filled), el('span', {}, filled === 1 ? 'precio nuevo' : 'precios nuevos')),
+      el('div', { class: 'stat' }, el('strong', {}, notFound), el('span', {}, 'no encontrados')),
+      el('div', { class: 'stat' }, el('strong', {}, r.report.length), el('span', {}, 'restaurantes con menú'))));
+    if (r.unused.length) {
+      blocks.push(el('div', { class: 'warn' }, el('b', {}, 'Menús sin restaurante en la planilla: '),
+        r.unused.map(m => `${m.name} (${fill.COLUMNS[m.platform].label})`).join(', '),
+        '. El nombre del local no se parece a ningún restaurante de la columna A.'));
+    }
+    if (!r.report.length) blocks.push(el('p', { class: 'muted' }, 'Ningún menú corresponde a un restaurante de la planilla.'));
+    for (const x of r.report) {
+      const hits = x.results.filter(y => y.hit), miss = x.results.filter(y => !y.hit);
+      const P = fill.COLUMNS[x.platform];
+      const status = !x.results.length ? 'ya estaba completo' : `${hits.length} de ${x.results.length} llenados`;
+      const lines = x.results.map(({ x: row, hit, best }) => hit
+        ? el('tr', {}, el('td', { class: 'num' }, row.i + 1), el('td', {}, row.r[fill.COL.dish]),
+          el('td', {}, hit.item.name, hit.score < 100 ? el('span', { class: 'approx', title: 'Coincidencia aproximada' }, ` ≈ ${hit.score.toFixed(0)}%`) : ''),
+          el('td', { class: 'num' }, row.r[P.full]), el('td', { class: 'num' }, row.r[P.offer]))
+        : el('tr', { class: 'miss' }, el('td', { class: 'num' }, row.i + 1), el('td', {}, row.r[fill.COL.dish]),
+          el('td', { colspan: 3 }, 'No encontrado', best && best.score >= 50 ? el('span', { class: 'muted' }, ` · lo más parecido: “${best.item.name}” (${best.score.toFixed(0)}%)`) : '')));
+      blocks.push(el('details', { class: 'rest' + (miss.length ? ' has-miss' : '') },
+        el('summary', {}, badge(x.platform), ' ', el('b', {}, x.name), el('span', { class: 'muted' }, ` · ${x.menus.map(m => m.name).join(' / ')}`),
+          el('span', { class: 'count' + (miss.length ? ' partial' : '') }, status)),
+        x.results.length ? el('div', { class: 'table-wrap' }, el('table', {},
+          el('thead', {}, el('tr', {}, el('th', { class: 'num' }, 'Fila'), el('th', {}, 'Plato (planilla)'), el('th', {}, 'Producto en el menú'),
+            el('th', { class: 'num' }, 'Full'), el('th', { class: 'num' }, 'Offer'))),
+          el('tbody', {}, lines))) : el('p', { class: 'muted pad' }, 'Todos los platos ya tenían precio en esta plataforma.')));
+    }
+    out.replaceChildren(...blocks);
+    $('#saveBtn').disabled = !(filled > 0 && s.handle);
+    $('#saveBtn').hidden = !s.handle;
+    $('#downloadBtn').disabled = !(filled > 0);
+  }
+
+  // ---------------------------------------------------------------- wire
+  $('#pickCsv').addEventListener('click', pickCsv);
+  $('#csvInput').addEventListener('change', e => { addFiles([...e.target.files].map(file => ({ file }))); e.target.value = ''; });
+  $('#pickMenus').addEventListener('click', () => $('#menuInput').click());
+  $('#menuInput').addEventListener('change', e => { addFiles([...e.target.files].map(file => ({ file }))); e.target.value = ''; });
+  if ('showDirectoryPicker' in window) $('#pickFolder').addEventListener('click', pickFolder); else $('#pickFolder').hidden = true;
+  $('#saveBtn').addEventListener('click', saveInPlace);
+  $('#downloadBtn').addEventListener('click', download);
+  $('#clearMenus').addEventListener('click', () => { state.menus.clear(); state.errors = []; compute(); render(); });
+
+  let dragDepth = 0;
+  window.addEventListener('dragenter', e => { e.preventDefault(); dragDepth++; document.body.classList.add('dragging'); });
+  window.addEventListener('dragleave', () => { if (--dragDepth <= 0) { dragDepth = 0; document.body.classList.remove('dragging'); } });
+  window.addEventListener('dragover', e => e.preventDefault());
+  window.addEventListener('drop', async e => {
+    e.preventDefault(); dragDepth = 0; document.body.classList.remove('dragging');
+    // grab everything synchronously: the drop data is gone after the first await
+    const items = [...e.dataTransfer.items].filter(i => i.kind === 'file');
+    const plain = items.map(i => i.getAsFile());
+    const handles = items.map(i => (i.getAsFileSystemHandle ? i.getAsFileSystemHandle().catch(() => null) : null));
+    const files = await Promise.all(items.map(async (_, k) => {
+      const handle = await handles[k];
+      if (handle && handle.kind === 'file') return { file: await handle.getFile(), handle };
+      return plain[k] && { file: plain[k], handle: null };
+    }));
+    addFiles(files.filter(Boolean));
+  });
+
+  render();
+})();
+
+</script>
+</body>
+</html>
