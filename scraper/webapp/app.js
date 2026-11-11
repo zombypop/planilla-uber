@@ -180,15 +180,16 @@
       } catch (e) { if (e.name !== 'AbortError') alert(e.message); }
     } else $('#csvInput').click();
   }
-  async function pickFolder() {
+  // A file dialog that opens in Downloads (Ctrl+A, Open). Not a folder picker:
+  // Chrome/Edge refuse to let a page open the Downloads folder itself.
+  async function pickMenus() {
+    if (!canWrite) { $('#menuInput').click(); return; }
     try {
-      const dir = await window.showDirectoryPicker({ id: 'menus', startIn: 'downloads' });
-      const files = [];
-      for await (const [name, h] of dir.entries()) {
-        if (h.kind === 'file' && /^(pedidosya|ubereats)_.*\.json$/i.test(name)) files.push({ file: await h.getFile() });
-      }
-      if (!files.length) { state.errors = ['Esa carpeta no tiene archivos pedidosya_*.json ni ubereats_*.json']; render(); return; }
-      await addFiles(files);
+      const handles = await window.showOpenFilePicker({
+        id: 'menus', startIn: 'downloads', multiple: true,
+        types: [{ description: 'Menús guardados (.json)', accept: { 'application/json': ['.json'] } }],
+      });
+      await addFiles(await Promise.all(handles.map(async h => ({ file: await h.getFile() }))));
     } catch (e) { if (e.name !== 'AbortError') alert(e.message); }
   }
 
@@ -265,9 +266,8 @@
   // ---------------------------------------------------------------- wire
   $('#pickCsv').addEventListener('click', pickCsv);
   $('#csvInput').addEventListener('change', e => { addFiles([...e.target.files].map(file => ({ file }))); e.target.value = ''; });
-  $('#pickMenus').addEventListener('click', () => $('#menuInput').click());
+  $('#pickMenus').addEventListener('click', pickMenus);
   $('#menuInput').addEventListener('change', e => { addFiles([...e.target.files].map(file => ({ file }))); e.target.value = ''; });
-  if ('showDirectoryPicker' in window) $('#pickFolder').addEventListener('click', pickFolder); else $('#pickFolder').hidden = true;
   $('#saveBtn').addEventListener('click', saveInPlace);
   $('#downloadBtn').addEventListener('click', download);
   $('#clearMenus').addEventListener('click', () => { state.menus.clear(); state.errors = []; compute(); render(); });

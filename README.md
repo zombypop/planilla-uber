@@ -68,7 +68,7 @@ To update Uber Eats and PedidosYa prices on a PC without Node or this project, c
 
 1. Save menus with the bookmark buttons. The files go to Downloads.
 2. Double-click `actualizar-precios.html` (Chrome or Edge).
-3. Click **Abrir planilla** to pick the CSV, then **Elegir carpeta Descargas** (or drag the files onto the page).
+3. Click **Abrir planilla** to pick the CSV, then **Elegir menús**. It opens Downloads; select all with Ctrl+A and click Open (or drag the files onto the page).
 4. Review the matches, then click **Guardar en la planilla**. This writes into the same CSV; the browser asks for
    permission the first time. **Descargar copia** downloads the updated CSV instead.
 

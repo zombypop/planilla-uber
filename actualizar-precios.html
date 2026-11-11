@@ -30,6 +30,7 @@
        font-size:.8rem; font-weight:700; flex:none; }
   .done .n { background:var(--ok); color:#fff; }
   .card p { margin:10px 0 14px; }
+  .card p.hint { margin:10px 0 0; font-size:.88rem; }
   .row { display:flex; flex-wrap:wrap; gap:8px; align-items:center; }
   button { font:inherit; font-weight:600; border-radius:8px; padding:9px 16px; cursor:pointer;
            border:1px solid var(--line); background:var(--card); color:var(--fg); }
@@ -103,10 +104,10 @@
       <h2><span class="n">2</span> Menús guardados</h2>
       <p class="muted">Los archivos <code>ubereats_….json</code> y <code>pedidosya_….json</code> de Descargas.</p>
       <div class="row">
-        <button class="primary" id="pickFolder">Elegir carpeta Descargas</button>
-        <button id="pickMenus">Elegir archivos</button>
+        <button class="primary" id="pickMenus">Elegir menús</button>
         <button class="link" id="clearMenus">Quitar todos</button>
       </div>
+      <p class="muted hint">Se abre Descargas: selecciona todos con <b>Ctrl+A</b> y haz clic en <b>Abrir</b>.</p>
       <input type="file" id="menuInput" accept=".json" multiple hidden>
       <ul class="menus" id="menuList"></ul>
     </section>
@@ -131,7 +132,8 @@
       <li>Guarda los menús con los botones <b>📥 Guardar menú Uber Eats</b> y <b>📥 Guardar menú PedidosYa</b>
         (página <code>pedidosya-bookmarklet.html</code>). Quedan en Descargas.</li>
       <li>Abre esta página en Chrome o Edge (doble clic). No necesita instalar nada ni internet.</li>
-      <li>Abre la planilla y elige la carpeta Descargas (o arrastra los archivos a esta ventana).</li>
+      <li>Abre la planilla. Luego <b>Elegir menús</b>: se abre Descargas, selecciona todo con <b>Ctrl+A</b> y <b>Abrir</b>
+        (o arrastra los archivos a esta ventana).</li>
       <li>Revisa la lista: cada plato de la planilla con el producto del menú que se usó.
         Los marcados con ≈ son coincidencias aproximadas; los rojos no se encontraron y quedan vacíos.</li>
       <li><b>Guardar en la planilla</b> escribe en el mismo archivo (Chrome/Edge piden permiso la primera vez).
@@ -587,15 +589,16 @@ const STORES = {"milsabores_barrachalaca":{"search":"barra chalaca"},"barriochic
       } catch (e) { if (e.name !== 'AbortError') alert(e.message); }
     } else $('#csvInput').click();
   }
-  async function pickFolder() {
+  // A file dialog that opens in Downloads (Ctrl+A, Open). Not a folder picker:
+  // Chrome/Edge refuse to let a page open the Downloads folder itself.
+  async function pickMenus() {
+    if (!canWrite) { $('#menuInput').click(); return; }
     try {
-      const dir = await window.showDirectoryPicker({ id: 'menus', startIn: 'downloads' });
-      const files = [];
-      for await (const [name, h] of dir.entries()) {
-        if (h.kind === 'file' && /^(pedidosya|ubereats)_.*\.json$/i.test(name)) files.push({ file: await h.getFile() });
-      }
-      if (!files.length) { state.errors = ['Esa carpeta no tiene archivos pedidosya_*.json ni ubereats_*.json']; render(); return; }
-      await addFiles(files);
+      const handles = await window.showOpenFilePicker({
+        id: 'menus', startIn: 'downloads', multiple: true,
+        types: [{ description: 'Menús guardados (.json)', accept: { 'application/json': ['.json'] } }],
+      });
+      await addFiles(await Promise.all(handles.map(async h => ({ file: await h.getFile() }))));
     } catch (e) { if (e.name !== 'AbortError') alert(e.message); }
   }
 
@@ -672,9 +675,8 @@ const STORES = {"milsabores_barrachalaca":{"search":"barra chalaca"},"barriochic
   // ---------------------------------------------------------------- wire
   $('#pickCsv').addEventListener('click', pickCsv);
   $('#csvInput').addEventListener('change', e => { addFiles([...e.target.files].map(file => ({ file }))); e.target.value = ''; });
-  $('#pickMenus').addEventListener('click', () => $('#menuInput').click());
+  $('#pickMenus').addEventListener('click', pickMenus);
   $('#menuInput').addEventListener('change', e => { addFiles([...e.target.files].map(file => ({ file }))); e.target.value = ''; });
-  if ('showDirectoryPicker' in window) $('#pickFolder').addEventListener('click', pickFolder); else $('#pickFolder').hidden = true;
   $('#saveBtn').addEventListener('click', saveInPlace);
   $('#downloadBtn').addEventListener('click', download);
   $('#clearMenus').addEventListener('click', () => { state.menus.clear(); state.errors = []; compute(); render(); });
