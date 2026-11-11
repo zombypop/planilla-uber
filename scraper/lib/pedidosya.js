@@ -18,7 +18,7 @@ function findSavedPages(root, skip = []) {
       if (e.isDirectory()) {
         if (e.name === 'node_modules' || e.name.endsWith('_files') || skip.includes(p)) continue;
         walk(p);
-      } else if (/\.html?$/i.test(e.name) || /^pedidosya_.*\.json$/i.test(e.name)) {
+      } else if (/\.html?$/i.test(e.name) || /^(pedidosya|ubereats)_.*\.json$/i.test(e.name)) {
         out.push(p);
       }
     }

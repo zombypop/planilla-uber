@@ -5,6 +5,7 @@ The original CSV is never modified. In the copy, only **empty** price cells are 
 
 | Platform  | Full | Offer | Source |
 |-----------|------|-------|--------|
+| Uber Eats | O    | P     | menu pages you save from your browser (see below) |
 | PedidosYa | R    | S     | menu pages you save from your browser (see below) |
 | Rappi     | U    | V     | rappi.cl public store pages, fetched automatically |
 
@@ -20,7 +21,7 @@ Offer is `$0` when the dish has no discount (same as the existing rows).
 
 Options (pass to `./start.sh` or `node scraper/run.js`):
 
-- `--only rappi` / `--only pedidosya`: one platform only
+- `--only rappi` / `--only pedidosya` / `--only ubereats`: one platform only
 - `--restaurant "<col A value>"`: only that restaurant (repeatable)
 - `--retry`: retry Rappi restaurants already processed
 - `--dry-run`: don't write the output file
@@ -49,6 +50,16 @@ If a match is wrong or missing, set it in `scraper/stores.json`:
 ```json
 "milsabores_mila": { "search": "mila", "pedidosya_files": ["pedidosya_pages/Mila - Providencia ... PedidosYa.html"] }
 ```
+
+## Uber Eats: saving menus
+
+Uber Eats also blocks automated access, so it works the same way as PedidosYa. `pedidosya-bookmarklet.html` has a
+second button, **📥 Guardar menú Uber Eats**. Drag it to the bookmarks bar, open each store page on ubereats.com
+(e.g. `https://www.ubereats.com/cl/store/...`), and click it. It saves `ubereats_<store>.json` to Downloads.
+Then run `./start.sh --only ubereats`. A page saved with Ctrl+S anywhere in this folder also works.
+
+Pages are matched by store name. To pin a file, use `"ubereats_files": ["..."]` in `scraper/stores.json`.
+Bookmarklet source: `scraper/bookmarklet/ubereats.js`.
 
 ## Review / fix
 

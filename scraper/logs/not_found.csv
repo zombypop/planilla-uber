@@ -452,3 +452,8 @@ time,platform,csv_row,restaurant,dish,store,best_candidate,score
 2026-11-11T00:14:48.381Z,rappi,1302,wevo_burger,Wevo chessbacon burger,,,
 2026-11-11T00:14:48.388Z,rappi,1309,atomic_wingit,Alitas X10 + Aros de Cebolla,Wing It! - Ñuñoa,Korean Wings X10,26
 2026-11-11T00:14:48.391Z,rappi,1317,atomic_wingit,Mega Tenders Box 4,Wing It! - Ñuñoa,Combo 4 Chicken Tenders,48
+2026-11-11T10:29:29.736Z,ubereats,1118,Tarragona,Promo Box Recargado UBER,Tarragona - Florida Center,Promo Box Recargado,79
+2026-11-11T10:34:35.138Z,pedidosya,1117,Tarragona,Promo Box Recargado,Tarragona Mall Plaza Alameda,Box Zero Zero Coca Cola,42
+2026-11-11T10:34:35.140Z,pedidosya,1118,Tarragona,Promo Box Recargado UBER,Tarragona Mall Plaza Alameda,Box Zero Zero Coca Cola,42
+2026-11-11T10:34:35.141Z,pedidosya,1119,Tarragona,Promo Super Bowl DFD One,Tarragona Mall Plaza Alameda,Super Fillet Bowl,54
+2026-11-11T10:34:35.142Z,pedidosya,1120,Tarragona,Promo Bowl DFD Nuevos Usuarios,Tarragona Mall Plaza Alameda,Promo Sandwich Plus,37

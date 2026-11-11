@@ -1426,3 +1426,45 @@
 2026-11-11 00:14:52 [81/81] pedidosya: atomic_wingit ("wing it")
 2026-11-11 00:14:52   -> no saved page for this restaurant
 2026-11-11 00:14:52 done.
+2026-11-11 10:29:29 start: 2 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-11 10:29:29 [1/2] ubereats: milsabores_barrachalaca ("barra chalaca")
+2026-11-11 10:29:29   -> nothing to fill
+2026-11-11 10:29:29 [2/2] ubereats: Tarragona ("tarragona")
+2026-11-11 10:29:29 ubereats: 2 saved menu page(s) found: Barra Chalaca - Costanera / Tarragona - Florida Center
+2026-11-11 10:29:29     row 1117 "Promo Box Recargado" -> "Promo Box Recargado" @ Tarragona - Florida Center: $12,090 / $0 (score 100)
+2026-11-11 10:29:29     row 1119 "Promo Super Bowl DFD One" -> "Promo Super Bowl DFD One" @ Tarragona - Florida Center: $18,090 / $0 (score 100)
+2026-11-11 10:29:29     row 1120 "Promo Bowl DFD Nuevos Usuarios" -> "Promo Bowl DFD Nuevos Usuarios" @ Tarragona - Florida Center: $10,890 / $0 (score 100)
+2026-11-11 10:29:29     row 1121 "Trio Box Sandwich Clasicos" -> "Trio Box Sandwich Clasicos" @ Tarragona - Florida Center: $27,890 / $0 (score 100)
+2026-11-11 10:29:29     row 1122 "Salsas" -> "Salsas" @ Tarragona - Florida Center: $700 / $0 (score 100)
+2026-11-11 10:29:29     row 1123 "Dupla Box Sandwich Clasicos" -> "Dupla Box Sandwich Clasicos" @ Tarragona - Florida Center: $18,590 / $0 (score 100)
+2026-11-11 10:29:29     row 1124 "Promo Fajita - Coca Cola" -> "Promo Fajita - Coca Cola" @ Tarragona - Florida Center: $8,290 / $0 (score 100)
+2026-11-11 10:29:29     row 1125 "Dupla Box Fajitas Clasicas" -> "Dupla Box Fajitas Clasicas" @ Tarragona - Florida Center: $18,590 / $0 (score 100)
+2026-11-11 10:29:29     row 1126 "10 Empanadas Snack" -> "10 Empanadas Snack" @ Tarragona - Florida Center: $2,990 / $0 (score 100)
+2026-11-11 10:29:29     row 1127 "Super Full Basket" -> "Super Full Basket" @ Tarragona - Florida Center: $43,390 / $0 (score 100)
+2026-11-11 10:29:29     row 1128 "Trio Box Fajitas Clasicas" -> "Trio Box Fajitas Clasicas" @ Tarragona - Florida Center: $27,890 / $0 (score 100)
+2026-11-11 10:29:29     row 1129 "Trio Deluxe Box Sandwich" -> "Trio Deluxe Box Sandwich" @ Tarragona - Florida Center: $15,990 / $0 (score 100)
+2026-11-11 10:29:29     row 1130 "Party Mix" -> "Party Mix" @ Tarragona - Florida Center: $36,090 / $0 (score 100)
+2026-11-11 10:29:29     row 1131 "Caja de Papas" -> "Caja de Papas" @ Tarragona - Florida Center: $3,990 / $0 (score 100)
+2026-11-11 10:29:29   -> filled 14/15
+2026-11-11 10:29:29 done.
+2026-11-11 10:34:22 start: 1 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-11 10:34:22 [1/1] pedidosya: Tarragona ("tarragona")
+2026-11-11 10:34:22 pedidosya: 2 saved menu page(s) found: Barra Chalaca - Costanera Center / Tarragona Mall Plaza Alameda
+2026-11-11 10:34:22   -> no saved page for this restaurant
+2026-11-11 10:34:22 done.
+2026-11-11 10:34:35 start: 1 restaurants, 1315 rows; output -> Planilla-Cacho - Sheet2 - precios.csv
+2026-11-11 10:34:35 [1/1] pedidosya: Tarragona ("tarragona")
+2026-11-11 10:34:35 pedidosya: 2 saved menu page(s) found: Barra Chalaca - Costanera Center / Tarragona Mall Plaza Alameda
+2026-11-11 10:34:35     row 1121 "Trio Box Sandwich Clasicos" -> "Trio Box Sandwich Clasicos" @ Tarragona Mall Plaza Alameda: $14,990 / $0 (score 100)
+2026-11-11 10:34:35     row 1122 "Salsas" -> "Salsas" @ Tarragona Mall Plaza Alameda: $700 / $0 (score 100)
+2026-11-11 10:34:35     row 1123 "Dupla Box Sandwich Clasicos" -> "Dupla Box Sandwich Clasicos" @ Tarragona Mall Plaza Alameda: $11,990 / $0 (score 100)
+2026-11-11 10:34:35     row 1124 "Promo Fajita - Coca Cola" -> "Promo Fajita - Coca Cola" @ Tarragona Mall Plaza Alameda: $5,990 / $0 (score 100)
+2026-11-11 10:34:35     row 1125 "Dupla Box Fajitas Clasicas" -> "Dupla Box Fajitas Clasicas" @ Tarragona Mall Plaza Alameda: $11,990 / $0 (score 100)
+2026-11-11 10:34:35     row 1126 "10 Empanadas Snack" -> "10 Empanadas Snack" @ Tarragona Mall Plaza Alameda: $2,990 / $0 (score 100)
+2026-11-11 10:34:35     row 1127 "Super Full Basket" -> "Super Full Basket" @ Tarragona Mall Plaza Alameda: $27,990 / $0 (score 100)
+2026-11-11 10:34:35     row 1128 "Trio Box Fajitas Clasicas" -> "Trio Box Fajitas Clasicas" @ Tarragona Mall Plaza Alameda: $14,990 / $0 (score 100)
+2026-11-11 10:34:35     row 1129 "Trio Deluxe Box Sandwich" -> "Trio Deluxe Box Sandwich" @ Tarragona Mall Plaza Alameda: $15,990 / $0 (score 100)
+2026-11-11 10:34:35     row 1130 "Party Mix" -> "Party Mix" @ Tarragona Mall Plaza Alameda: $23,290 / $0 (score 100)
+2026-11-11 10:34:35     row 1131 "Caja de Papas" -> "Caja de Papas" @ Tarragona Mall Plaza Alameda: $3,990 / $0 (score 100)
+2026-11-11 10:34:35   -> filled 11/15
+2026-11-11 10:34:35 done.

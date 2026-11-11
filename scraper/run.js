@@ -17,6 +17,7 @@ const csv = require('./lib/csv');
 const match = require('./lib/match');
 const rappi = require('./lib/rappi');
 const pedidosya = require('./lib/pedidosya');
+const ubereats = require('./lib/ubereats');
 
 const ROOT = path.resolve(__dirname, '..');
 const INPUT = path.join(ROOT, 'Planilla-Cacho - Sheet2.csv');
@@ -34,7 +35,11 @@ const PLATFORMS = {
   // PedidosYa blocks automated access, so it is read from menu pages the user
   // saved with Ctrl+S anywhere inside this folder (no requests to PedidosYa).
   pedidosya: { full: 17, offer: 18, url: 19, enabled: true },
+  // Uber Eats also blocks automated access: read from saved menus, like PedidosYa.
+  ubereats: { full: 14, offer: 15, url: 16, enabled: true },
 };
+const DOMAINS = { rappi: 'rappi.cl', pedidosya: 'pedidosya.cl', ubereats: 'ubereats.com' };
+const SAVED_PARSERS = { pedidosya, ubereats };
 const THRESHOLD = 85;
 
 // Santiago points to search from when a chain isn't delivering to the first one.
@@ -138,12 +143,11 @@ fs.mkdirSync(LOGS, { recursive: true });
 const stores = readJson(STORES, {});
 for (const { r } of dataRows) {
   const n = r[COL.name];
-  stores[n] ??= { search: defaultSearch(n), rappi: [], pedidosya: [] };
+  stores[n] ??= { search: defaultSearch(n), rappi: [], pedidosya: [], ubereats: [] };
   for (const [p, cfg] of Object.entries(PLATFORMS)) {
     stores[n][p] ??= [];
     const u = String(r[cfg.url] || '').split('?')[0].trim();
-    const domain = p === 'rappi' ? 'rappi.cl' : 'pedidosya.cl';
-    if (u.includes(domain) && !stores[n][p].includes(u)) stores[n][p].push(u);
+    if (u.includes(DOMAINS[p]) && !stores[n][p].includes(u)) stores[n][p].push(u);
   }
 }
 writeJson(STORES, stores);
@@ -197,30 +201,35 @@ async function rappiMenus(name) {
   return menus;
 }
 
-// ------------------------------------------------- pedidosya (saved pages)
-let savedPages = null;
-function pedidosyaMenus(name) {
-  if (!savedPages) {
-    // saved pages / bookmarklet files: anywhere in this folder, plus pedidosya_*.json in Downloads
+// ---------------------------------- pedidosya / ubereats (saved menu pages)
+const savedPages = {};
+function savedMenus(p, name) {
+  if (!savedPages[p]) {
+    // saved pages / bookmarklet files: anywhere in this folder, plus <platform>_*.json in Downloads
     const dl = ['Downloads', 'Descargas'].map(d => path.join(os.homedir(), d)).filter(d => fs.existsSync(d));
+    const re = new RegExp(`^${p}_.*\\.json$`, 'i');
     const files = [...pedidosya.findSavedPages(ROOT, [__dirname]),
-      ...dl.flatMap(d => fs.readdirSync(d).filter(n => /^pedidosya_.*\.json$/i.test(n)).map(n => path.join(d, n)))];
-    savedPages = files.map(f => {
-      try { return pedidosya.parseSavedPage(f); } catch (e) { log(`  could not read ${f}: ${e.message}`); return null; }
+      ...dl.flatMap(d => fs.readdirSync(d).filter(n => re.test(n)).map(n => path.join(d, n)))];
+    savedPages[p] = files.map(f => {
+      try { return SAVED_PARSERS[p].parseSavedPage(f); } catch (e) { log(`  could not read ${f}: ${e.message}`); return null; }
     }).filter(m => m?.items?.length);
-    log(`PedidosYa: ${savedPages.length} saved menu page(s) found: ${savedPages.map(m => m.name).join(' / ') || '-'}`);
+    log(`${p}: ${savedPages[p].length} saved menu page(s) found: ${savedPages[p].map(m => m.name).join(' / ') || '-'}`);
   }
   const cfg = stores[name];
-  const pinned = (cfg.pedidosya_files || []).map(f => path.resolve(ROOT, f));
-  if (pinned.length) return savedPages.filter(m => pinned.includes(path.resolve(m.id)));
-  return savedPages.filter(m => match.score(cfg.search, m.name.split(' - ')[0]) >= 85);
+  const pinned = (cfg[`${p}_files`] || []).map(f => path.resolve(ROOT, f));
+  if (pinned.length) return savedPages[p].filter(m => pinned.includes(path.resolve(m.id)));
+  const byName = savedPages[p].filter(m => match.score(cfg.search, m.name.split(/ - | \(/)[0]) >= 85);
+  if (byName.length) return byName;
+  // fallback: store name starts with the search words ("Tarragona Mall Plaza Alameda")
+  const q = match.norm(cfg.search);
+  return savedPages[p].filter(m => (match.norm(m.name) + ' ').startsWith(q + ' '));
 }
 
 async function fillPlatform(p, name, rows) {
   const P = PLATFORMS[p];
   const todo = rows.filter(x => blank(x.r[P.full]));
   if (!todo.length) return 'nothing to fill';
-  const menus = p === 'rappi' ? await rappiMenus(name) : pedidosyaMenus(name);
+  const menus = p === 'rappi' ? await rappiMenus(name) : savedMenus(p, name);
   if (!menus.length) {
     if (p === 'rappi') todo.forEach(x => noteNotFound(p, x, '', null));
     return p === 'rappi' ? 'store not found' : 'no saved page for this restaurant';
@@ -261,7 +270,7 @@ async function fillPlatform(p, name, rows) {
     for (const [p, cfg] of Object.entries(PLATFORMS)) {
       if (!cfg.enabled || (opt.only && opt.only !== p)) continue;
       progress[p] ??= {};
-      // saved PedidosYa pages are cheap to re-check (new pages may have been added)
+      // saved PedidosYa / Uber Eats pages are cheap to re-check (new pages may have been added)
       if (p === 'rappi' && progress[p][name] && !opt.retry && !opt.restaurants.length) continue;
       log(`[${i}/${byRest.size}] ${p}: ${name} ("${stores[name].search}")`);
       try {

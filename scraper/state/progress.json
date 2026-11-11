@@ -611,8 +611,8 @@
       "result": "no saved page for this restaurant"
     },
     "Tarragona": {
-      "at": "2026-11-11T00:14:52.891Z",
-      "result": "no saved page for this restaurant"
+      "at": "2026-11-11T10:34:35.158Z",
+      "result": "filled 11/15"
     },
     "elementalcl": {
       "at": "2026-11-11T00:14:52.894Z",
@@ -649,6 +649,16 @@
     "atomic_wingit": {
       "at": "2026-11-11T00:14:52.915Z",
       "result": "no saved page for this restaurant"
+    }
+  },
+  "ubereats": {
+    "milsabores_barrachalaca": {
+      "at": "2026-11-11T10:29:29.715Z",
+      "result": "nothing to fill"
+    },
+    "Tarragona": {
+      "at": "2026-11-11T10:29:29.746Z",
+      "result": "filled 14/15"
     }
   }
 }

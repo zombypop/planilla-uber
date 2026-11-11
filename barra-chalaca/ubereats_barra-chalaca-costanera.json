@@ -1,0 +1,503 @@
+{
+  "source": "ubereats-bookmarklet",
+  "version": 1,
+  "savedAt": "2026-11-11T10:27:56.603Z",
+  "store": "Barra Chalaca - Costanera",
+  "url": "https://www.ubereats.com/cl/store/barra-chalaca-costanera/9G5OBOb1W3-W6wqnqrcCbg",
+  "cardsSeen": 101,
+  "discounts": 0,
+  "items": [
+    {
+      "name": "Lomo Saltado",
+      "full": 21900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Cebiche Chalaco",
+      "full": 19900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Chaufa Tapado Marino",
+      "full": 19900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Arroz con Mariscos",
+      "full": 19900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Tallarín Saltado Clásico",
+      "full": 18900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Milanesa de Pescado",
+      "full": 21900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Cebiche Apaltado",
+      "full": 19900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Limeña",
+      "full": 14900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Tallarín Saltado de Pollo",
+      "full": 15900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Super Chicharrón",
+      "full": 23900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Tallarines Verdes del Mar",
+      "full": 19900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Empanadas Porteña (2 unidades)",
+      "full": 8900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Leche de Tigre Chica",
+      "full": 9900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Arroz Norteño con Huancaína",
+      "full": 17900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Spaghetti al Ajillo con Camarones",
+      "full": 11900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Arroz Bachiche",
+      "full": 19900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Cebiche Carretillero",
+      "full": 21900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Camarones a la Milanesa",
+      "full": 13990,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Chaufa Estrellado",
+      "full": 16900,
+      "offer": 0,
+      "section": "Artículos destacados"
+    },
+    {
+      "name": "Tiradito Chucuito",
+      "full": 16900,
+      "offer": 0,
+      "section": "Tiraditos"
+    },
+    {
+      "name": "Tiradito Nikkei",
+      "full": 16900,
+      "offer": 0,
+      "section": "Tiraditos"
+    },
+    {
+      "name": "Tiradito Chalaco",
+      "full": 13900,
+      "offer": 0,
+      "section": "Tiraditos"
+    },
+    {
+      "name": "Cebiche Mixto",
+      "full": 21900,
+      "offer": 0,
+      "section": "Cebiches"
+    },
+    {
+      "name": "Cebiche del Puerto",
+      "full": 23900,
+      "offer": 0,
+      "section": "Cebiches"
+    },
+    {
+      "name": "Degustación de Cebiche",
+      "full": 29900,
+      "offer": 0,
+      "section": "Cebiches"
+    },
+    {
+      "name": "Cebiche Huanchaco",
+      "full": 19900,
+      "offer": 0,
+      "section": "Cebiches"
+    },
+    {
+      "name": "Causa Ochentera",
+      "full": 16900,
+      "offer": 0,
+      "section": "Causas"
+    },
+    {
+      "name": "Acebichada",
+      "full": 19900,
+      "offer": 0,
+      "section": "Causas"
+    },
+    {
+      "name": "Causa Nikkei",
+      "full": 19900,
+      "offer": 0,
+      "section": "Causas"
+    },
+    {
+      "name": "Causa Cangrejo",
+      "full": 15900,
+      "offer": 0,
+      "section": "Causas"
+    },
+    {
+      "name": "De Pejerrey",
+      "full": 11900,
+      "offer": 0,
+      "section": "Sanguches"
+    },
+    {
+      "name": "De Milanesa de Pescado",
+      "full": 12900,
+      "offer": 0,
+      "section": "Sanguches"
+    },
+    {
+      "name": "Criollo (Vacuno)",
+      "full": 15900,
+      "offer": 0,
+      "section": "Sanguches"
+    },
+    {
+      "name": "Tazón de Chilcano",
+      "full": 7900,
+      "offer": 0,
+      "section": "Sopitas"
+    },
+    {
+      "name": "Tazón Aguadito de Mariscos",
+      "full": 9900,
+      "offer": 0,
+      "section": "Sopitas"
+    },
+    {
+      "name": "Tazón de Parihuela",
+      "full": 13900,
+      "offer": 0,
+      "section": "Sopitas"
+    },
+    {
+      "name": "Tazón de Chupe Levantamuertos",
+      "full": 9900,
+      "offer": 0,
+      "section": "Sopitas"
+    },
+    {
+      "name": "Empanada Porteña (1 unidad)",
+      "full": 4790,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Wantanes de Mariscos (6 Unidades)",
+      "full": 8900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Wantanes de Mariscos (3 unidades)",
+      "full": 5900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Leche de Tigre Grande",
+      "full": 17900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Choritos a la Chalaca",
+      "full": 12900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Camarones Melcocha",
+      "full": 15900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Tortitas de Choclo",
+      "full": 16900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Yuca Rellena",
+      "full": 16900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Patacones del Mar",
+      "full": 17900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Anticuchos del Mar",
+      "full": 26900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Tequeños del Mar",
+      "full": 13900,
+      "offer": 0,
+      "section": "Piqueos"
+    },
+    {
+      "name": "Chicharrón de Calamar",
+      "full": 19900,
+      "offer": 0,
+      "section": "Chicharrones"
+    },
+    {
+      "name": "Pejerreyes Arrebozados",
+      "full": 17900,
+      "offer": 0,
+      "section": "Chicharrones"
+    },
+    {
+      "name": "Chicharrón de Pescado",
+      "full": 24900,
+      "offer": 0,
+      "section": "Chicharrones"
+    },
+    {
+      "name": "Salchipapa del Mar",
+      "full": 13900,
+      "offer": 0,
+      "section": "Chicharrones"
+    },
+    {
+      "name": "Chaufa Vegetariano",
+      "full": 6990,
+      "offer": 0,
+      "section": "Chaufas y Arroces"
+    },
+    {
+      "name": "Tallarín Saltado Marino",
+      "full": 14900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Tallarín Saltado de Camarones",
+      "full": 16900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Saltado Criollazo de Pesca del Día",
+      "full": 16900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Saltado Criollazo de Pollo",
+      "full": 14900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Tacu Tacu Chalaco",
+      "full": 17900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Churrasco de Mar",
+      "full": 18900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Ají de Gallina",
+      "full": 15900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Tallarin Revolcón",
+      "full": 13900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Fish and Chips Limeño",
+      "full": 21900,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Tallarin Vegetariano",
+      "full": 5990,
+      "offer": 0,
+      "section": "Platos y más platos"
+    },
+    {
+      "name": "Chicharrón Pollo Kid",
+      "full": 5990,
+      "offer": 0,
+      "section": "Niños"
+    },
+    {
+      "name": "Chicharrón de Pescado Kid",
+      "full": 5990,
+      "offer": 0,
+      "section": "Niños"
+    },
+    {
+      "name": "Pescado Entero",
+      "full": 34900,
+      "offer": 0,
+      "section": "Pescados Enteros"
+    },
+    {
+      "name": "Torta de Chocolate",
+      "full": 6900,
+      "offer": 0,
+      "section": "Postres"
+    },
+    {
+      "name": "Alfajor Rascacielo",
+      "full": 5900,
+      "offer": 0,
+      "section": "Postres"
+    },
+    {
+      "name": "Suspiro Limeño",
+      "full": 5900,
+      "offer": 0,
+      "section": "Postres"
+    },
+    {
+      "name": "Agua vital con gas",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Agua vital sin gas",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Original",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Light",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Coca-Cola Sin azúcar",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Sprite",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Sprite Sin Azúcar",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Fanta",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Fanta Sin Azúcar",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Ginger Ale",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Ginger Ale Sin Azúcar",
+      "full": 2900,
+      "offer": 0,
+      "section": "Bebidas"
+    },
+    {
+      "name": "Curatodo",
+      "full": 6900,
+      "offer": 0,
+      "section": "Jugos"
+    },
+    {
+      "name": "Chicha Morada",
+      "full": 4900,
+      "offer": 0,
+      "section": "Jugos"
+    }
+  ]
+}

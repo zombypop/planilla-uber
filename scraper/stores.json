@@ -6,6 +6,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/barra-chalaca--los-dominicos-953a20c3-26a0-44a9-9fb4-08268ada8e5d-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/barra-chalaca-los-dominicos/tiJIdSW5X2ayc8H02MVQEQ"
     ]
   },
   "barriochicken_cl": {
@@ -13,13 +16,17 @@
     "rappi": [
       "https://www.rappi.cl/restaurantes/900120248-barrio-chicken"
     ],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": []
   },
   "buffalo_waffles": {
     "search": "buffalo waffles",
     "rappi": [],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/buffalo-waffles-intermodal-la-cisterna-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/buffalo-waffles-downtown/qpgr5c1ySSy3F__2blSulQ"
     ]
   },
   "milas_cl": {
@@ -29,6 +36,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/milas-plaza-nunoa-6ed29eb0-960a-4c36-a46c-8eb856095547-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/%2Bmilas-plaza-nunoa/tDB4sZeQW-O3P13mcMY8tA"
     ]
   },
   "buffetexpress_cl": {
@@ -38,6 +48,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/buffet-express-arauco-maipu-744cd687-7d8f-4edd-a3c1-5f4fa82615b2-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/buffet-express-alto-las-condes/smv9NNEUQdS_Li_JDiJO6A"
     ]
   },
   "Carls_Jr_CL": {
@@ -47,6 +60,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/carls-jr-plaza-norte-cd569dca-5894-4449-8260-28cefb090b1e-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/store/carls-jr-los-dominicos/vilwapNKThyPdHGFXYztCw"
     ]
   },
   "chicken_factory": {
@@ -56,6 +72,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/chicken-factory-santiago-centro-62f1379e-b937-4296-91c4-bc5ff8114c47-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/store/chicken-factory-padre-hurtado/-RF8PSlPQjGJ5y_g1L1ztA"
     ]
   },
   "chilis_alsea": {
@@ -63,7 +82,8 @@
     "rappi": [],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/chilis-burger-fried-chicken-mall-plaza-los-dominicos-4e41ad89-f0f6-45aa-9878-ece2b23009ae-menu"
-    ]
+    ],
+    "ubereats": []
   },
   "China Wok_Grupo Degasa": {
     "search": "china wok",
@@ -72,19 +92,24 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/china-wok-estacion-central-menu"
-    ]
+    ],
+    "ubereats": []
   },
   "atomic_clubdelgohan": {
     "search": "club del gohan",
     "rappi": [
       "https://www.rappi.cl/restaurantes/900114003-club-del-gohan"
     ],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": [
+      "https://www.ubereats.com/store/club-del-gohan-los-dominicos/KACdgFU_UxyIXnsjqaxkbg"
+    ]
   },
   "atomic_clubdelpoke": {
     "search": "club del poke",
     "rappi": [],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": []
   },
   "Club del Poke - La Florida III": {
     "search": "club del poke",
@@ -93,6 +118,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/club-del-poke--la-florida-iii-43ed5cb4-b267-45df-8ce3-e9e2a21b5135-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl-en/store/club-del-poke-la-florida-iii/5c62NdYjVfmTvtbr5PeiFw"
     ]
   },
   "Doggis_Grupo G&N": {
@@ -102,7 +130,8 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/doggis-mall-paseo-san-bernardo-menu"
-    ]
+    ],
+    "ubereats": []
   },
   "Juan Maestro_Grupo G&N": {
     "search": "juan maestro",
@@ -112,6 +141,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/juan-maestro-mall-florida-center-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/juan-maestro-mall-paseo-san-bernardo/wUOm6nP3Rgqhrt65358EhQ"
     ]
   },
   "doggis_heladeria_g&n": {
@@ -119,7 +151,10 @@
     "rappi": [
       "https://www.rappi.cl/restaurantes/900087964-doggis-heladeria"
     ],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/doggis-heladeria-apumanque/OTmxLbofWImsDjVcI8Xabg"
+    ]
   },
   "domino_cl": {
     "search": "domino's pizza",
@@ -128,6 +163,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/domino-mallplaza-vespucio-e0a04c46-0767-4dda-8eb5-7e6f266e667e-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/domino-los-dominicos/aL2LPLV5TYOD38K873ldCA"
     ]
   },
   "milsabores_dulceluna": {
@@ -137,6 +175,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/dulce-luna--florida-center-54a778b0-0176-4d56-9a7a-fa1f954cf763-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/dulce-luna-alto-las-condes/Uy5qUaMWV5iMIdliyGDNkA"
     ]
   },
   "DunkinDonuts_MS_CL": {
@@ -146,6 +187,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/dunkin-donuts-panoramico-ffade574-9184-41e0-87f5-4823e923e512-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/dunkin-plaza-los-dominicos-local/EVvgbvJQRdu8e3rAr9lnBQ"
     ]
   },
   "milsabores_bodegondelima": {
@@ -153,7 +197,10 @@
     "rappi": [
       "https://www.rappi.cl/restaurantes/900079312-el-bodegon-taberna-limena"
     ],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/bodegon-de-lima-open-kennedy/dFpc9UgRXiawcPwkIPU49g"
+    ]
   },
   "elcaferosa": {
     "search": "el cafe rosa",
@@ -162,6 +209,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/el-cafe-rosa-penalolen-ca124e14-8660-4e73-950c-0783b5948147-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/el-cafe-rosa-colina/QJnwbP4hXuqGqMadDnC23A"
     ]
   },
   "roof_burger_cl": {
@@ -171,6 +221,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/roof-burger--manuel-montt-69125d84-2cfb-4650-8314-241287b33d41-menuu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/roof-burger-vitacura/w_JB84CPWJ6rYWsdi4qs8Q"
     ]
   },
   "milsabores_eljapones": {
@@ -178,7 +231,8 @@
     "rappi": [
       "https://www.rappi.cl/restaurantes/900097588-el-japones"
     ],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": []
   },
   "milsabores_enriquetomas": {
     "search": "enrique tomas",
@@ -187,6 +241,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/enrique-tomas--alto-las-condes-ac6a85f6-e83c-4ab5-9da2-b73e0e236fd0-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/enrique-tomas-costanera/QlgDGLebX2ipGQTL0wQPMQ"
     ]
   },
   "milsabores_lady": {
@@ -196,6 +253,9 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/lady-focaccia--costanera-center-29c1a889-289f-4daa-9f3f-154a5915c2ba-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/lady-focaccia-los-dominicos/JRyh89l_V5inaTvhcX8JFw"
     ]
   },
   "fuente_chilena": {
@@ -203,7 +263,10 @@
     "rappi": [
       "https://www.rappi.cl/restaurantes/900016229-fuente-chilena"
     ],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/fuente-chilena-apoquindo/Fp-MCK9hQhuxSQPTEeKRGQ"
+    ]
   },
   "Fork_CL": {
     "search": "fork",
@@ -212,46 +275,58 @@
     ],
     "pedidosya": [
       "https://www.pedidosya.cl/restaurantes/santiago/fork-magdalena-menu"
+    ],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/fork-las-condes/Y-_bEu6VS2ydGi__Sb_AQg"
     ]
   },
   "Momofuku (Ultimate Parent)": {
     "search": "momofuku",
     "rappi": [],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": []
   },
   "momofuku (ultimate parent)": {
     "search": "momofuku",
     "rappi": [],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": []
   },
   "Grido Mall Alto Pe�alolen": {
     "search": "grido",
     "rappi": [],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": []
   },
   "Grido_RM": {
     "search": "grido",
     "rappi": [],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": []
   },
   "7 cortes_milsabores": {
     "search": "7 cortes",
     "rappi": [
       "https://www.rappi.cl/restaurantes/900079309-7-cortes"
     ],
-    "pedidosya": []
+    "pedidosya": [],
+    "ubereats": []
   },
   "mesondelmarinero_milsabores": {
     "search": "meson del marinero",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": [
+      "https://www.ubereats.com/cl/store/meson-del-marinero-open-kennedy/ENVIhL4uWWKPQ_o_DFUgaQ"
+    ]
   },
   "milsabores_ekeko": {
     "search": "ekeko",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "milsabores_fuente": {
     "search": "fuente mardoqueo",
@@ -259,31 +334,36 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900040849"
-    ]
+    ],
+    "ubereats": []
   },
   "milsabores_lapiazza": {
     "search": "la piazza",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "milsabores_havanna": {
     "search": "havanna",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "Más Que Empanada (Viña del Mar)": {
     "search": "mas que empanada",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "idilico_cl": {
     "search": "idilico",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "atomic_itacate": {
     "search": "itacate",
@@ -291,13 +371,15 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900118383"
-    ]
+    ],
+    "ubereats": []
   },
   "milsabores_jalisco": {
     "search": "jalisco",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "jimmyjohns_cl": {
     "search": "jimmy john's",
@@ -305,7 +387,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900119214"
-    ]
+    ],
+    "ubereats": []
   },
   "johnnyrocketschile": {
     "search": "johnny rockets",
@@ -313,7 +396,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900057203"
-    ]
+    ],
+    "ubereats": []
   },
   "Juan Maestro Centro Comercial Maipu": {
     "search": "juan maestro",
@@ -321,7 +405,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900120197"
-    ]
+    ],
+    "ubereats": []
   },
   "Juan Maestro Líder Vicuña Mackenna": {
     "search": "juan maestro",
@@ -329,7 +414,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900120197"
-    ]
+    ],
+    "ubereats": []
   },
   "just_burger_cl": {
     "search": "just burger",
@@ -337,7 +423,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900071197"
-    ]
+    ],
+    "ubereats": []
   },
   "sin_miedo_burgers": {
     "search": "sin miedo",
@@ -345,13 +432,15 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900106939"
-    ]
+    ],
+    "ubereats": []
   },
   "kairos": {
     "search": "kairos",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "krispykreme_cl": {
     "search": "krispykreme",
@@ -359,7 +448,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900104174"
-    ]
+    ],
+    "ubereats": []
   },
   "milsabores_la_argentina": {
     "search": "la argentina",
@@ -367,13 +457,15 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900097925"
-    ]
+    ],
+    "ubereats": []
   },
   "la ermita": {
     "search": "la ermita",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "milsabores_lasanguchera": {
     "search": "la sanguchera",
@@ -381,7 +473,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900022691"
-    ]
+    ],
+    "ubereats": []
   },
   "LittleCaesarsCL": {
     "search": "little caesars",
@@ -389,19 +482,22 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900103860"
-    ]
+    ],
+    "ubereats": []
   },
   "lovdo_g&n_cl": {
     "search": "lovdo",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "milsabores_mammamia": {
     "search": "mamma mia",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "mamut_chile": {
     "search": "mamut",
@@ -409,13 +505,15 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900115313"
-    ]
+    ],
+    "ubereats": []
   },
   "mariberico": {
     "search": "mariberico",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "melt_pizzas": {
     "search": "melt pizzas",
@@ -423,7 +521,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900027455"
-    ]
+    ],
+    "ubereats": []
   },
   "milsabores_mila": {
     "search": "mila",
@@ -432,7 +531,8 @@
     "rappi_resolved": [
       "900085686",
       "900082903"
-    ]
+    ],
+    "ubereats": []
   },
   "atomic_mrtaste": {
     "search": "mr taste",
@@ -440,7 +540,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900108651"
-    ]
+    ],
+    "ubereats": []
   },
   "milsabores_muusteak": {
     "search": "muu steak",
@@ -448,19 +549,22 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900031768"
-    ]
+    ],
+    "ubereats": []
   },
   "noahs_ cl": {
     "search": "noah's",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "alsea_pfchangs": {
     "search": "p.f. chang's",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "papajohns_ch": {
     "search": "papa john's",
@@ -468,7 +572,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900017945"
-    ]
+    ],
+    "ubereats": []
   },
   "pizzapizza_cl": {
     "search": "pizza pizza",
@@ -478,7 +583,8 @@
       "900090811",
       "900025733",
       "900016331"
-    ]
+    ],
+    "ubereats": []
   },
   "atomic_poked": {
     "search": "poked",
@@ -487,25 +593,29 @@
     "rappi_resolved": [
       "900106425",
       "900069639"
-    ]
+    ],
+    "ubereats": []
   },
   "sbarro_pronto": {
     "search": "sbarro",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "Streat Burger_DD_CL": {
     "search": "streat burger",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "streat_icecream": {
     "search": "streat",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "SushiBlues_Grupo Food Hall": {
     "search": "sushi blues",
@@ -513,7 +623,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900019613"
-    ]
+    ],
+    "ubereats": []
   },
   "milsabores_takeawok": {
     "search": "take a wok",
@@ -521,7 +632,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900022807"
-    ]
+    ],
+    "ubereats": []
   },
   "milsabores_tanta": {
     "search": "tanta",
@@ -529,7 +641,8 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900031827"
-    ]
+    ],
+    "ubereats": []
   },
   "Tarragona": {
     "search": "tarragona",
@@ -537,19 +650,22 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900018997"
-    ]
+    ],
+    "ubereats": []
   },
   "elementalcl": {
     "search": "elemental",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "pollostop_ch": {
     "search": "pollo stop",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "tommy beans_chile": {
     "search": "tommy beans",
@@ -557,13 +673,15 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900024791"
-    ]
+    ],
+    "ubereats": []
   },
   "udon_parent_tbd": {
     "search": "udon",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "underpizza_cl": {
     "search": "under pizza",
@@ -571,13 +689,15 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900090811"
-    ]
+    ],
+    "ubereats": []
   },
   "atomic_vittore": {
     "search": "vittore",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "wendyscl": {
     "search": "wendy's",
@@ -585,13 +705,15 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900104236"
-    ]
+    ],
+    "ubereats": []
   },
   "wevo_burger": {
     "search": "wevo",
     "rappi": [],
     "pedidosya": [],
-    "rappi_resolved": []
+    "rappi_resolved": [],
+    "ubereats": []
   },
   "atomic_wingit": {
     "search": "wing it",
@@ -599,6 +721,7 @@
     "pedidosya": [],
     "rappi_resolved": [
       "900096801"
-    ]
+    ],
+    "ubereats": []
   }
 }
